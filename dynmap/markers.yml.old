@@ -1,0 +1,42 @@
+%YAML 1.1
+---
+isSafe: true
+icons: {
+    }
+sets:
+    offline_players:
+        hide: true
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Offline
+        markers:
+            StonerWitchHya:
+                world: VXSK2
+                markup: false
+                x: 58.16697695493797
+                icon: offlineuser
+                y: 139.0625
+                z: -1029.196562018921
+                label: StonerWitchHya
+        lines: {
+            }
+        layerprio: 0
+        minzoom: 0
+    markers:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Markers
+        markers: {
+            }
+        lines: {
+            }
+        layerprio: 0
+playersets: {
+    }

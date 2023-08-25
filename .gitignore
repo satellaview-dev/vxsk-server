@@ -1,0 +1,26 @@
+*.log
+*.log.gz
+*.properties
+mc2discord.toml
+eula.txt
+# ocamlbuild working directory
+_build/
+
+# ocamlbuild targets
+*.byte
+*.native
+
+# oasis generated files
+setup.data
+setup.log
+
+# Merlin configuring file for Vim and Emacs
+.merlin
+
+# Dune generated files
+*.install
+
+# Local OPAM switch
+_opam/
+mods/AoA3-1.19.3-3.6.22.jar
+dynmap/web/tiles/*

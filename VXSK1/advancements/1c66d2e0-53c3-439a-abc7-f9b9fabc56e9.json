@@ -1,0 +1,127 @@
+{
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2023-08-07 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2023-08-07 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2023-08-07 01:20:56 +0000"
+    },
+    "done": false
+  },
+  "aoa3:completionist/by_the_books": {
+    "criteria": {
+      "legitimate": "2023-08-07 01:20:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2023-08-07 01:20:56 +0000"
+    },
+    "done": false
+  },
+  "mt:load": {
+    "criteria": {
+      "requirement": "2023-08-07 01:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2023-08-07 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/root": {
+    "criteria": {
+      "c1": "2023-08-07 01:20:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2023-08-07 01:20:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2023-08-07 01:20:56 +0000"
+    },
+    "done": false
+  },
+  "nucleus:initiate_0.1.4": {
+    "criteria": {
+      "impossible": "2023-08-07 01:20:55 +0000"
+    },
+    "done": true
+  },
+  "smithed.damage:v0.1.0/player/event": {
+    "criteria": {
+      "is_magic": "2023-08-07 01:21:52 +0000",
+      "bypass_armor": "2023-08-07 01:21:56 +0000"
+    },
+    "done": false
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2023-08-07 01:20:55 +0000"
+    },
+    "done": true
+  },
+  "manic:technical/initiate_1.0.3": {
+    "criteria": {
+      "tick": "2023-08-07 01:20:55 +0000"
+    },
+    "done": true
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:allium_fields": "2023-08-07 01:20:56 +0000",
+      "byg:orchard": "2023-08-07 01:23:05 +0000",
+      "byg:baobab_savanna": "2023-08-07 01:26:19 +0000",
+      "byg:dacite_shore": "2023-08-07 01:26:20 +0000"
+    },
+    "done": false
+  },
+  "majruszsdifficulty:progressive_difficulty/bleeding": {
+    "criteria": {
+      "bleeding_applied": "2023-08-07 01:21:52 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/normal_mode": {
+    "criteria": {
+      "game_state": "2023-08-07 01:20:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2023-08-07 01:20:56 +0000"
+    },
+    "done": false
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2023-08-07 01:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-08-07 01:23:11 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}
