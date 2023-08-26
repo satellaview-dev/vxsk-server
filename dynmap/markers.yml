@@ -26,8 +26,15 @@ sets:
         areas: {
             }
         label: Markers
-        markers: {
-            }
+        markers:
+            marker_1:
+                world: VXSK2
+                markup: false
+                x: -539.6140030065444
+                icon: default
+                y: -48.9375
+                z: -1787.1769937176157
+                label: city3
         lines: {
             }
         layerprio: 0

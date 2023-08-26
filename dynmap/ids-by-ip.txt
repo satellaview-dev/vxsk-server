@@ -10,3 +10,5 @@
 - GodsGiftToGrinds
 '107_139_30_17':
 - StonerWitchHya
+'70_172_110_73':
+- satellaview_dev

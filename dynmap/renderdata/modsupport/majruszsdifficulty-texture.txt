@@ -1,0 +1,8 @@
+modname:majruszsdifficulty
+
+texture:id=enderium_shard_ore,filename=assets/majruszsdifficulty/textures/block/enderium_shard_ore.png,xcount=1,ycount=1
+texture:id=enderium_block,filename=assets/majruszsdifficulty/textures/block/enderium_block.png,xcount=1,ycount=1
+texture:id=end_stone,filename=assets/minecraft/textures/block/end_stone.png,xcount=1,ycount=1
+block:id=%enderium_shard_ore,patch0=0:enderium_shard_ore,patch1=0:enderium_shard_ore,patch2=0:enderium_shard_ore,patch3=0:enderium_shard_ore,patch4=0:enderium_shard_ore,patch5=0:enderium_shard_ore,stdrot=true
+block:id=%enderium_block,patch0=0:enderium_block,patch1=0:enderium_block,patch2=0:enderium_block,patch3=0:enderium_block,patch4=0:enderium_block,patch5=0:enderium_block,stdrot=true
+block:id=%infested_end_stone,patch0=0:end_stone,patch1=0:end_stone,patch2=0:end_stone,patch3=0:end_stone,patch4=0:end_stone,patch5=0:end_stone,stdrot=true

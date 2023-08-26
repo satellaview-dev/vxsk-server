@@ -13,14 +13,14 @@ sets:
             }
         label: Offline
         markers:
-            StonerWitchHya:
+            satellaview_dev:
                 world: VXSK2
                 markup: false
-                x: 58.16697695493797
+                x: -510.69101994311
                 icon: offlineuser
-                y: 139.0625
-                z: -1029.196562018921
-                label: StonerWitchHya
+                y: -50.0
+                z: -1788.9427824659097
+                label: satellaview_dev
         lines: {
             }
         layerprio: 0
@@ -33,8 +33,15 @@ sets:
         areas: {
             }
         label: Markers
-        markers: {
-            }
+        markers:
+            marker_1:
+                world: VXSK2
+                markup: false
+                x: -539.6140030065444
+                icon: default
+                y: -48.9375
+                z: -1787.1769937176157
+                label: city3
         lines: {
             }
         layerprio: 0
