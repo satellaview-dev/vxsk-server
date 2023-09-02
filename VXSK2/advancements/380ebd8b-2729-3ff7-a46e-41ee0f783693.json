@@ -31,7 +31,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2023-08-23 14:32:43 -0700"
+      "log_spam_fixer": "2023-08-25 23:44:09 -0700"
     },
     "done": false
   },
@@ -697,6 +697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2023-08-25 23:32:44 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2023-08-23 00:19:20 -0700"
@@ -807,7 +813,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2023-08-23 14:32:43 -0700"
+      "log_spam_fixer": "2023-08-25 23:44:09 -0700"
     },
     "done": false
   },
@@ -924,7 +930,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-08-23 14:32:43 -0700"
+      "log_spam_fixer": "2023-08-25 23:44:09 -0700"
     },
     "done": false
   },
@@ -982,6 +988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_hoe": "2023-08-25 23:30:48 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2023-08-22 19:00:10 -0700"
@@ -1026,7 +1038,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2023-08-23 14:32:43 -0700"
+      "log_spam_fixer": "2023-08-25 23:44:09 -0700"
     },
     "done": false
   },
@@ -1122,7 +1134,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2023-08-23 14:32:43 -0700"
+      "log_spam_fixer": "2023-08-25 23:44:09 -0700"
     },
     "done": false
   },
@@ -1240,12 +1252,6 @@
     },
     "done": true
   },
-  "smithed.actionbar:v0.2.0/vanilla/bed/slept_in_bed": {
-    "criteria": {
-      "requirement": "2023-08-23 14:28:19 -0700"
-    },
-    "done": true
-  },
   "byg:recipes/byg.byg/baobab_boat": {
     "criteria": {
       "has_planks": "2023-08-22 23:42:33 -0700"
@@ -1266,7 +1272,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-08-23 14:32:43 -0700"
+      "log_spam_fixer": "2023-08-25 23:44:09 -0700"
     },
     "done": false
   },
@@ -1278,7 +1284,7 @@
   },
   "mt:entity_hit_system/on_hit": {
     "criteria": {
-      "not_target": "2023-08-23 13:54:23 -0700"
+      "not_target": "2023-08-25 23:42:31 -0700"
     },
     "done": false
   },
@@ -1540,6 +1546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_hoe": "2023-08-25 23:30:48 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-08-23 00:19:34 -0700"
@@ -1572,7 +1584,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2023-08-23 14:32:43 -0700"
+      "log_spam_fixer": "2023-08-25 23:44:09 -0700"
     },
     "done": false
   },
@@ -1611,7 +1623,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2023-08-23 14:32:43 -0700"
+      "log_spam_fixer": "2023-08-25 23:44:09 -0700"
     },
     "done": false
   },
@@ -1755,7 +1767,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-08-23 14:32:43 -0700"
+      "log_spam_fixer": "2023-08-25 23:44:09 -0700"
     },
     "done": false
   },
@@ -1768,6 +1780,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2023-08-23 13:23:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2023-08-25 23:41:26 -0700"
     },
     "done": true
   },
@@ -1797,7 +1815,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2023-08-23 14:32:43 -0700"
+      "log_spam_fixer": "2023-08-25 23:44:09 -0700"
     },
     "done": false
   },
@@ -1825,17 +1843,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2023-08-23 14:32:43 -0700"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2023-08-23 13:52:29 -0700"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2023-08-25 23:44:09 -0700"
+    },
+    "done": false
   },
   "mt:treasure_advancements/first_rare_treasure": {
     "criteria": {
@@ -1869,9 +1887,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2023-08-23 14:32:43 -0700"
+      "requirement": "2023-08-25 23:44:18 -0700",
+      "log_spam_fixer": "2023-08-25 23:44:09 -0700"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {

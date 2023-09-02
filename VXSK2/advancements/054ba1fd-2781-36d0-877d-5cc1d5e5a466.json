@@ -143,12 +143,6 @@
     },
     "done": true
   },
-  "mt:entity_hit_system/on_hurt": {
-    "criteria": {
-      "nbit31": "2023-08-25 17:41:26 -0700"
-    },
-    "done": false
-  },
   "vanilla_refresh:biome/badlands": {
     "criteria": {
       "requirement": "2023-08-20 14:44:38 -0700"
@@ -324,6 +318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2023-08-26 06:37:53 -0700"
+    },
+    "done": true
+  },
   "literagame:more_bossbars": {
     "criteria": {
       "tick": "2023-08-20 13:50:14 -0700"
@@ -417,6 +417,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-08-19 19:14:42 -0700"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2023-08-26 06:24:28 -0700"
     },
     "done": true
   },
@@ -720,6 +726,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2023-08-29 09:25:53 -0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2023-08-14 09:16:29 -0700"
@@ -789,15 +801,20 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2023-08-20 14:11:14 -0700",
+      "minecraft:blaze": "2023-08-26 06:25:43 -0700",
       "minecraft:skeleton": "2023-08-14 09:23:30 -0700",
+      "minecraft:ravager": "2023-08-29 10:17:22 -0700",
       "minecraft:ghast": "2023-08-20 00:14:57 -0700",
       "minecraft:vindicator": "2023-08-20 14:11:04 -0700",
       "minecraft:spider": "2023-08-19 18:43:07 -0700",
       "minecraft:creeper": "2023-08-14 09:25:33 -0700",
       "minecraft:slime": "2023-08-19 20:37:06 -0700",
+      "minecraft:evoker": "2023-08-29 10:40:20 -0700",
       "minecraft:phantom": "2023-08-20 17:17:17 -0700",
+      "minecraft:witch": "2023-08-26 19:39:44 -0700",
       "minecraft:husk": "2023-08-19 18:10:07 -0700",
       "minecraft:enderman": "2023-08-20 00:15:58 -0700",
+      "minecraft:vex": "2023-08-29 10:21:03 -0700",
       "minecraft:zombie": "2023-08-14 09:19:23 -0700",
       "minecraft:zombie_villager": "2023-08-19 21:06:58 -0700"
     },
@@ -811,7 +828,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 17:54:06 -0700"
+      "log_spam_fixer": "2023-09-01 17:01:36 -0700"
     },
     "done": false
   },
@@ -914,6 +931,18 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2023-08-20 15:20:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2023-08-29 09:50:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2023-08-26 06:37:40 -0700"
     },
     "done": true
   },
@@ -1069,7 +1098,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 17:54:06 -0700"
+      "log_spam_fixer": "2023-09-01 17:01:36 -0700"
     },
     "done": false
   },
@@ -1417,7 +1446,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 17:54:06 -0700"
+      "log_spam_fixer": "2023-09-01 17:01:36 -0700"
     },
     "done": false
   },
@@ -1435,7 +1464,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 17:54:06 -0700"
+      "log_spam_fixer": "2023-09-01 17:01:36 -0700"
     },
     "done": false
   },
@@ -1465,16 +1494,26 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2023-08-26 06:06:42 -0700",
+      "minecraft:eroded_badlands": "2023-08-26 06:10:16 -0700",
       "minecraft:wooded_badlands": "2023-08-20 14:51:14 -0700",
       "minecraft:badlands": "2023-08-20 14:44:38 -0700",
       "minecraft:savanna_plateau": "2023-08-20 14:56:55 -0700",
+      "minecraft:beach": "2023-08-25 19:58:02 -0700",
       "minecraft:lukewarm_ocean": "2023-08-19 20:46:22 -0700",
       "minecraft:river": "2023-08-19 20:07:33 -0700",
+      "minecraft:stony_shore": "2023-08-26 06:13:31 -0700",
       "minecraft:dripstone_caves": "2023-08-20 14:15:10 -0700",
+      "minecraft:forest": "2023-08-26 06:13:43 -0700",
       "minecraft:lush_caves": "2023-08-23 16:10:15 -0700",
+      "minecraft:desert": "2023-08-26 06:05:09 -0700",
       "minecraft:jungle": "2023-08-20 16:53:34 -0700",
+      "minecraft:ocean": "2023-08-25 19:57:15 -0700",
+      "minecraft:warm_ocean": "2023-08-25 19:57:42 -0700",
+      "minecraft:deep_lukewarm_ocean": "2023-08-25 19:57:25 -0700",
       "minecraft:deep_dark": "2023-08-19 20:57:40 -0700",
-      "minecraft:savanna": "2023-08-19 19:58:48 -0700"
+      "minecraft:savanna": "2023-08-19 19:58:48 -0700",
+      "minecraft:plains": "2023-08-26 05:56:26 -0700"
     },
     "done": false
   },
@@ -1540,7 +1579,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 17:54:06 -0700"
+      "log_spam_fixer": "2023-09-01 17:01:36 -0700"
     },
     "done": false
   },
@@ -1622,9 +1661,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2023-08-26 06:37:40 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2023-08-14 09:18:03 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/plains": {
+    "criteria": {
+      "requirement": "2023-08-26 05:56:25 -0700"
     },
     "done": true
   },
@@ -1776,9 +1827,15 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 17:54:06 -0700"
+      "log_spam_fixer": "2023-09-01 17:01:36 -0700"
     },
     "done": false
+  },
+  "2mal3:adco/installed": {
+    "criteria": {
+      "trigger": "2023-08-29 08:16:16 -0700"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
@@ -1872,6 +1929,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:infernal_dunes": "2023-08-26 06:24:28 -0700",
       "incendium:inverted_forest": "2023-08-22 22:49:49 -0700",
       "incendium:volcanic_deltas": "2023-08-22 23:05:05 -0700"
     },
@@ -2027,9 +2085,11 @@
       "cooked_mutton": "2023-08-14 09:42:07 -0700",
       "cooked_beef": "2023-08-14 09:26:46 -0700",
       "bread": "2023-08-19 19:51:02 -0700",
+      "golden_apple": "2023-08-29 10:08:38 -0700",
       "rotten_flesh": "2023-08-14 09:10:44 -0700",
       "melon_slice": "2023-08-20 16:09:34 -0700",
-      "cooked_chicken": "2023-08-14 09:26:00 -0700"
+      "cooked_chicken": "2023-08-14 09:26:00 -0700",
+      "cooked_salmon": "2023-08-29 09:31:16 -0700"
     },
     "done": false
   },
@@ -2084,6 +2144,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2023-08-14 09:20:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2023-08-29 09:50:48 -0700"
     },
     "done": true
   },
@@ -2377,7 +2443,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 17:54:06 -0700"
+      "log_spam_fixer": "2023-09-01 17:01:36 -0700"
     },
     "done": false
   },
@@ -2402,6 +2468,12 @@
   "byg:recipes/byg.byg/fir_chest_boat": {
     "criteria": {
       "has_boat": "2023-08-19 19:14:14 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/forest": {
+    "criteria": {
+      "requirement": "2023-08-26 06:13:43 -0700"
     },
     "done": true
   },
@@ -2447,6 +2519,18 @@
     },
     "done": true
   },
+  "mt:treasure_advancements/first_common_badlands_treasure": {
+    "criteria": {
+      "obtainchest": "2023-08-26 06:37:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-08-26 06:37:53 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2023-08-19 20:07:50 -0700"
@@ -2474,6 +2558,18 @@
   "mt:treasure_advancements/first_rare_lush_caves_treasure": {
     "criteria": {
       "obtainchest": "2023-08-23 16:15:49 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/desert": {
+    "criteria": {
+      "requirement": "2023-08-26 06:05:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2023-08-29 10:10:40 -0700"
     },
     "done": true
   },
@@ -2545,7 +2641,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 17:54:06 -0700"
+      "log_spam_fixer": "2023-09-01 17:01:36 -0700"
     },
     "done": false
   },
@@ -2629,7 +2725,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 17:54:06 -0700"
+      "log_spam_fixer": "2023-09-01 17:01:36 -0700"
     },
     "done": false
   },
@@ -2725,7 +2821,8 @@
   },
   "mt:entity_hit_system/on_hit": {
     "criteria": {
-      "not_target": "2023-08-25 16:29:35 -0700"
+      "not_target": "2023-08-29 10:48:53 -0700",
+      "target": "2023-08-29 10:47:33 -0700"
     },
     "done": false
   },
@@ -2897,6 +2994,12 @@
     },
     "done": true
   },
+  "vanilla_refresh:biome/incendium/infernal_dunes": {
+    "criteria": {
+      "requirement": "2023-08-26 06:24:29 -0700"
+    },
+    "done": true
+  },
   "vanilla_refresh:location/the_nether": {
     "criteria": {
       "requirement": "2023-08-22 22:45:45 -0700"
@@ -3015,12 +3118,16 @@
     "criteria": {
       "byg:rainbow_beach": "2023-08-14 09:06:10 -0700",
       "byg:sierra_badlands": "2023-08-20 14:43:01 -0700",
+      "byg:dead_sea": "2023-08-26 05:57:02 -0700",
       "byg:quartz_desert": "2023-08-20 00:13:55 -0700",
       "byg:firecracker_shrubland": "2023-08-14 09:29:09 -0700",
+      "byg:magma_wastes": "2023-08-26 06:23:52 -0700",
+      "byg:atacama_desert": "2023-08-26 05:57:49 -0700",
       "byg:red_rock_valley": "2023-08-20 14:44:28 -0700",
       "byg:baobab_savanna": "2023-08-14 09:09:00 -0700",
       "byg:basalt_barrera": "2023-08-14 09:13:05 -0700",
       "byg:lush_stacks": "2023-08-19 20:49:25 -0700",
+      "byg:mojave_desert": "2023-08-26 06:11:13 -0700",
       "byg:windswept_desert": "2023-08-20 17:13:21 -0700"
     },
     "done": false
@@ -3091,6 +3198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2023-08-26 06:37:53 -0700"
+    },
+    "done": true
+  },
   "1_splatus:ultris/root": {
     "criteria": {
       "c1": "2023-08-14 09:06:09 -0700"
@@ -3147,7 +3260,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 17:54:06 -0700"
+      "log_spam_fixer": "2023-09-01 17:01:36 -0700"
     },
     "done": false
   },
@@ -3183,7 +3296,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 17:54:06 -0700"
+      "log_spam_fixer": "2023-09-01 17:01:36 -0700"
     },
     "done": false
   },
@@ -3231,9 +3344,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 17:54:06 -0700"
+      "requirement": "2023-09-01 17:01:47 -0700",
+      "log_spam_fixer": "2023-09-01 17:01:36 -0700"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
@@ -3307,6 +3421,12 @@
     },
     "done": true
   },
+  "global:2mal3": {
+    "criteria": {
+      "trigger": "2023-08-29 08:16:16 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2023-08-23 16:19:42 -0700"
@@ -3340,6 +3460,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2023-08-14 09:18:15 -0700"
+    },
+    "done": true
+  },
+  "warppad:actions/spam": {
+    "criteria": {
+      "warpspam": "2023-08-29 09:43:44 -0700"
     },
     "done": true
   },
@@ -3380,9 +3506,9 @@
     },
     "done": false
   },
-  "global:demimortality": {
+  "mt:display_advancements/lush_caves/lush_potion": {
     "criteria": {
-      "trigger": "2023-08-21 23:49:00 -0700"
+      "requirement": "2023-08-29 10:34:17 -0700"
     },
     "done": true
   },

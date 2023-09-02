@@ -16,10 +16,10 @@ sets:
             satellaview_dev:
                 world: VXSK2
                 markup: false
-                x: -510.69101994311
+                x: 52.658251081538225
                 icon: offlineuser
-                y: -50.0
-                z: -1788.9427824659097
+                y: 122.0
+                z: -805.5044919110533
                 label: satellaview_dev
         lines: {
             }
@@ -33,15 +33,8 @@ sets:
         areas: {
             }
         label: Markers
-        markers:
-            marker_1:
-                world: VXSK2
-                markup: false
-                x: -539.6140030065444
-                icon: default
-                y: -48.9375
-                z: -1787.1769937176157
-                label: city3
+        markers: {
+            }
         lines: {
             }
         layerprio: 0

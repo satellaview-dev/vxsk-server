@@ -1,8 +1,8 @@
 modname:byg
 
 texture:id=foragers_table_side,filename=assets/byg/textures/block/foragers_table_side.png,xcount=1,ycount=1
-texture:id=foragers_table_front,filename=assets/byg/textures/block/foragers_table_front.png,xcount=1,ycount=1
 texture:id=foragers_table_top,filename=assets/byg/textures/block/foragers_table_top.png,xcount=1,ycount=1
+texture:id=foragers_table_front,filename=assets/byg/textures/block/foragers_table_front.png,xcount=1,ycount=1
 texture:id=beehive_end,filename=assets/minecraft/textures/block/beehive_end.png,xcount=1,ycount=1
 texture:id=peat,filename=assets/byg/textures/block/peat.png,xcount=1,ycount=1
 texture:id=lush_dirt,filename=assets/byg/textures/block/lush_dirt.png,xcount=1,ycount=1
