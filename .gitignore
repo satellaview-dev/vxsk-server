@@ -24,3 +24,4 @@ setup.log
 _opam/
 mods/AoA3-1.19.3-3.6.22.jar
 dynmap/web/tiles/*
+config/Discord-Integration.toml
