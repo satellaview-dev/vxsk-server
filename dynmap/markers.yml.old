@@ -12,15 +12,8 @@ sets:
         areas: {
             }
         label: Offline
-        markers:
-            satellaview_dev:
-                world: VXSK2
-                markup: false
-                x: 52.658251081538225
-                icon: offlineuser
-                y: 122.0
-                z: -805.5044919110533
-                label: satellaview_dev
+        markers: {
+            }
         lines: {
             }
         layerprio: 0

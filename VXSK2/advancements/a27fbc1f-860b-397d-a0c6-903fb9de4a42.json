@@ -31,9 +31,15 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 01:01:17 -0700"
+      "log_spam_fixer": "2023-09-04 05:38:05 -0700"
     },
     "done": false
+  },
+  "2mal3:adco/installed": {
+    "criteria": {
+      "trigger": "2023-09-04 05:11:14 -0700"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
@@ -74,6 +80,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2023-08-20 15:56:13 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:has/anvil": {
+    "criteria": {
+      "requirement": "2023-09-04 05:12:13 -0700"
     },
     "done": true
   },
@@ -260,7 +272,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2023-08-20 15:55:50 -0700",
-      "beef": "2023-08-23 08:43:16 -0700"
+      "beef": "2023-08-23 08:43:16 -0700",
+      "bread": "2023-09-04 05:19:17 -0700"
     },
     "done": false
   },
@@ -584,7 +597,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 01:01:17 -0700"
+      "log_spam_fixer": "2023-09-04 05:38:05 -0700"
     },
     "done": false
   },
@@ -640,7 +653,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 01:01:17 -0700"
+      "log_spam_fixer": "2023-09-04 05:38:05 -0700"
     },
     "done": false
   },
@@ -700,7 +713,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 01:01:17 -0700"
+      "log_spam_fixer": "2023-09-04 05:38:05 -0700"
     },
     "done": false
   },
@@ -740,6 +753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2023-09-04 05:12:12 -0700"
+    },
+    "done": true
+  },
   "majruszsdifficulty:progressive_difficulty/bleeding": {
     "criteria": {
       "bleeding_applied": "2023-08-20 15:38:12 -0700"
@@ -760,7 +779,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 01:01:17 -0700"
+      "log_spam_fixer": "2023-09-04 05:38:05 -0700"
     },
     "done": false
   },
@@ -886,7 +905,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 01:01:17 -0700"
+      "log_spam_fixer": "2023-09-04 05:38:05 -0700"
     },
     "done": false
   },
@@ -1111,7 +1130,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 01:01:17 -0700"
+      "log_spam_fixer": "2023-09-04 05:38:05 -0700"
     },
     "done": false
   },
@@ -1143,7 +1162,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 01:01:17 -0700"
+      "log_spam_fixer": "2023-09-04 05:38:05 -0700"
     },
     "done": false
   },
@@ -1239,7 +1258,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 01:01:17 -0700"
+      "log_spam_fixer": "2023-09-04 05:38:05 -0700"
     },
     "done": false
   },
@@ -1263,7 +1282,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 01:01:17 -0700"
+      "log_spam_fixer": "2023-09-04 05:38:05 -0700"
     },
     "done": false
   },
@@ -1287,7 +1306,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 01:01:17 -0700"
+      "log_spam_fixer": "2023-09-04 05:38:05 -0700"
     },
     "done": false
   },
@@ -1305,7 +1324,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2023-08-25 01:01:17 -0700"
+      "log_spam_fixer": "2023-09-04 05:38:05 -0700"
     },
     "done": false
   },
@@ -1336,6 +1355,12 @@
   "twilightforest:recipes/transportation/darkwood_boat": {
     "criteria": {
       "in_water": "2023-08-20 15:37:37 -0700"
+    },
+    "done": true
+  },
+  "global:2mal3": {
+    "criteria": {
+      "trigger": "2023-09-04 05:11:14 -0700"
     },
     "done": true
   },
@@ -1422,12 +1447,6 @@
       "consume_cooked_charger_shank": "2023-08-23 14:22:22 -0700"
     },
     "done": false
-  },
-  "global:demimortality": {
-    "criteria": {
-      "trigger": "2023-08-20 15:33:26 -0700"
-    },
-    "done": true
   },
   "DataVersion": 3218
 }

@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "mt:treasure_advancements/first_common_ocean_treasure": {
+    "criteria": {
+      "obtainchest": "2023-09-02 13:04:43 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2023-08-14 09:45:11 -0700"
@@ -265,7 +271,8 @@
   },
   "1_splatus:ultris/completed": {
     "criteria": {
-      "illusioner": "2023-08-29 09:58:49 -0700"
+      "illusioner": "2023-08-29 09:58:49 -0700",
+      "corrupted_enderman": "2023-09-02 10:18:54 -0700"
     },
     "done": false
   },
@@ -581,6 +588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2023-09-02 12:53:50 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-08-16 09:06:01 -0700"
@@ -623,9 +636,21 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2023-09-02 13:20:54 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-08-14 09:45:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2023-09-02 13:06:55 -0700"
     },
     "done": true
   },
@@ -744,15 +769,18 @@
       "minecraft:ravager": "2023-08-29 10:11:11 -0700",
       "minecraft:vindicator": "2023-08-16 16:51:29 -0700",
       "minecraft:spider": "2023-08-14 09:21:51 -0700",
+      "minecraft:creeper": "2023-09-02 11:23:06 -0700",
       "minecraft:witch": "2023-08-29 10:12:59 -0700",
       "minecraft:husk": "2023-08-24 09:40:39 -0700",
-      "minecraft:zombie": "2023-08-16 09:01:11 -0700"
+      "minecraft:enderman": "2023-09-02 10:17:16 -0700",
+      "minecraft:zombie": "2023-08-16 09:01:11 -0700",
+      "minecraft:drowned": "2023-09-02 13:58:27 -0700"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-09-01 09:48:36 -0700"
+      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
     },
     "done": false
   },
@@ -852,6 +880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2023-09-02 12:59:53 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2023-08-16 09:24:55 -0700"
@@ -927,6 +961,12 @@
   "byg:recipes/byg.byg/palm_chest_boat": {
     "criteria": {
       "has_boat": "2023-08-14 09:51:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2023-09-02 12:53:01 -0700"
     },
     "done": true
   },
@@ -1034,7 +1074,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-09-01 09:48:36 -0700"
+      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
     },
     "done": false
   },
@@ -1140,6 +1180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2023-09-02 12:24:48 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2023-08-16 15:41:43 -0700"
@@ -1194,6 +1240,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/ender": {
+    "criteria": {
+      "c1": "2023-09-02 09:05:05 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-08-23 10:09:50 -0700"
@@ -1227,6 +1279,12 @@
   "vanilla_refresh:biome/dripstone_caves": {
     "criteria": {
       "requirement": "2023-08-31 08:39:55 -0700"
+    },
+    "done": true
+  },
+  "aoa3:overworld/the_journey_begins": {
+    "criteria": {
+      "obtain_worn_book": "2023-09-02 11:17:48 -0700"
     },
     "done": true
   },
@@ -1272,6 +1330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2023-09-02 13:12:55 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2023-08-23 10:16:06 -0700"
@@ -1281,6 +1345,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2023-08-23 10:16:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2023-09-02 13:11:49 -0700"
     },
     "done": true
   },
@@ -1328,7 +1398,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2023-09-01 09:48:36 -0700"
+      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
     },
     "done": false
   },
@@ -1340,7 +1410,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2023-09-01 09:48:36 -0700"
+      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
     },
     "done": false
   },
@@ -1367,10 +1437,12 @@
       "minecraft:wooded_badlands": "2023-08-31 08:48:25 -0700",
       "minecraft:savanna_plateau": "2023-08-31 08:40:11 -0700",
       "minecraft:river": "2023-08-15 09:38:30 -0700",
+      "minecraft:lukewarm_ocean": "2023-09-02 12:59:14 -0700",
       "minecraft:dripstone_caves": "2023-08-31 08:39:55 -0700",
       "minecraft:forest": "2023-08-31 08:42:00 -0700",
       "minecraft:lush_caves": "2023-08-31 08:42:24 -0700",
       "minecraft:jungle": "2023-08-31 08:48:00 -0700",
+      "minecraft:ocean": "2023-09-02 13:01:33 -0700",
       "minecraft:deep_dark": "2023-08-29 09:11:03 -0700",
       "minecraft:savanna": "2023-08-31 08:38:26 -0700"
     },
@@ -1444,7 +1516,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-09-01 09:48:36 -0700"
+      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
     },
     "done": false
   },
@@ -1586,6 +1658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2023-09-02 13:11:49 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_axe": "2023-08-24 10:30:09 -0700"
@@ -1634,6 +1712,12 @@
     },
     "done": true
   },
+  "mt:treasure_advancements/first_rare_ocean_treasure": {
+    "criteria": {
+      "obtainchest": "2023-09-02 13:09:59 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2023-08-14 09:54:28 -0700"
@@ -1660,7 +1744,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2023-09-01 09:48:36 -0700"
+      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
     },
     "done": false
   },
@@ -1700,6 +1784,12 @@
     },
     "done": true
   },
+  "mt:treasure_advancements/first_epic_ocean_treasure": {
+    "criteria": {
+      "obtainchest": "2023-09-02 13:10:47 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2023-08-23 09:30:31 -0700"
@@ -1727,6 +1817,18 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2023-09-01 09:27:08 -0700"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/50_common_treasure": {
+    "criteria": {
+      "obtainchest": "2023-09-02 11:19:22 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2023-09-02 13:11:49 -0700"
     },
     "done": true
   },
@@ -1880,6 +1982,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2023-09-02 13:12:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2023-09-02 11:00:53 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2023-08-16 09:15:12 -0700"
@@ -1913,9 +2027,16 @@
       "bread": "2023-08-14 09:26:52 -0700",
       "golden_apple": "2023-08-29 09:59:20 -0700",
       "melon_slice": "2023-08-15 09:29:30 -0700",
+      "cooked_chicken": "2023-09-02 09:58:56 -0700",
       "cooked_salmon": "2023-08-14 09:53:28 -0700"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2023-09-02 12:53:01 -0700"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -2225,7 +2346,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2023-09-01 09:48:36 -0700"
+      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
     },
     "done": false
   },
@@ -2241,9 +2362,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2023-09-02 11:00:53 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2023-08-14 09:48:16 -0700"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/enderkill": {
+    "criteria": {
+      "c1": "2023-09-02 10:17:12 -0700"
     },
     "done": true
   },
@@ -2280,6 +2413,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2023-08-26 14:33:20 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2023-09-02 12:24:48 -0700"
     },
     "done": true
   },
@@ -2369,7 +2508,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2023-09-01 09:48:36 -0700"
+      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
     },
     "done": false
   },
@@ -2441,7 +2580,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2023-09-01 09:48:36 -0700"
+      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
     },
     "done": false
   },
@@ -2767,6 +2906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2023-09-02 09:50:57 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2023-08-14 09:16:51 -0700"
@@ -2849,6 +2994,18 @@
     },
     "done": true
   },
+  "vanilla_refresh:biome/ocean": {
+    "criteria": {
+      "requirement": "2023-09-02 12:59:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2023-09-02 12:53:50 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2023-09-01 09:46:53 -0700"
@@ -2917,7 +3074,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2023-09-01 09:48:36 -0700"
+      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
     },
     "done": false
   },
@@ -2947,7 +3104,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2023-09-01 09:48:36 -0700"
+      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
     },
     "done": false
   },
@@ -2975,11 +3132,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2023-09-02 12:59:53 -0700"
+    },
+    "done": true
+  },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2023-09-01 09:48:36 -0700"
+      "requirement": "2023-09-02 13:58:24 -0700",
+      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
     },
-    "done": false
+    "done": true
   },
   "majruszsdifficulty:recipes/misc/tattered_armor_to_cloth": {
     "criteria": {
