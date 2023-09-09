@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/twilight_oak_boat": {
-    "criteria": {
-      "in_water": "2023-08-19 20:00:51 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2023-08-14 09:20:28 -0700"
@@ -59,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:nether/charge_respawn_anchor": {
+    "criteria": {
+      "charge_respawn_anchor": "2023-09-06 21:01:40 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2023-08-19 21:42:38 -0700"
@@ -80,6 +80,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-08-19 22:02:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2023-09-04 22:48:46 -0700"
     },
     "done": true
   },
@@ -143,6 +149,12 @@
     },
     "done": true
   },
+  "mt:entity_hit_system/on_hurt": {
+    "criteria": {
+      "nbit7": "2023-09-08 17:19:08 -0700"
+    },
+    "done": false
+  },
   "vanilla_refresh:biome/badlands": {
     "criteria": {
       "requirement": "2023-08-20 14:44:38 -0700"
@@ -203,12 +215,6 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/time_boat": {
-    "criteria": {
-      "in_water": "2023-08-19 20:00:51 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2023-08-20 14:23:49 -0700"
@@ -230,6 +236,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2023-08-19 21:42:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2023-09-06 21:10:05 -0700"
     },
     "done": true
   },
@@ -257,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2023-09-05 00:59:59 -0700"
+    },
+    "done": true
+  },
   "mt:treasure_advancements/first_epic_treasure": {
     "criteria": {
       "obtainchest": "2023-08-19 22:26:54 -0700"
@@ -272,6 +290,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2023-08-14 09:18:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2023-09-05 01:11:33 -0700"
     },
     "done": true
   },
@@ -296,6 +320,7 @@
   "1_splatus:ultris/completed": {
     "criteria": {
       "illusioner": "2023-08-20 14:04:15 -0700",
+      "blaze_king": "2023-09-05 00:49:19 -0700",
       "corrupted_enderman": "2023-08-23 01:56:04 -0700"
     },
     "done": false
@@ -309,6 +334,12 @@
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2023-08-20 15:20:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-09-06 20:26:38 -0700"
     },
     "done": true
   },
@@ -417,12 +448,6 @@
   "byg:recipes/byg.byg/white_mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2023-08-19 19:14:14 -0700"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mining_boat": {
-    "criteria": {
-      "in_water": "2023-08-19 20:00:51 -0700"
     },
     "done": true
   },
@@ -540,6 +565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2023-09-05 00:47:21 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2023-08-19 20:26:11 -0700"
@@ -567,6 +598,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-08-19 22:02:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2023-09-05 00:59:59 -0700"
     },
     "done": true
   },
@@ -624,12 +661,6 @@
     },
     "done": false
   },
-  "twilightforest:recipes/transportation/time_chest_boat": {
-    "criteria": {
-      "has_boat": "2023-08-19 19:14:14 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2023-08-14 09:18:42 -0700"
@@ -645,12 +676,6 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2023-08-19 19:14:14 -0700"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/transformation_boat": {
-    "criteria": {
-      "in_water": "2023-08-19 20:00:51 -0700"
     },
     "done": true
   },
@@ -732,15 +757,21 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+  "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
-      "has_boat": "2023-08-19 19:14:14 -0700"
+      "has_netherite_ingot": "2023-09-06 20:26:38 -0700"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2023-09-04 13:59:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2023-09-06 00:22:22 -0700"
     },
     "done": true
   },
@@ -765,6 +796,12 @@
   "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2023-08-20 13:53:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2023-09-05 16:57:58 -0700"
     },
     "done": true
   },
@@ -857,6 +894,7 @@
       "minecraft:witch": "2023-08-26 19:39:44 -0700",
       "minecraft:wither_skeleton": "2023-09-02 09:32:31 -0700",
       "minecraft:husk": "2023-08-19 18:10:07 -0700",
+      "minecraft:cave_spider": "2023-09-06 22:28:19 -0700",
       "minecraft:enderman": "2023-08-20 00:15:58 -0700",
       "minecraft:vex": "2023-08-29 10:21:03 -0700",
       "minecraft:zombie": "2023-08-14 09:19:23 -0700",
@@ -876,9 +914,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2023-09-05 01:00:59 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2023-09-05 00:41:27 -0700"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_legendary_nether_treasure": {
+    "criteria": {
+      "obtainchest": "2023-09-05 01:19:36 -0700"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-09-04 14:10:39 -0700"
+      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
     },
     "done": false
   },
@@ -909,6 +965,12 @@
   "mt:display_advancements/deep_dark/soul_flint": {
     "criteria": {
       "requirement": "2023-08-20 16:05:20 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2023-09-06 22:27:37 -0700"
     },
     "done": true
   },
@@ -957,6 +1019,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-08-19 19:14:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2023-09-04 22:48:46 -0700"
     },
     "done": true
   },
@@ -1014,9 +1082,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-09-04 22:48:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-09-06 20:26:38 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2023-08-26 06:37:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2023-09-06 00:22:22 -0700"
     },
     "done": true
   },
@@ -1062,6 +1148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2023-09-06 00:22:22 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2023-08-20 13:53:07 -0700"
@@ -1098,9 +1190,21 @@
     },
     "done": true
   },
+  "aoa3:overworld/the_burning_key": {
+    "criteria": {
+      "obtain_nether_realmstone": "2023-09-06 20:53:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2023-08-20 16:58:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2023-09-05 00:40:54 -0700"
     },
     "done": true
   },
@@ -1140,6 +1244,12 @@
     },
     "done": true
   },
+  "mt:treasure_advancements/first_common_basalt_treasure": {
+    "criteria": {
+      "obtainchest": "2023-09-05 00:56:39 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2023-08-14 09:18:03 -0700"
@@ -1152,15 +1262,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-09-06 20:26:38 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2023-08-19 20:37:15 -0700"
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
-      "has_boat": "2023-08-19 19:14:14 -0700"
+      "has_nether_bricks": "2023-09-04 22:48:46 -0700"
     },
     "done": true
   },
@@ -1176,21 +1292,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2023-09-05 16:57:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2023-09-02 09:09:20 -0700"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2023-09-04 14:10:39 -0700"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2023-09-04 13:59:16 -0700"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2023-09-06 22:24:06 -0700"
     },
     "done": true
   },
@@ -1209,6 +1337,24 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2023-08-14 09:16:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-09-06 20:26:38 -0700"
+    },
+    "done": true
+  },
+  "aoa3:completionist/half_way_there": {
+    "criteria": {
+      "level_50": "2023-09-06 22:35:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2023-09-05 00:59:59 -0700"
     },
     "done": true
   },
@@ -1362,12 +1508,6 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/acacia_banister": {
-    "criteria": {
-      "has_item": "2023-08-25 16:32:43 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2023-09-04 13:59:16 -0700"
@@ -1389,6 +1529,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2023-08-19 20:26:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2023-09-04 21:51:44 -0700"
     },
     "done": true
   },
@@ -1452,6 +1598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2023-09-06 21:49:21 -0700"
+    },
+    "done": true
+  },
   "vanilla_refresh:biome/dripstone_caves": {
     "criteria": {
       "requirement": "2023-08-20 14:15:11 -0700"
@@ -1476,6 +1628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-09-05 16:57:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2023-08-20 14:23:49 -0700"
@@ -1491,6 +1649,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2023-08-19 19:14:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2023-09-04 22:07:09 -0700"
     },
     "done": true
   },
@@ -1536,6 +1700,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2023-09-06 00:22:22 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-09-06 00:22:22 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2023-08-23 16:19:42 -0700"
@@ -1551,6 +1727,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-08-19 22:02:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-09-04 22:48:46 -0700"
     },
     "done": true
   },
@@ -1578,6 +1760,12 @@
     },
     "done": true
   },
+  "mt:treasure_advancements/first_rare_nether_treasure": {
+    "criteria": {
+      "obtainchest": "2023-09-05 01:00:25 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2023-08-19 19:14:14 -0700"
@@ -1586,7 +1774,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2023-09-04 14:10:39 -0700"
+      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
     },
     "done": false
   },
@@ -1610,9 +1798,15 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2023-09-04 14:10:39 -0700"
+      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
     },
     "done": false
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2023-09-05 01:00:59 -0700"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1662,6 +1856,12 @@
       "minecraft:plains": "2023-08-26 05:56:26 -0700"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2023-09-06 21:49:21 -0700"
+    },
+    "done": true
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -1731,7 +1931,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-09-04 14:10:39 -0700"
+      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
     },
     "done": false
   },
@@ -1777,9 +1977,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/transformation_chest_boat": {
+  "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "has_boat": "2023-08-19 19:14:14 -0700"
+      "has_netherite_scrap": "2023-09-05 16:48:04 -0700"
     },
     "done": true
   },
@@ -1831,6 +2031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-09-06 20:26:38 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2023-08-14 09:18:03 -0700"
@@ -1873,6 +2079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2023-09-05 00:47:21 -0700"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:basalt_deltas": "2023-09-02 09:05:03 -0700"
@@ -1885,6 +2097,12 @@
     },
     "done": true
   },
+  "mt:treasure_advancements/first_epic_nether_treasure": {
+    "criteria": {
+      "obtainchest": "2023-09-05 01:02:09 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2023-09-02 09:41:53 -0700"
@@ -1894,6 +2112,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2023-08-21 16:56:36 -0700"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_legendary_treasure": {
+    "criteria": {
+      "obtainchest": "2023-09-05 01:19:30 -0700"
     },
     "done": true
   },
@@ -1963,12 +2187,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2023-09-05 01:00:59 -0700"
+    },
+    "done": true
+  },
   "manic:manic/kill_all_spectres": {
     "criteria": {
       "paracusia": "2023-08-23 00:42:59 -0700",
       "phantom": "2023-08-20 17:17:17 -0700",
       "revenant": "2023-09-02 09:48:34 -0700",
-      "spook": "2023-08-20 15:53:34 -0700"
+      "spook": "2023-08-20 15:53:34 -0700",
+      "necromorph": "2023-09-06 01:20:05 -0700"
     },
     "done": false
   },
@@ -2004,7 +2235,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2023-09-04 14:10:39 -0700"
+      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
     },
     "done": false
   },
@@ -2029,12 +2260,6 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-08-14 09:20:28 -0700"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/canopy_boat": {
-    "criteria": {
-      "in_water": "2023-08-19 20:00:51 -0700"
     },
     "done": true
   },
@@ -2080,9 +2305,21 @@
     },
     "done": true
   },
+  "1_splatus:ultris/blazepath/kingblazekill": {
+    "criteria": {
+      "c1": "2023-09-05 00:49:19 -0700"
+    },
+    "done": true
+  },
   "mt:treasure_advancements/50_common_treasure": {
     "criteria": {
       "obtainchest": "2023-08-20 17:02:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-09-05 16:57:58 -0700"
     },
     "done": true
   },
@@ -2142,12 +2379,6 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/sorting_chest_boat": {
-    "criteria": {
-      "has_boat": "2023-08-19 19:14:14 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-08-19 22:02:48 -0700"
@@ -2160,6 +2391,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2023-09-04 22:48:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2023-09-05 00:41:27 -0700"
+    },
+    "done": true
+  },
   "warppad:actions/warp": {
     "criteria": {
       "warped": "2023-08-25 16:15:57 -0700"
@@ -2169,6 +2412,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-08-19 19:14:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2023-09-05 00:41:27 -0700"
     },
     "done": true
   },
@@ -2337,9 +2586,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-09-06 20:26:38 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2023-08-19 19:14:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2023-09-05 00:47:21 -0700"
     },
     "done": true
   },
@@ -2361,6 +2622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2023-09-05 16:57:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2023-08-29 09:50:48 -0700"
@@ -2370,6 +2637,12 @@
   "1_splatus:ultris/illusionerkill": {
     "criteria": {
       "c1": "2023-08-20 14:04:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2023-09-05 00:35:31 -0700"
     },
     "done": true
   },
@@ -2406,12 +2679,6 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-08-19 22:02:48 -0700"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/sorting_boat": {
-    "criteria": {
-      "in_water": "2023-08-19 20:00:51 -0700"
     },
     "done": true
   },
@@ -2499,6 +2766,18 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2023-09-04 22:52:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-09-06 00:22:22 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2023-08-14 09:18:03 -0700"
@@ -2511,15 +2790,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
     "criteria": {
-      "has_gravel": "2023-08-19 22:02:48 -0700"
+      "has_oxidized_copper": "2023-09-05 00:47:21 -0700"
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/mining_chest_boat": {
+  "mt:display_advancements/nether/respawn_achor": {
     "criteria": {
-      "has_boat": "2023-08-19 19:14:14 -0700"
+      "requirement": "2023-09-06 21:01:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-08-19 22:02:48 -0700"
     },
     "done": true
   },
@@ -2562,6 +2847,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2023-08-19 19:14:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2023-09-06 22:16:59 -0700"
     },
     "done": true
   },
@@ -2649,6 +2940,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/giantrevive": {
+    "criteria": {
+      "c1": "2023-09-06 00:35:03 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2023-08-19 19:14:14 -0700"
@@ -2663,7 +2960,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2023-09-04 14:10:39 -0700"
+      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
     },
     "done": false
   },
@@ -2694,6 +2991,12 @@
   "1_splatus:ultris/enderkill": {
     "criteria": {
       "c1": "2023-08-23 01:56:04 -0700"
+    },
+    "done": true
+  },
+  "manic:manic/piglin_monk": {
+    "criteria": {
+      "requirement": "2023-09-06 20:57:59 -0700"
     },
     "done": true
   },
@@ -2865,9 +3168,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/canopy_chest_boat": {
+  "minecraft:recipes/redstone/birch_door": {
     "criteria": {
-      "has_boat": "2023-08-19 19:14:14 -0700"
+      "has_planks": "2023-09-05 16:57:58 -0700"
     },
     "done": true
   },
@@ -2903,7 +3206,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2023-09-04 14:10:39 -0700"
+      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
     },
     "done": false
   },
@@ -2979,9 +3282,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2023-09-05 00:47:21 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
     "criteria": {
       "has_redstone_ore": "2023-08-20 15:25:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2023-09-05 16:57:58 -0700"
     },
     "done": true
   },
@@ -2999,7 +3314,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2023-09-04 14:10:39 -0700"
+      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
     },
     "done": false
   },
@@ -3039,9 +3354,27 @@
     },
     "done": true
   },
+  "mt:treasure_advancements/25_rare_treasure": {
+    "criteria": {
+      "obtainchest": "2023-09-05 01:08:47 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-08-20 14:23:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-09-04 22:48:46 -0700"
+    },
+    "done": true
+  },
+  "simplewarden:kill_the_warden": {
+    "criteria": {
+      "killed_warden": "2023-09-06 00:59:41 -0700"
     },
     "done": true
   },
@@ -3087,17 +3420,23 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2023-09-05 00:40:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-09-06 20:26:38 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2023-08-14 09:18:42 -0700"
     },
     "done": true
-  },
-  "mt:entity_hit_system/on_hit": {
-    "criteria": {
-      "not_target": "2023-09-04 01:02:50 -0700"
-    },
-    "done": false
   },
   "smithed.damage:v0.1.0/player/event": {
     "criteria": {
@@ -3195,6 +3534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-09-06 20:26:38 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2023-08-20 15:20:35 -0700"
@@ -3222,6 +3567,18 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2023-08-20 15:20:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2023-09-05 00:42:07 -0700"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/blazepath/kingblaze": {
+    "criteria": {
+      "c1": "2023-09-05 00:47:36 -0700"
     },
     "done": true
   },
@@ -3261,9 +3618,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/darkwood_chest_boat": {
+  "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
-      "has_boat": "2023-08-19 19:14:14 -0700"
+      "has_planks": "2023-09-06 00:22:22 -0700"
     },
     "done": true
   },
@@ -3300,6 +3657,12 @@
   "vanilla_refresh:location/the_nether": {
     "criteria": {
       "requirement": "2023-08-22 22:45:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2023-09-04 22:52:16 -0700"
     },
     "done": true
   },
@@ -3357,6 +3720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2023-09-06 20:26:38 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2023-08-19 19:14:14 -0700"
@@ -3372,6 +3741,18 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2023-08-19 23:06:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2023-09-05 00:40:54 -0700"
+    },
+    "done": true
+  },
+  "mt:display_advancements/nether/wither_sword": {
+    "criteria": {
+      "obtainchest": "2023-09-05 01:15:53 -0700"
     },
     "done": true
   },
@@ -3423,6 +3804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2023-09-06 00:22:22 -0700"
+    },
+    "done": true
+  },
   "byg:root": {
     "criteria": {
       "tick": "2023-08-14 09:06:09 -0700"
@@ -3464,6 +3851,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2023-08-22 00:39:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-09-05 00:40:54 -0700"
     },
     "done": true
   },
@@ -3515,6 +3908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2023-09-04 22:48:46 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2023-09-02 09:09:20 -0700"
@@ -3563,6 +3962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2023-09-06 00:22:22 -0700"
+    },
+    "done": true
+  },
   "mt:treasure_advancements/10_rare_treasure": {
     "criteria": {
       "obtainchest": "2023-08-20 00:19:26 -0700"
@@ -3595,7 +4000,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2023-09-04 14:10:39 -0700"
+      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
     },
     "done": false
   },
@@ -3617,6 +4022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2023-09-05 16:57:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2023-08-20 16:58:19 -0700"
@@ -3631,7 +4042,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2023-09-04 14:10:39 -0700"
+      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
     },
     "done": false
   },
@@ -3679,7 +4090,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2023-09-04 14:10:39 -0700"
+      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
     },
     "done": false
   },
@@ -3689,9 +4100,21 @@
     },
     "done": true
   },
+  "warppad:mods/rename": {
+    "criteria": {
+      "warprename": "2023-09-06 21:49:33 -0700"
+    },
+    "done": true
+  },
   "majruszsdifficulty:recipes/misc/tattered_armor_to_cloth": {
     "criteria": {
       "has_tattered_armor": "2023-08-21 17:13:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2023-09-04 22:48:46 -0700"
     },
     "done": true
   },
@@ -3719,6 +4142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-09-05 16:57:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2023-08-19 19:14:14 -0700"
@@ -3737,15 +4166,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/mangrove_boat": {
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
-      "in_water": "2023-08-19 20:00:51 -0700"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/darkwood_boat": {
-    "criteria": {
-      "in_water": "2023-08-19 20:00:51 -0700"
+      "has_netherite_ingot": "2023-09-06 20:26:38 -0700"
     },
     "done": true
   },
@@ -3803,6 +4226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2023-09-05 00:59:59 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2023-08-20 13:53:07 -0700"
@@ -3812,6 +4241,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2023-08-14 09:18:15 -0700"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/100_common_treasure": {
+    "criteria": {
+      "obtainchest": "2023-09-05 01:03:27 -0700"
     },
     "done": true
   },

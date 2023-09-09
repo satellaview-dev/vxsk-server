@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2023-09-07 16:33:03 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2023-08-16 09:19:11 -0700"
@@ -780,9 +786,15 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
+      "log_spam_fixer": "2023-09-07 18:49:03 -0700"
     },
     "done": false
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-09-07 18:39:27 -0700"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -844,6 +856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2023-09-07 16:33:03 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-08-16 09:06:01 -0700"
@@ -883,6 +901,12 @@
   "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2023-09-02 12:59:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2023-09-07 18:20:10 -0700"
     },
     "done": true
   },
@@ -1074,7 +1098,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
+      "log_spam_fixer": "2023-09-07 18:49:03 -0700"
     },
     "done": false
   },
@@ -1276,6 +1300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2023-09-05 09:29:33 -0700"
+    },
+    "done": true
+  },
   "vanilla_refresh:biome/dripstone_caves": {
     "criteria": {
       "requirement": "2023-08-31 08:39:55 -0700"
@@ -1398,7 +1428,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
+      "log_spam_fixer": "2023-09-07 18:49:03 -0700"
     },
     "done": false
   },
@@ -1410,7 +1440,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
+      "log_spam_fixer": "2023-09-07 18:49:03 -0700"
     },
     "done": false
   },
@@ -1434,6 +1464,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2023-09-05 09:21:11 -0700",
       "minecraft:wooded_badlands": "2023-08-31 08:48:25 -0700",
       "minecraft:savanna_plateau": "2023-08-31 08:40:11 -0700",
       "minecraft:river": "2023-08-15 09:38:30 -0700",
@@ -1451,6 +1482,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-08-16 09:06:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2023-09-05 09:29:33 -0700"
     },
     "done": true
   },
@@ -1516,7 +1553,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
+      "log_spam_fixer": "2023-09-07 18:49:03 -0700"
     },
     "done": false
   },
@@ -1571,6 +1608,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2023-08-16 09:19:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2023-09-07 18:04:12 -0700"
     },
     "done": true
   },
@@ -1724,11 +1767,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2023-09-07 16:33:03 -0700"
+    },
+    "done": true
+  },
   "manic:manic/kill_all_spectres": {
     "criteria": {
       "paracusia": "2023-08-16 16:51:29 -0700"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2023-09-05 09:28:58 -0700"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
@@ -1744,7 +1799,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
+      "log_spam_fixer": "2023-09-07 18:49:03 -0700"
     },
     "done": false
   },
@@ -1847,6 +1902,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2023-08-16 16:44:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2023-09-05 09:48:04 -0700"
     },
     "done": true
   },
@@ -2022,6 +2083,7 @@
     "criteria": {
       "cooked_mutton": "2023-08-16 09:26:40 -0700",
       "cooked_beef": "2023-08-29 09:14:18 -0700",
+      "baked_potato": "2023-09-07 18:26:14 -0700",
       "apple": "2023-08-23 11:27:40 -0700",
       "cooked_cod": "2023-08-29 10:08:01 -0700",
       "bread": "2023-08-14 09:26:52 -0700",
@@ -2071,6 +2133,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2023-09-01 09:27:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2023-09-07 18:20:10 -0700"
     },
     "done": true
   },
@@ -2326,6 +2394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2023-09-07 17:49:31 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-08-16 09:06:01 -0700"
@@ -2346,7 +2420,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
+      "log_spam_fixer": "2023-09-07 18:49:03 -0700"
     },
     "done": false
   },
@@ -2508,7 +2582,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
+      "log_spam_fixer": "2023-09-07 18:49:03 -0700"
     },
     "done": false
   },
@@ -2580,7 +2654,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
+      "log_spam_fixer": "2023-09-07 18:49:03 -0700"
     },
     "done": false
   },
@@ -2623,6 +2697,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2023-08-24 09:46:37 -0700"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/25_rare_treasure": {
+    "criteria": {
+      "obtainchest": "2023-09-07 17:41:46 -0700"
     },
     "done": true
   },
@@ -2912,6 +2992,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-09-07 17:49:31 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2023-08-14 09:16:51 -0700"
@@ -3074,7 +3160,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
+      "log_spam_fixer": "2023-09-07 18:49:03 -0700"
     },
     "done": false
   },
@@ -3104,7 +3190,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
+      "log_spam_fixer": "2023-09-07 18:49:03 -0700"
     },
     "done": false
   },
@@ -3140,10 +3226,9 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2023-09-02 13:58:24 -0700",
-      "log_spam_fixer": "2023-09-02 13:58:20 -0700"
+      "log_spam_fixer": "2023-09-07 18:49:03 -0700"
     },
-    "done": true
+    "done": false
   },
   "majruszsdifficulty:recipes/misc/tattered_armor_to_cloth": {
     "criteria": {
