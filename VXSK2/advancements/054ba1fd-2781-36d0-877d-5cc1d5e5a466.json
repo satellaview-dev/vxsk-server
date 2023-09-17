@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-09-10 18:31:15 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2023-09-04 22:48:46 -0700"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-09-10 18:31:15 -0700"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/maple_chest_boat": {
     "criteria": {
       "has_boat": "2023-08-19 19:14:14 -0700"
@@ -148,12 +160,6 @@
       "has_white_wool": "2023-08-14 09:18:42 -0700"
     },
     "done": true
-  },
-  "mt:entity_hit_system/on_hurt": {
-    "criteria": {
-      "nbit7": "2023-09-08 17:19:08 -0700"
-    },
-    "done": false
   },
   "vanilla_refresh:biome/badlands": {
     "criteria": {
@@ -176,6 +182,12 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2023-09-02 08:59:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2023-09-10 14:36:50 -0700"
     },
     "done": true
   },
@@ -317,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-09-10 18:31:15 -0700"
+    },
+    "done": true
+  },
   "1_splatus:ultris/completed": {
     "criteria": {
       "illusioner": "2023-08-20 14:04:15 -0700",
@@ -328,6 +346,13 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2023-08-23 00:40:39 -0700"
+    },
+    "done": true
+  },
+  "smithed.actionbar:v0.2.0/vanilla/container/clicked_lockable_block": {
+    "criteria": {
+      "click_no_sneak": "2023-09-14 04:17:06 -0700",
+      "click_empty": "2023-09-14 04:17:06 -0700"
     },
     "done": true
   },
@@ -859,6 +884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-09-10 18:31:15 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2023-08-19 20:07:50 -0700"
@@ -884,9 +915,11 @@
       "minecraft:skeleton": "2023-08-14 09:23:30 -0700",
       "minecraft:ravager": "2023-08-29 10:17:22 -0700",
       "minecraft:ghast": "2023-08-20 00:14:57 -0700",
+      "minecraft:hoglin": "2023-09-10 18:09:05 -0700",
       "minecraft:vindicator": "2023-08-20 14:11:04 -0700",
       "minecraft:magma_cube": "2023-09-02 08:59:40 -0700",
       "minecraft:spider": "2023-08-19 18:43:07 -0700",
+      "minecraft:piglin_brute": "2023-09-10 18:11:01 -0700",
       "minecraft:creeper": "2023-08-14 09:25:33 -0700",
       "minecraft:slime": "2023-08-19 20:37:06 -0700",
       "minecraft:evoker": "2023-08-29 10:40:20 -0700",
@@ -895,6 +928,7 @@
       "minecraft:wither_skeleton": "2023-09-02 09:32:31 -0700",
       "minecraft:husk": "2023-08-19 18:10:07 -0700",
       "minecraft:cave_spider": "2023-09-06 22:28:19 -0700",
+      "minecraft:piglin": "2023-09-10 18:10:47 -0700",
       "minecraft:enderman": "2023-08-20 00:15:58 -0700",
       "minecraft:vex": "2023-08-29 10:21:03 -0700",
       "minecraft:zombie": "2023-08-14 09:19:23 -0700",
@@ -934,7 +968,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
+      "log_spam_fixer": "2023-09-10 19:07:01 -0700"
     },
     "done": false
   },
@@ -1262,6 +1296,12 @@
     },
     "done": true
   },
+  "mt:technical/armor/boots": {
+    "criteria": {
+      "feet": "2023-09-14 04:16:30 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-09-06 20:26:38 -0700"
@@ -1312,7 +1352,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
+      "log_spam_fixer": "2023-09-10 19:07:01 -0700"
     },
     "done": false
   },
@@ -1331,6 +1371,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2023-08-20 16:58:09 -0700"
+    },
+    "done": true
+  },
+  "nucleus:using_item/shield": {
+    "criteria": {
+      "requirement": "2023-09-14 04:16:59 -0700"
     },
     "done": true
   },
@@ -1361,6 +1407,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2023-08-19 19:46:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-09-10 18:31:15 -0700"
     },
     "done": true
   },
@@ -1774,7 +1826,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
+      "log_spam_fixer": "2023-09-10 19:07:01 -0700"
     },
     "done": false
   },
@@ -1798,7 +1850,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
+      "log_spam_fixer": "2023-09-10 19:07:01 -0700"
     },
     "done": false
   },
@@ -1931,7 +1983,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
+      "log_spam_fixer": "2023-09-10 19:07:01 -0700"
     },
     "done": false
   },
@@ -1968,6 +2020,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2023-08-23 16:19:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2023-09-10 18:08:40 -0700"
     },
     "done": true
   },
@@ -2022,6 +2080,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2023-09-04 13:59:16 -0700"
+    },
+    "done": true
+  },
+  "mt:technical/armor/helmet": {
+    "criteria": {
+      "head": "2023-09-14 04:16:30 -0700"
     },
     "done": true
   },
@@ -2235,7 +2299,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
+      "log_spam_fixer": "2023-09-10 19:07:01 -0700"
     },
     "done": false
   },
@@ -2499,6 +2563,12 @@
     },
     "done": true
   },
+  "mt:technical/armor/chestplate": {
+    "criteria": {
+      "chest": "2023-09-14 04:16:30 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2023-09-04 13:59:16 -0700"
@@ -2702,9 +2772,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2023-09-14 04:16:59 -0700",
       "log_spam_fixer": "2023-08-14 09:06:10 -0700"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
@@ -2805,6 +2876,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-08-19 22:02:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2023-09-10 14:36:50 -0700"
     },
     "done": true
   },
@@ -2960,7 +3037,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
+      "log_spam_fixer": "2023-09-10 19:07:01 -0700"
     },
     "done": false
   },
@@ -3078,6 +3155,12 @@
     },
     "done": true
   },
+  "mt:treasure_advancements/first_rare_basalt_treasure": {
+    "criteria": {
+      "obtainchest": "2023-09-10 18:02:19 -0700"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2023-08-20 00:13:55 -0700"
@@ -3105,6 +3188,12 @@
   "mt:treasure_advancements/first_rare_lush_caves_treasure": {
     "criteria": {
       "obtainchest": "2023-08-23 16:15:49 -0700"
+    },
+    "done": true
+  },
+  "nucleus:item_used_on_block/open_barrel": {
+    "criteria": {
+      "requirement": "2023-09-14 04:19:39 -0700"
     },
     "done": true
   },
@@ -3206,7 +3295,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
+      "log_spam_fixer": "2023-09-10 19:07:01 -0700"
     },
     "done": false
   },
@@ -3243,6 +3332,18 @@
   "mt:treasure_advancements/first_common_nether_treasure": {
     "criteria": {
       "obtainchest": "2023-09-02 09:42:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-09-10 18:31:15 -0700"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/technical/used_shield": {
+    "criteria": {
+      "requirement": "2023-09-14 04:16:59 -0700"
     },
     "done": true
   },
@@ -3314,13 +3415,20 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
+      "requirement": "2023-09-14 04:16:30 -0700",
+      "log_spam_fixer": "2023-09-10 19:07:01 -0700"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2023-08-19 19:14:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2023-09-10 14:36:50 -0700"
     },
     "done": true
   },
@@ -3471,6 +3579,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2023-08-19 23:06:48 -0700"
+    },
+    "done": true
+  },
+  "manic:technical/consume_item/sanity": {
+    "criteria": {
+      "good": "2023-09-14 04:27:14 -0700"
     },
     "done": true
   },
@@ -3726,6 +3840,12 @@
     },
     "done": true
   },
+  "mt:technical/armor/leggings": {
+    "criteria": {
+      "legs": "2023-09-14 04:16:30 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2023-08-19 19:14:14 -0700"
@@ -3944,6 +4064,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2023-09-10 18:11:11 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2023-08-14 09:23:37 -0700"
@@ -4000,9 +4126,15 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
+      "log_spam_fixer": "2023-09-10 19:07:01 -0700"
     },
     "done": false
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2023-09-10 18:54:15 -0700"
+    },
+    "done": true
   },
   "majruszsdifficulty:progressive_difficulty/creeperling": {
     "criteria": {
@@ -4042,7 +4174,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
+      "log_spam_fixer": "2023-09-10 19:07:01 -0700"
     },
     "done": false
   },
@@ -4090,7 +4222,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2023-09-08 17:23:49 -0700"
+      "log_spam_fixer": "2023-09-10 19:07:01 -0700"
     },
     "done": false
   },
@@ -4214,6 +4346,12 @@
     },
     "done": true
   },
+  "smithed.crafter:technical/enter_gui": {
+    "criteria": {
+      "click_paleontology_table": "2023-09-14 04:19:39 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2023-08-14 09:18:46 -0700"
@@ -4235,6 +4373,12 @@
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2023-08-20 13:53:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-09-10 18:31:15 -0700"
     },
     "done": true
   },
