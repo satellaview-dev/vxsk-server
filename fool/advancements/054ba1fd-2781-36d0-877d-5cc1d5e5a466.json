@@ -119,21 +119,27 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-10-05 06:56:19 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-10-04 00:23:38 -0700"
     },
     "done": true
   },
-  "vanilla_refresh:has/anvil": {
-    "criteria": {
-      "requirement": "2023-10-04 11:55:19 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2023-10-03 23:36:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2023-10-05 07:08:41 -0700"
     },
     "done": true
   },
@@ -383,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2023-10-05 07:08:34 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2023-10-03 23:28:13 -0700"
@@ -434,10 +446,13 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2023-10-03 23:45:42 -0700",
+      "tropical_fish": "2023-10-05 07:15:39 -0700",
       "apple": "2023-10-03 23:40:56 -0700",
       "mutton": "2023-10-04 00:21:20 -0700",
+      "salmon": "2023-10-05 07:15:16 -0700",
       "melon_slice": "2023-10-04 00:15:08 -0700",
-      "cooked_chicken": "2023-10-04 00:21:53 -0700"
+      "cooked_chicken": "2023-10-04 00:21:53 -0700",
+      "mushroom_stew": "2023-10-05 07:11:00 -0700"
     },
     "done": false
   },
@@ -588,12 +603,6 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2023-10-03 23:36:56 -0700"
-    },
-    "done": true
-  },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2023-10-03 23:37:27 -0700"
     },
     "done": true
   },
@@ -915,6 +924,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2023-10-05 07:08:34 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2023-10-05 07:08:26 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-10-04 00:23:38 -0700"
@@ -988,6 +1009,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2023-10-04 00:51:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-10-05 06:56:19 -0700"
     },
     "done": true
   },
@@ -1108,6 +1135,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2023-10-04 00:58:03 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/expert_mode": {
+    "criteria": {
+      "game_state": "2023-10-05 06:56:25 -0700"
     },
     "done": true
   },
@@ -1261,6 +1294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2023-10-05 07:08:26 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-10-03 23:51:37 -0700"
@@ -1294,12 +1333,6 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2023-10-03 23:33:42 -0700"
-    },
-    "done": true
-  },
-  "smithed.actionbar:v0.2.0/vanilla/bed/slept_in_bed": {
-    "criteria": {
-      "requirement": "2023-10-04 12:00:31 -0700"
     },
     "done": true
   },
@@ -1365,6 +1398,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2023-10-03 23:58:54 -0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2023-10-05 07:07:39 -0700"
     },
     "done": true
   },
@@ -1554,6 +1593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2023-10-05 07:08:26 -0700"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2023-10-03 23:35:00 -0700"
@@ -1726,6 +1771,10 @@
     "criteria": {
       "byg:allium_fields": "2023-10-03 23:34:18 -0700",
       "byg:orchard": "2023-10-03 23:26:38 -0700",
+      "byg:warped_desert": "2023-10-05 07:01:38 -0700",
+      "byg:magma_wastes": "2023-10-05 06:59:18 -0700",
+      "byg:embur_bog": "2023-10-05 06:56:34 -0700",
+      "byg:wailing_garth": "2023-10-05 06:59:26 -0700",
       "byg:basalt_barrera": "2023-10-03 22:50:13 -0700"
     },
     "done": false
@@ -1775,6 +1824,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2023-10-03 22:50:02 -0700",
+      "minecraft:lush_caves": "2023-10-05 07:05:57 -0700",
+      "minecraft:ocean": "2023-10-05 07:07:38 -0700",
+      "minecraft:deep_lukewarm_ocean": "2023-10-05 07:05:58 -0700",
       "minecraft:old_growth_birch_forest": "2023-10-04 00:44:07 -0700"
     },
     "done": false
@@ -1833,6 +1885,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2023-10-05 07:03:46 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2023-10-03 23:31:21 -0700"
@@ -1887,6 +1945,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2023-10-05 07:03:35 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2023-10-03 23:26:28 -0700"
@@ -1920,6 +1984,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-10-04 11:59:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2023-10-05 07:08:41 -0700"
     },
     "done": true
   },

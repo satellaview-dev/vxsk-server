@@ -23,15 +23,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
-      "has_bricks": "2023-10-04 11:16:55 -0700"
+      "has_blue_orchid": "2023-10-04 11:13:24 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+  "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
-      "has_lilac": "2023-10-04 11:34:13 -0700"
+      "has_bricks": "2023-10-04 11:16:55 -0700"
     },
     "done": true
   },
@@ -41,9 +41,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
-      "has_blue_orchid": "2023-10-04 11:13:24 -0700"
+      "has_lilac": "2023-10-04 11:34:13 -0700"
     },
     "done": true
   },
@@ -65,15 +65,15 @@
     },
     "done": true
   },
-  "janoeo_foundation:recipes/misc/copper_nugget": {
-    "criteria": {
-      "has_copper_ingot": "2023-10-04 11:53:29 -0700"
-    },
-    "done": true
-  },
   "valhelsia_structures:recipes/building_blocks/oak_post": {
     "criteria": {
       "has_item": "2023-10-04 11:36:11 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2023-10-04 11:53:29 -0700"
     },
     "done": true
   },
@@ -143,15 +143,15 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2023-10-04 12:05:49 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2023-10-04 12:03:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2023-10-04 12:05:49 -0700"
     },
     "done": true
   },
@@ -161,15 +161,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2023-10-04 11:06:03 -0700"
-    },
-    "done": true
-  },
   "mt:load": {
     "criteria": {
       "requirement": "2023-10-04 11:05:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-10-04 11:06:03 -0700"
     },
     "done": true
   },
@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-10-05 10:23:42 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2023-10-04 11:40:03 -0700"
@@ -221,15 +227,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2023-10-04 11:12:08 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2023-10-04 11:10:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2023-10-04 11:12:08 -0700"
     },
     "done": true
   },
@@ -317,15 +323,21 @@
     },
     "done": true
   },
-  "janoeo_foundation:recipes/misc/smelting_nickel_ingot_from_dust": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_nickel_dust": "2023-10-04 11:40:13 -0700"
+      "has_mossy_cobblestone": "2023-10-05 10:23:42 -0700"
     },
     "done": true
   },
   "nucleus:initiate_0.1.4": {
     "criteria": {
       "impossible": "2023-10-04 11:05:31 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/smelting_nickel_ingot_from_dust": {
+    "criteria": {
+      "has_nickel_dust": "2023-10-04 11:40:13 -0700"
     },
     "done": true
   },
@@ -347,9 +359,9 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
+  "minecraft:recipes/misc/brick": {
     "criteria": {
-      "requirement": "2023-10-04 11:12:19 -0700"
+      "has_clay_ball": "2023-10-05 10:17:21 -0700"
     },
     "done": true
   },
@@ -365,15 +377,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2023-10-04 11:28:10 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2023-10-04 11:19:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2023-10-04 11:28:10 -0700"
     },
     "done": true
   },
@@ -473,15 +485,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2023-10-04 11:19:09 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2023-10-04 11:06:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2023-10-04 11:19:09 -0700"
     },
     "done": true
   },
@@ -544,6 +556,7 @@
       "minecraft:pillager": "2023-10-04 12:54:06 -0700",
       "minecraft:skeleton": "2023-10-04 11:39:09 -0700",
       "minecraft:vindicator": "2023-10-04 12:32:11 -0700",
+      "minecraft:spider": "2023-10-05 10:18:58 -0700",
       "minecraft:creeper": "2023-10-04 12:28:56 -0700",
       "minecraft:zombie": "2023-10-04 11:39:40 -0700",
       "minecraft:zombie_villager": "2023-10-04 13:06:53 -0700"
@@ -568,6 +581,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/brazier": {
+    "criteria": {
+      "has_coals": "2023-10-04 11:09:50 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2023-10-04 11:41:21 -0700"
@@ -580,27 +599,21 @@
     },
     "done": true
   },
-  "valhelsia_structures:recipes/decorations/brazier": {
-    "criteria": {
-      "has_coals": "2023-10-04 11:09:50 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2023-10-04 11:48:33 -0700"
     },
     "done": true
   },
-  "janoeo_foundation:recipes/misc/tin_ingot_from_block": {
-    "criteria": {
-      "has_tin_block": "2023-10-04 12:03:41 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-10-04 11:17:39 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/tin_ingot_from_block": {
+    "criteria": {
+      "has_tin_block": "2023-10-04 12:03:41 -0700"
     },
     "done": true
   },
@@ -646,15 +659,15 @@
     },
     "done": true
   },
-  "majruszsdifficulty:progressive_difficulty/bleeding": {
-    "criteria": {
-      "bleeding_applied": "2023-10-04 11:39:05 -0700"
-    },
-    "done": true
-  },
   "janoeo_foundation:recipes/misc/blasting_aluminium_ingot_from_raw": {
     "criteria": {
       "has_raw_aluminium": "2023-10-04 11:37:53 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/bleeding": {
+    "criteria": {
+      "bleeding_applied": "2023-10-04 11:39:05 -0700"
     },
     "done": true
   },
@@ -679,6 +692,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2023-10-04 11:19:09 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2023-10-05 10:27:04 -0700"
     },
     "done": true
   },
@@ -772,6 +791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2023-10-05 10:17:21 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2023-10-04 11:11:12 -0700"
@@ -796,27 +821,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2023-10-04 11:28:10 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_banner": {
     "criteria": {
       "has_cyan_wool": "2023-10-04 11:27:42 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_axe": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "has_gold_ingot": "2023-10-04 12:03:54 -0700"
+      "has_book": "2023-10-04 11:28:10 -0700"
     },
     "done": true
   },
   "janoeo_foundation:recipes/misc/smelting_uranium_ingot_from_dust": {
     "criteria": {
       "has_uranium_dust": "2023-10-04 11:41:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2023-10-04 12:03:54 -0700"
     },
     "done": true
   },
@@ -880,15 +905,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2023-10-04 11:23:01 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2023-10-04 11:11:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-04 11:23:01 -0700"
     },
     "done": true
   },
@@ -916,15 +941,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2023-10-04 11:17:39 -0700"
-    },
-    "done": true
-  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2023-10-04 11:05:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2023-10-04 11:17:39 -0700"
     },
     "done": true
   },
@@ -964,12 +989,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2023-10-04 11:17:39 -0700"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2023-10-04 11:05:31 -0700",
@@ -979,6 +998,12 @@
       "minecraft:plains": "2023-10-04 12:58:17 -0700"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2023-10-04 11:17:39 -0700"
+    },
+    "done": true
   },
   "janoeo_foundation:recipes/misc/tin_nugget": {
     "criteria": {
@@ -992,21 +1017,15 @@
     },
     "done": true
   },
-  "janoeo_foundation:recipes/misc/silver_rod": {
-    "criteria": {
-      "has_silver_ingot": "2023-10-04 12:37:17 -0700"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_cyan_wool": "2023-10-04 11:27:42 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
+  "janoeo_foundation:recipes/misc/silver_rod": {
     "criteria": {
-      "has_cobblestone": "2023-10-04 11:22:23 -0700"
+      "has_silver_ingot": "2023-10-04 12:37:17 -0700"
     },
     "done": true
   },
@@ -1016,9 +1035,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2023-10-04 11:22:23 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2023-10-04 11:54:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2023-10-05 10:19:14 -0700"
     },
     "done": true
   },
@@ -1052,15 +1083,15 @@
     },
     "done": true
   },
-  "janoeo_foundation:recipes/misc/tin_rod": {
-    "criteria": {
-      "has_tin_ingot": "2023-10-04 11:53:20 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-10-04 11:22:23 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/tin_rod": {
+    "criteria": {
+      "has_tin_ingot": "2023-10-04 11:53:20 -0700"
     },
     "done": true
   },
@@ -1124,15 +1155,15 @@
     },
     "done": true
   },
-  "janoeo_foundation:recipes/misc/nickel_block": {
-    "criteria": {
-      "has_nickel_ingot": "2023-10-04 12:05:13 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2023-10-04 11:17:39 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/nickel_block": {
+    "criteria": {
+      "has_nickel_ingot": "2023-10-04 12:05:13 -0700"
     },
     "done": true
   },
@@ -1148,17 +1179,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2023-10-04 13:01:27 -0700"
-    },
-    "done": true
-  },
   "manic:manic/kill_all_spectres": {
     "criteria": {
       "paracusia": "2023-10-04 12:32:11 -0700"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2023-10-04 13:01:27 -0700"
+    },
+    "done": true
   },
   "valhelsia_structures:recipes/building_blocks/brown_metal_framed_glass": {
     "criteria": {
@@ -1202,6 +1233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2023-10-04 11:09:50 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2023-10-04 11:27:28 -0700"
@@ -1211,12 +1248,6 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2023-10-04 12:40:10 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_coal": "2023-10-04 11:09:50 -0700"
     },
     "done": true
   },
@@ -1232,12 +1263,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_the_recipe": "2023-10-04 11:54:11 -0700"
-    },
-    "done": true
-  },
   "valhelsia_structures:recipes/building_blocks/orange_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2023-10-04 11:23:01 -0700"
@@ -1247,6 +1272,12 @@
   "janoeo_foundation:recipes/misc/aluminum_block": {
     "criteria": {
       "has_aluminum_ingot": "2023-10-04 11:53:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2023-10-04 11:54:11 -0700"
     },
     "done": true
   },
@@ -1274,15 +1305,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2023-10-04 12:30:33 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2023-10-04 11:06:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2023-10-04 12:30:33 -0700"
     },
     "done": true
   },
@@ -1310,15 +1341,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_gold_ingot": "2023-10-04 12:03:54 -0700"
+      "has_red_mushroom": "2023-10-05 10:19:46 -0700"
     },
     "done": true
   },
   "valhelsia_structures:recipes/building_blocks/red_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2023-10-04 11:23:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2023-10-04 12:03:54 -0700"
     },
     "done": true
   },
@@ -1338,7 +1375,8 @@
     "criteria": {
       "cooked_mutton": "2023-10-04 12:15:24 -0700",
       "cooked_beef": "2023-10-04 12:42:59 -0700",
-      "apple": "2023-10-04 11:24:53 -0700"
+      "apple": "2023-10-04 11:24:53 -0700",
+      "rotten_flesh": "2023-10-05 10:28:10 -0700"
     },
     "done": false
   },
@@ -1390,15 +1428,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2023-10-04 11:17:39 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-10-04 11:41:12 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
-      "has_cobbled_deepslate": "2023-10-04 11:17:39 -0700"
+      "has_mossy_cobblestone": "2023-10-05 10:23:42 -0700"
+    },
+    "done": true
+  },
+  "literagame:root": {
+    "criteria": {
+      "tick": "2023-10-04 11:05:31 -0700"
     },
     "done": true
   },
@@ -1411,12 +1461,6 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2023-10-04 12:09:27 -0700"
-    },
-    "done": true
-  },
-  "literagame:root": {
-    "criteria": {
-      "tick": "2023-10-04 11:05:31 -0700"
     },
     "done": true
   },
@@ -1444,15 +1488,21 @@
     },
     "done": true
   },
-  "janoeo_foundation:recipes/misc/raw_nickel_block": {
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_raw_nickel": "2023-10-04 12:25:23 -0700"
+      "has_mossy_cobblestone": "2023-10-05 10:23:42 -0700"
     },
     "done": true
   },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2023-10-04 12:16:09 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/raw_nickel_block": {
+    "criteria": {
+      "has_raw_nickel": "2023-10-04 12:25:23 -0700"
     },
     "done": true
   },
@@ -1504,15 +1554,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2023-10-04 12:26:40 -0700"
-    },
-    "done": true
-  },
   "friendsandfoes:recipes/redstone/copper_button": {
     "criteria": {
       "has_copper_ingot": "2023-10-04 11:53:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2023-10-04 12:26:40 -0700"
     },
     "done": true
   },
@@ -1546,15 +1596,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_hoe": {
-    "criteria": {
-      "has_iron_ingot": "2023-10-04 11:23:01 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2023-10-04 11:11:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2023-10-04 11:23:01 -0700"
     },
     "done": true
   },
@@ -1570,15 +1620,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2023-10-04 12:26:40 -0700"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2023-10-04 11:24:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2023-10-04 12:26:40 -0700"
     },
     "done": true
   },
@@ -1588,15 +1638,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2023-10-04 12:03:54 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2023-10-04 12:03:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2023-10-04 12:03:54 -0700"
     },
     "done": true
   },
@@ -1630,15 +1680,15 @@
     },
     "done": true
   },
-  "janoeo_foundation:recipes/misc/lead_ingot_from_block": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_lead_block": "2023-10-04 12:41:41 -0700"
+      "has_red_mushroom": "2023-10-05 10:19:46 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/tools/clock": {
+  "janoeo_foundation:recipes/misc/lead_ingot_from_block": {
     "criteria": {
-      "has_redstone": "2023-10-04 12:26:40 -0700"
+      "has_lead_block": "2023-10-04 12:41:41 -0700"
     },
     "done": true
   },
@@ -1648,21 +1698,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2023-10-04 12:26:40 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2023-10-04 12:30:33 -0700"
     },
     "done": true
   },
-  "valhelsia_structures:recipes/decorations/cyan_sleeping_bag": {
-    "criteria": {
-      "has_cyan_wool": "2023-10-04 11:27:42 -0700"
-    },
-    "done": true
-  },
   "valhelsia_structures:recipes/building_blocks/yellow_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2023-10-04 11:23:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2023-10-04 11:27:42 -0700"
     },
     "done": true
   },
@@ -1696,15 +1752,15 @@
     },
     "done": true
   },
-  "janoeo_foundation:recipes/misc/smelting_aluminium_ingot_from_raw": {
-    "criteria": {
-      "has_raw_aluminium": "2023-10-04 11:37:53 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2023-10-04 11:11:06 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/smelting_aluminium_ingot_from_raw": {
+    "criteria": {
+      "has_raw_aluminium": "2023-10-04 11:37:53 -0700"
     },
     "done": true
   },
@@ -1717,6 +1773,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2023-10-04 12:07:13 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/expert_mode": {
+    "criteria": {
+      "game_state": "2023-10-05 10:07:06 -0700"
     },
     "done": true
   },
@@ -1774,15 +1836,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2023-10-04 12:03:54 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2023-10-04 11:54:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2023-10-04 12:03:54 -0700"
     },
     "done": true
   },
@@ -1839,6 +1901,7 @@
     "criteria": {
       "is_magic": "2023-10-04 11:12:19 -0700",
       "bypass_armor": "2023-10-04 11:12:19 -0700",
+      "is_fire": "2023-10-05 10:28:19 -0700",
       "generic": "2023-10-04 12:54:50 -0700",
       "is_explosion": "2023-10-04 12:15:20 -0700"
     },
@@ -1874,15 +1937,15 @@
     },
     "done": true
   },
-  "janoeo_foundation:recipes/misc/silver_ingot_from_nugget": {
-    "criteria": {
-      "has_silver_nugget": "2023-10-04 12:25:41 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2023-10-04 12:03:54 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/silver_ingot_from_nugget": {
+    "criteria": {
+      "has_silver_nugget": "2023-10-04 12:25:41 -0700"
     },
     "done": true
   },
@@ -1895,6 +1958,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-10-04 11:41:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-10-05 10:23:42 -0700"
     },
     "done": true
   },
@@ -1928,15 +1997,15 @@
     },
     "done": true
   },
-  "janoeo_foundation:recipes/misc/smelting_uranium_ingot_from_raw": {
-    "criteria": {
-      "has_raw_uranium": "2023-10-04 12:25:45 -0700"
-    },
-    "done": true
-  },
   "valhelsia_structures:recipes/building_blocks/magenta_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2023-10-04 11:23:01 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/smelting_uranium_ingot_from_raw": {
+    "criteria": {
+      "has_raw_uranium": "2023-10-04 12:25:45 -0700"
     },
     "done": true
   },
@@ -2006,12 +2075,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:has/banners": {
-    "criteria": {
-      "requirement": "2023-10-04 13:13:01 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2023-10-04 12:26:40 -0700"
@@ -2074,15 +2137,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2023-10-04 12:54:33 -0700"
-    },
-    "done": true
-  },
   "majruszsdifficulty:progressive_difficulty/normal_mode": {
     "criteria": {
       "game_state": "2023-10-04 11:05:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2023-10-04 12:54:33 -0700"
     },
     "done": true
   },
@@ -2092,15 +2155,15 @@
     },
     "done": true
   },
-  "byg:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2023-10-04 11:24:53 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2023-10-04 11:23:01 -0700"
+    },
+    "done": true
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-10-04 11:24:53 -0700"
     },
     "done": true
   },
@@ -2158,15 +2221,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_bed": {
-    "criteria": {
-      "has_cyan_wool": "2023-10-04 11:27:42 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2023-10-04 11:18:22 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2023-10-04 11:27:42 -0700"
     },
     "done": true
   },
@@ -2194,21 +2257,15 @@
     },
     "done": true
   },
-  "valhelsia_structures:recipes/building_blocks/stripped_dark_oak_post": {
-    "criteria": {
-      "has_item": "2023-10-04 11:12:08 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2023-10-04 11:11:06 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+  "valhelsia_structures:recipes/building_blocks/stripped_dark_oak_post": {
     "criteria": {
-      "has_iron_block": "2023-10-04 11:57:38 -0700"
+      "has_item": "2023-10-04 11:12:08 -0700"
     },
     "done": true
   },
@@ -2218,15 +2275,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_iron_ingot": "2023-10-04 11:23:01 -0700"
+      "has_iron_block": "2023-10-04 11:57:38 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/daylight_detector": {
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
-      "has_quartz": "2023-10-04 12:54:33 -0700"
+      "has_iron_ingot": "2023-10-04 11:23:01 -0700"
     },
     "done": true
   },
@@ -2236,9 +2293,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
-      "bred": "2023-10-04 13:12:41 -0700"
+      "has_quartz": "2023-10-04 12:54:33 -0700"
     },
     "done": true
   },
@@ -2248,9 +2305,9 @@
     },
     "done": true
   },
-  "janoeo_foundation:recipes/misc/smelting_nickel_ingot_from_raw": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "has_raw_nickel": "2023-10-04 12:25:23 -0700"
+      "bred": "2023-10-04 13:12:41 -0700"
     },
     "done": true
   },
@@ -2260,15 +2317,21 @@
     },
     "done": true
   },
-  "janoeo_foundation:recipes/misc/blasting_lead_ingot_from_raw": {
+  "janoeo_foundation:recipes/misc/smelting_nickel_ingot_from_raw": {
     "criteria": {
-      "has_raw_lead": "2023-10-04 12:17:03 -0700"
+      "has_raw_nickel": "2023-10-04 12:25:23 -0700"
     },
     "done": true
   },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2023-10-04 12:03:54 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/blasting_lead_ingot_from_raw": {
+    "criteria": {
+      "has_raw_lead": "2023-10-04 12:17:03 -0700"
     },
     "done": true
   },
@@ -2317,6 +2380,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2023-10-04 11:23:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-10-05 10:23:42 -0700"
     },
     "done": true
   },
