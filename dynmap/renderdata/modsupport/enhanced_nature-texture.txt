@@ -1,0 +1,4 @@
+modname:enhanced_nature
+
+texture:id=quicksand,filename=assets/enhanced_nature/textures/block/quicksand.png,xcount=1,ycount=1
+block:id=%quicksand,patch0=0:quicksand,patch1=0:quicksand,patch2=0:quicksand,patch3=0:quicksand,patch4=0:quicksand,patch5=0:quicksand,transparency=SEMITRANSPARENT,stdrot=true

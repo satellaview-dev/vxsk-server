@@ -1,0 +1,128 @@
+{
+  "global:2mal3": {
+    "criteria": {
+      "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "2mal3:adco/installed": {
+    "criteria": {
+      "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "mt:load": {
+    "criteria": {
+      "requirement": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "global:tayacrystals": {
+    "criteria": {
+      "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "bob:bob": {
+    "criteria": {
+      "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "literagame:more_bossbars": {
+    "criteria": {
+      "tick": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "global:hako": {
+    "criteria": {
+      "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:rainbow_beach": "2023-10-03 01:35:16 -0700",
+      "byg:amaranth_fields": "2023-10-03 01:31:48 -0700",
+      "byg:lush_stacks": "2023-10-03 01:36:48 -0700"
+    },
+    "done": false
+  },
+  "deactivateportals:pack": {
+    "criteria": {
+      "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "global:ps": {
+    "criteria": {
+      "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/normal_mode": {
+    "criteria": {
+      "game_state": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "global:ps/book_of_experience": {
+    "criteria": {
+      "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "literagame:root": {
+    "criteria": {
+      "tick": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2023-10-03 01:37:06 -0700",
+      "minecraft:lukewarm_ocean": "2023-10-03 01:35:17 -0700",
+      "minecraft:river": "2023-10-03 01:35:46 -0700",
+      "minecraft:deep_lukewarm_ocean": "2023-10-03 01:36:36 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}

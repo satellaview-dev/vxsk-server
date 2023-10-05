@@ -75,7 +75,7 @@
 	hunchbackClusterPickupInterval = 20
 	#DEFAULT=40. Alters the interval (in ticks) of picking up block clusters for the destroyer phases (phase 4 - 5). NOTE: This value changes the evolution speed of the Wither Storm significantly. Reload Type: NONE
 	#Range: 10 ~ 80
-	clusterPickupInterval = 40
+	clusterPickupInterval = 10
 	#DEFAULT=40. Alters the interval (in ticks) of picking up block clusters for the devourer phases (phase 6+). NOTE: This value changes the evolution speed of the Wither Storm significantly. Reload Type: NONE
 	#Range: 10 ~ 80
 	devourerClusterPickupInterval = 40

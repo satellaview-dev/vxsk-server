@@ -14,7 +14,7 @@ worlds:
     name: aoa3_nowhere
     the_end: false
     title: aoa3_nowhere
-    height: 2032
+    height: 320
 -   sealevel: 63
     nether: false
     miny: -64
@@ -28,7 +28,7 @@ worlds:
     name: aoa3_precasia
     the_end: false
     title: aoa3_precasia
-    height: 384
+    height: 320
 -   sealevel: 63
     nether: false
     miny: 0
@@ -63,6 +63,20 @@ worlds:
     name: VXSK2
     the_end: false
     title: VXSK2
+    height: 320
+-   sealevel: 63
+    nether: false
+    miny: -64
+    name: orion-test
+    the_end: false
+    title: orion-test
+    height: 320
+-   sealevel: 63
+    nether: false
+    miny: -64
+    name: fool
+    the_end: false
+    title: fool
     height: 1088
 useSaveFolderAsName: true
 maxWorldHeight: 320

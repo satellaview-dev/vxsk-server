@@ -1,0 +1,47 @@
+
+###############################
+#Health Dice Properties
+###############################
+[health]
+	# Enables modification for this attribute.
+	enable = true
+	# The type of dice to use for calculations.
+	# See https://www.dieharddice.com/pages/dnd-dice-explained
+	#X
+	diceType = 6
+	#the range factor
+	#Range: 2.0 ~ 10.0
+	rangeFactor = 2.0
+	# Permitted mobs for that should receive attribute modification.
+	# ex. minecraft:zombie
+	mobWhitelist = []
+	# Denied mobs for that should not receive attribute modification.
+	# ex. minecraft:ghast
+	mobBlacklist = ["minecraft:ghast"]
+	#bonus
+	#Range: 0.0 ~ 1024.0
+	bonus = 0.0
+
+###############################
+#Speed Dice Properties
+###############################
+[speed]
+	# Enables modification for this attribute.
+	enable = true
+	# The type of dice to use for calculations.
+	# See https://www.dieharddice.com/pages/dnd-dice-explained
+	#X
+	diceType = 6
+	#the range factor
+	#Range: 2.0 ~ 10.0
+	rangeFactor = 2.0
+	# Permitted mobs for that should receive attribute modification.
+	# ex. minecraft:zombie
+	mobWhitelist = []
+	# Denied mobs for that should not receive attribute modification.
+	# ex. minecraft:ghast
+	mobBlacklist = ["minecraft:ghast"]
+	#bonus
+	#Range: 0.0 ~ 1024.0
+	bonus = 0.0
+

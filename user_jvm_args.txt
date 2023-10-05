@@ -6,4 +6,5 @@
 
 # A good default for a modded server is 4GB.
 # Uncomment the next line to set it.
--Xmx12G
+-Xmx32G
+-Xms2500M

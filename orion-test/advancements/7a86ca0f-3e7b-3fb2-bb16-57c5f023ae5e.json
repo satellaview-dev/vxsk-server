@@ -1,0 +1,725 @@
+{
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2023-10-03 15:14:29 -0700"
+    },
+    "done": true
+  },
+  "2mal3:adco/installed": {
+    "criteria": {
+      "trigger": "2023-10-03 13:41:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2023-10-03 13:59:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-10-03 13:59:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2023-10-03 14:42:04 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/misc/bone_pile_block_from_bone": {
+    "criteria": {
+      "has_bone": "2023-10-03 14:43:06 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_soul_fire_base_blocks": "2023-10-03 14:32:37 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/bandage": {
+    "criteria": {
+      "has_string": "2023-10-03 15:14:29 -0700"
+    },
+    "done": true
+  },
+  "simplewarden:kill_the_warden": {
+    "criteria": {
+      "killed_warden": "2023-10-03 14:40:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2023-10-03 15:14:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2023-10-03 13:50:57 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/string_from_cloth": {
+    "criteria": {
+      "has_cloth": "2023-10-03 14:43:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2023-10-03 15:14:29 -0700"
+    },
+    "done": true
+  },
+  "mt:entity_hit_system/on_hurt": {
+    "criteria": {
+      "target": "2023-10-03 15:25:29 -0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2023-10-03 14:34:37 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-10-03 13:58:42 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/cut_oak_post": {
+    "criteria": {
+      "has_item": "2023-10-03 13:47:54 -0700"
+    },
+    "done": true
+  },
+  "mt:load": {
+    "criteria": {
+      "requirement": "2023-10-03 13:41:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-10-03 14:00:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2023-10-03 14:18:38 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2023-10-03 14:43:16 -0700"
+    },
+    "done": true
+  },
+  "mt:entity_hit_system/on_hit": {
+    "criteria": {
+      "not_target": "2023-10-03 14:27:36 -0700",
+      "target": "2023-10-03 14:33:09 -0700"
+    },
+    "done": false
+  },
+  "deactivateportals:pack": {
+    "criteria": {
+      "trigger": "2023-10-03 13:41:03 -0700"
+    },
+    "done": true
+  },
+  "improvedvanilla:recipes/dead_bush": {
+    "criteria": {
+      "has_sapling": "2023-10-03 14:55:20 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2023-10-03 14:11:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2023-10-03 15:08:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-10-03 14:00:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2023-10-03 14:38:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2023-10-03 13:59:36 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/bone_pile": {
+    "criteria": {
+      "has_bone": "2023-10-03 14:43:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2023-10-03 15:15:23 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:death/arrow": {
+    "criteria": {
+      "requirement": "2023-10-03 15:25:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2023-10-03 14:57:01 -0700"
+    },
+    "done": true
+  },
+  "global:tayacrystals": {
+    "criteria": {
+      "trigger": "2023-10-03 13:41:03 -0700"
+    },
+    "done": true
+  },
+  "literagame:more_bossbars": {
+    "criteria": {
+      "tick": "2023-10-03 13:41:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2023-10-03 14:47:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2023-10-03 13:59:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2023-10-03 15:14:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2023-10-03 14:47:26 -0700"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2023-10-03 13:41:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2023-10-03 14:43:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2023-10-03 13:59:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2023-10-03 13:43:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2023-10-03 14:31:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2023-10-03 14:32:53 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/redstone_nugget": {
+    "criteria": {
+      "has_redstone_dust": "2023-10-03 14:31:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2023-10-03 14:31:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2023-10-03 15:14:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2023-10-03 15:08:15 -0700"
+    },
+    "done": true
+  },
+  "global:ps/book_of_experience": {
+    "criteria": {
+      "trigger": "2023-10-03 13:41:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-10-03 14:38:12 -0700"
+    },
+    "done": true
+  },
+  "literagame:root": {
+    "criteria": {
+      "tick": "2023-10-03 13:41:03 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2023-10-03 13:46:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2023-10-03 14:42:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2023-10-03 14:14:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2023-10-03 15:14:29 -0700"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2023-10-03 13:41:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2023-10-03 14:32:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2023-10-03 14:31:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:magma_cube": "2023-10-03 14:34:17 -0700"
+    },
+    "done": true
+  },
+  "bob:bob": {
+    "criteria": {
+      "trigger": "2023-10-03 13:41:03 -0700"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2023-10-03 13:41:03 -0700"
+    },
+    "done": true
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:rainbow_beach": "2023-10-03 13:46:44 -0700",
+      "byg:allium_fields": "2023-10-03 15:19:47 -0700",
+      "byg:coconino_meadow": "2023-10-03 15:21:39 -0700",
+      "byg:prairie": "2023-10-03 15:19:08 -0700",
+      "byg:orchard": "2023-10-03 15:19:53 -0700",
+      "byg:fragment_forest": "2023-10-03 14:05:49 -0700",
+      "byg:firecracker_shrubland": "2023-10-03 15:18:58 -0700",
+      "byg:araucaria_savanna": "2023-10-03 15:18:56 -0700",
+      "byg:jacaranda_forest": "2023-10-03 14:12:25 -0700",
+      "byg:autumnal_valley": "2023-10-03 15:21:36 -0700",
+      "byg:skyris_vale": "2023-10-03 15:28:36 -0700",
+      "byg:forgotten_forest": "2023-10-03 14:05:08 -0700",
+      "byg:baobab_savanna": "2023-10-03 15:19:18 -0700",
+      "byg:amaranth_fields": "2023-10-03 13:41:03 -0700",
+      "byg:basalt_barrera": "2023-10-03 14:21:00 -0700",
+      "byg:temperate_rainforest": "2023-10-03 14:15:57 -0700",
+      "byg:maple_taiga": "2023-10-03 15:27:05 -0700",
+      "byg:dacite_shore": "2023-10-03 14:01:16 -0700"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-10-03 14:42:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2023-10-03 13:59:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2023-10-03 13:59:36 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/normal_mode": {
+    "criteria": {
+      "game_state": "2023-10-03 13:41:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2023-10-03 14:31:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2023-10-03 13:59:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2023-10-03 14:11:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2023-10-03 14:09:04 -0700",
+      "minecraft:sparse_jungle": "2023-10-03 14:00:44 -0700",
+      "minecraft:lukewarm_ocean": "2023-10-03 13:47:13 -0700",
+      "minecraft:river": "2023-10-03 13:47:11 -0700",
+      "minecraft:stony_shore": "2023-10-03 14:01:24 -0700",
+      "minecraft:dripstone_caves": "2023-10-03 15:24:04 -0700",
+      "minecraft:lush_caves": "2023-10-03 14:14:39 -0700",
+      "minecraft:plains": "2023-10-03 14:00:31 -0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2023-10-03 13:43:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-10-03 13:51:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2023-10-03 14:47:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-10-03 13:59:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2023-10-03 13:50:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2023-10-03 14:31:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-10-03 14:00:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2023-10-03 13:59:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2023-10-03 13:59:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2023-10-03 14:38:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2023-10-03 13:59:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-10-03 14:00:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2023-10-03 13:59:36 -0700"
+    },
+    "done": true
+  },
+  "global:hako": {
+    "criteria": {
+      "trigger": "2023-10-03 13:41:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-10-03 14:34:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-10-03 14:00:50 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/bundled_oak_posts": {
+    "criteria": {
+      "has_oak_post": "2023-10-03 13:47:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-10-03 13:59:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2023-10-03 15:08:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2023-10-03 13:59:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2023-10-03 14:31:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2023-10-03 15:14:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-10-03 14:00:50 -0700"
+    },
+    "done": true
+  },
+  "friendsandfoes:nether/kill_wildfire": {
+    "criteria": {
+      "killed_wildfire": "2023-10-03 14:40:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2023-10-03 14:42:01 -0700",
+      "minecraft:skeleton": "2023-10-03 14:43:01 -0700",
+      "minecraft:magma_cube": "2023-10-03 14:34:17 -0700",
+      "minecraft:spider": "2023-10-03 15:14:29 -0700",
+      "minecraft:creeper": "2023-10-03 15:10:48 -0700",
+      "minecraft:husk": "2023-10-03 14:43:46 -0700",
+      "minecraft:stray": "2023-10-03 14:43:53 -0700",
+      "minecraft:zombie": "2023-10-03 14:43:30 -0700"
+    },
+    "done": false
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor_to_cloth": {
+    "criteria": {
+      "has_tattered_armor": "2023-10-03 14:43:35 -0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2023-10-03 13:41:03 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
+    "criteria": {
+      "has_cloth": "2023-10-03 14:43:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2023-10-03 14:31:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2023-10-03 14:31:35 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/bone_pile_block_from_bone_piles": {
+    "criteria": {
+      "has_bone_pile": "2023-10-03 15:25:54 -0700"
+    },
+    "done": true
+  },
+  "global:2mal3": {
+    "criteria": {
+      "trigger": "2023-10-03 13:41:03 -0700"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2023-10-03 13:41:03 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2023-10-03 14:47:26 -0700"
+    },
+    "done": true
+  },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "crimson_beehive": "2023-10-03 13:49:53 -0700"
+    },
+    "done": false
+  },
+  "majruszsdifficulty:progressive_difficulty/undead_army": {
+    "criteria": {
+      "army_defeated": "2023-10-03 14:45:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-10-03 14:00:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2023-10-03 14:32:37 -0700"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-10-03 13:41:03 -0700"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_blaze_rod": "2023-10-03 14:42:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2023-10-03 13:59:36 -0700"
+    },
+    "done": true
+  },
+  "global:ps": {
+    "criteria": {
+      "trigger": "2023-10-03 13:41:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2023-10-03 14:32:37 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2023-10-03 13:50:57 -0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3218
+}

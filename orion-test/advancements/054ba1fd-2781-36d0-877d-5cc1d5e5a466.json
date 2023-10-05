@@ -1,0 +1,897 @@
+{
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2023-10-03 15:13:26 -0700"
+    },
+    "done": true
+  },
+  "2mal3:adco/installed": {
+    "criteria": {
+      "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-10-03 14:04:52 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/misc/bone_pile_block_from_bone": {
+    "criteria": {
+      "has_bone": "2023-10-03 14:43:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2023-10-03 14:47:10 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/bandage": {
+    "criteria": {
+      "has_string": "2023-10-03 15:13:26 -0700"
+    },
+    "done": true
+  },
+  "simplewarden:kill_the_warden": {
+    "criteria": {
+      "killed_warden": "2023-10-03 14:46:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2023-10-03 15:13:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-10-03 14:04:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2023-10-03 18:37:20 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2023-10-03 15:13:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-10-03 20:01:59 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-10-03 14:04:52 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/string_from_cloth": {
+    "criteria": {
+      "has_cloth": "2023-10-03 14:43:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2023-10-03 14:36:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2023-10-03 15:13:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2023-10-03 14:03:09 -0700"
+    },
+    "done": true
+  },
+  "mt:entity_hit_system/on_hurt": {
+    "criteria": {
+      "target": "2023-10-03 14:42:48 -0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2023-10-03 14:34:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-10-03 14:02:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-10-03 14:04:52 -0700"
+    },
+    "done": true
+  },
+  "mt:load": {
+    "criteria": {
+      "requirement": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-10-03 14:14:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2023-10-03 14:21:59 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2023-10-03 14:43:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2023-10-03 18:36:01 -0700"
+    },
+    "done": true
+  },
+  "sculk_expansion:compass_track": {
+    "criteria": {
+      "holding_recovery_compass": "2023-10-03 19:56:02 -0700"
+    },
+    "done": true
+  },
+  "mt:entity_hit_system/on_hit": {
+    "criteria": {
+      "not_target": "2023-10-03 14:37:52 -0700",
+      "target": "2023-10-03 14:15:18 -0700"
+    },
+    "done": false
+  },
+  "smithed.damage:v0.1.0/player/event": {
+    "criteria": {
+      "is_magic": "2023-10-03 19:55:16 -0700",
+      "bypass_armor": "2023-10-03 19:55:16 -0700"
+    },
+    "done": false
+  },
+  "warppad:root": {
+    "criteria": {
+      "hasitem": "2023-10-03 19:55:52 -0700"
+    },
+    "done": true
+  },
+  "deactivateportals:pack": {
+    "criteria": {
+      "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "improvedvanilla:recipes/dead_bush": {
+    "criteria": {
+      "has_sapling": "2023-10-03 14:55:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2023-10-03 13:58:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2023-10-03 14:54:09 -0700"
+    },
+    "done": true
+  },
+  "improvedvanilla:recipes/gilded_blackstone": {
+    "criteria": {
+      "has_gold_nugget": "2023-10-03 15:20:00 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:has/echo_shard": {
+    "criteria": {
+      "requirement": "2023-10-03 19:55:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2023-10-03 19:55:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-10-03 14:14:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2023-10-03 14:27:34 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2023-10-03 13:58:27 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/bone_pile": {
+    "criteria": {
+      "has_bone": "2023-10-03 14:43:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2023-10-03 15:29:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-10-03 14:04:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-10-03 14:04:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2023-10-03 14:36:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2023-10-03 13:57:57 -0700"
+    },
+    "done": true
+  },
+  "global:tayacrystals": {
+    "criteria": {
+      "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "literagame:more_bossbars": {
+    "criteria": {
+      "tick": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/golden_bandage": {
+    "criteria": {
+      "has_bandage": "2023-10-03 14:47:35 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:death/explosion": {
+    "criteria": {
+      "requirement": "2023-10-03 14:50:40 -0700"
+    },
+    "done": true
+  },
+  "manic:technical/initiate_1.0.3": {
+    "criteria": {
+      "tick": "2023-10-03 18:35:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2023-10-03 19:55:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2023-10-03 14:47:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2023-10-03 15:20:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2023-10-03 14:36:18 -0700"
+    },
+    "done": true
+  },
+  "improvedvanilla:recipes/bell": {
+    "criteria": {
+      "has_gold_nugget": "2023-10-03 15:20:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2023-10-03 14:36:18 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/bone_meal_from_cerberus_fang": {
+    "criteria": {
+      "has_fang": "2023-10-03 14:45:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2023-10-03 15:13:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2023-10-03 14:47:10 -0700"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2023-10-03 14:43:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-10-03 14:04:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2023-10-03 14:04:52 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:death/warden": {
+    "criteria": {
+      "requirement": "2023-10-03 15:05:13 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2023-10-03 19:55:52 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:location/the_nether": {
+    "criteria": {
+      "requirement": "2023-10-03 20:02:03 -0700"
+    },
+    "done": true
+  },
+  "nucleus:initiate_0.1.4": {
+    "criteria": {
+      "impossible": "2023-10-03 18:35:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2023-10-03 15:13:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-10-03 14:04:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-10-03 14:04:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2023-10-03 14:54:09 -0700"
+    },
+    "done": true
+  },
+  "global:ps/book_of_experience": {
+    "criteria": {
+      "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2023-10-03 14:36:18 -0700"
+    },
+    "done": true
+  },
+  "literagame:root": {
+    "criteria": {
+      "tick": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2023-10-03 14:37:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2023-10-03 14:47:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2023-10-03 14:21:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-10-03 19:55:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-10-03 14:04:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2023-10-03 14:36:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-10-03 14:04:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2023-10-03 15:13:26 -0700"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-10-03 14:04:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2023-10-03 14:15:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-10-03 19:55:52 -0700"
+    },
+    "done": true
+  },
+  "bob:bob": {
+    "criteria": {
+      "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:rainbow_beach": "2023-10-03 01:35:16 -0700",
+      "byg:allium_fields": "2023-10-03 13:45:58 -0700",
+      "byg:coconino_meadow": "2023-10-03 15:21:42 -0700",
+      "byg:prairie": "2023-10-03 15:22:04 -0700",
+      "byg:red_oak_forest": "2023-10-03 13:45:07 -0700",
+      "byg:fragment_forest": "2023-10-03 14:06:26 -0700",
+      "byg:autumnal_forest": "2023-10-03 19:57:10 -0700",
+      "byg:subzero_hypogeal": "2023-10-03 20:02:04 -0700",
+      "byg:jacaranda_forest": "2023-10-03 14:12:23 -0700",
+      "byg:autumnal_valley": "2023-10-03 15:21:39 -0700",
+      "byg:aspen_forest": "2023-10-03 13:45:00 -0700",
+      "byg:forgotten_forest": "2023-10-03 13:43:38 -0700",
+      "byg:amaranth_fields": "2023-10-03 01:31:48 -0700",
+      "byg:ebony_woods": "2023-10-03 13:43:13 -0700",
+      "byg:lush_stacks": "2023-10-03 01:36:48 -0700",
+      "byg:basalt_barrera": "2023-10-03 15:21:27 -0700",
+      "byg:temperate_rainforest": "2023-10-03 13:45:34 -0700",
+      "byg:maple_taiga": "2023-10-03 18:38:18 -0700",
+      "byg:dacite_shore": "2023-10-03 14:01:20 -0700"
+    },
+    "done": false
+  },
+  "janoeo_foundation:recipes/misc/blasting_diamond_from_ore": {
+    "criteria": {
+      "has_diamond_ore": "2023-10-03 14:02:13 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/elder_guardian_treasure_bag_16": {
+    "criteria": {
+      "bag_opened": "2023-10-03 14:36:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-10-03 14:47:10 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/normal_mode": {
+    "criteria": {
+      "game_state": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2023-10-03 14:47:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2023-10-03 19:57:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2023-10-03 14:37:57 -0700",
+      "minecraft:sparse_jungle": "2023-10-03 01:37:06 -0700",
+      "minecraft:lukewarm_ocean": "2023-10-03 01:35:17 -0700",
+      "minecraft:river": "2023-10-03 01:35:46 -0700",
+      "minecraft:stony_shore": "2023-10-03 14:01:33 -0700",
+      "minecraft:dripstone_caves": "2023-10-03 15:24:07 -0700",
+      "minecraft:lush_caves": "2023-10-03 14:14:35 -0700",
+      "minecraft:ocean": "2023-10-03 15:21:19 -0700",
+      "minecraft:deep_lukewarm_ocean": "2023-10-03 01:36:36 -0700",
+      "minecraft:plains": "2023-10-03 13:46:04 -0700"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-10-03 13:51:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2023-10-03 13:57:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2023-10-03 14:47:10 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/elder_guardian_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2023-10-03 14:36:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-10-03 14:14:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-10-03 14:04:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2023-10-03 13:58:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-10-03 14:14:25 -0700"
+    },
+    "done": true
+  },
+  "global:hako": {
+    "criteria": {
+      "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/smelting_diamond_from_ore": {
+    "criteria": {
+      "has_diamond_ore": "2023-10-03 14:02:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2023-10-03 14:03:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-10-03 14:15:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-10-03 14:14:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2023-10-03 14:47:10 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2023-10-03 14:49:10 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_dark_oak_post": {
+    "criteria": {
+      "has_item": "2023-10-03 18:37:20 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-10-03 14:04:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2023-10-03 15:13:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-10-03 14:14:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2023-10-03 14:03:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2023-10-03 14:38:51 -0700",
+      "minecraft:elder_guardian": "2023-10-03 14:42:36 -0700",
+      "minecraft:magma_cube": "2023-10-03 14:34:11 -0700",
+      "minecraft:spider": "2023-10-03 15:13:26 -0700",
+      "minecraft:wither": "2023-10-03 14:46:34 -0700",
+      "minecraft:husk": "2023-10-03 14:43:45 -0700",
+      "minecraft:stray": "2023-10-03 14:43:49 -0700",
+      "minecraft:zombie": "2023-10-03 14:15:25 -0700"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-10-03 20:01:59 -0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
+    "criteria": {
+      "has_cloth": "2023-10-03 14:43:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2023-10-03 14:36:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2023-10-03 19:57:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2023-10-03 13:58:27 -0700"
+    },
+    "done": true
+  },
+  "global:2mal3": {
+    "criteria": {
+      "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "toolleveling:recipes/tool_leveling_table": {
+    "criteria": {
+      "has_enchanting_table": "2023-10-03 22:30:16 -0700"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2023-10-03 14:47:35 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2023-10-03 14:47:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2023-10-03 14:36:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2023-10-03 19:57:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2023-10-03 15:20:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2023-10-03 14:03:07 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/expert_mode": {
+    "criteria": {
+      "game_state": "2023-10-03 20:02:01 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/undead_army": {
+    "criteria": {
+      "army_defeated": "2023-10-03 14:45:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-10-03 14:14:25 -0700"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2023-10-03 14:36:18 -0700"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_blaze_rod": "2023-10-03 14:47:10 -0700"
+    },
+    "done": true
+  },
+  "global:ps": {
+    "criteria": {
+      "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/bleeding": {
+    "criteria": {
+      "bleeding_applied": "2023-10-03 14:42:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-10-03 14:04:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2023-10-03 14:04:52 -0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3218
+}

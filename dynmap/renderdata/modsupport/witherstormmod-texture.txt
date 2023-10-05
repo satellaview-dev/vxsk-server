@@ -1,13 +1,13 @@
 modname:witherstormmod
 
 texture:id=super_tnt_side,filename=assets/witherstormmod/textures/block/super_tnt_side.png,xcount=1,ycount=1
-texture:id=super_tnt_bottom,filename=assets/witherstormmod/textures/block/super_tnt_bottom.png,xcount=1,ycount=1
 texture:id=super_tnt_top,filename=assets/witherstormmod/textures/block/super_tnt_top.png,xcount=1,ycount=1
-texture:id=formidibomb_front,filename=assets/witherstormmod/textures/block/formidibomb_front.png,xcount=1,ycount=1
-texture:id=formidibomb_side,filename=assets/witherstormmod/textures/block/formidibomb_side.png,xcount=1,ycount=1
-texture:id=formidibomb_bottom,filename=assets/witherstormmod/textures/block/formidibomb_bottom.png,xcount=1,ycount=1
-texture:id=formidibomb_top,filename=assets/witherstormmod/textures/block/formidibomb_top.png,xcount=1,ycount=1
+texture:id=super_tnt_bottom,filename=assets/witherstormmod/textures/block/super_tnt_bottom.png,xcount=1,ycount=1
 texture:id=formidibomb_back,filename=assets/witherstormmod/textures/block/formidibomb_back.png,xcount=1,ycount=1
+texture:id=formidibomb_side,filename=assets/witherstormmod/textures/block/formidibomb_side.png,xcount=1,ycount=1
+texture:id=formidibomb_front,filename=assets/witherstormmod/textures/block/formidibomb_front.png,xcount=1,ycount=1
+texture:id=formidibomb_top,filename=assets/witherstormmod/textures/block/formidibomb_top.png,xcount=1,ycount=1
+texture:id=formidibomb_bottom,filename=assets/witherstormmod/textures/block/formidibomb_bottom.png,xcount=1,ycount=1
 texture:id=amulet,filename=assets/witherstormmod/textures/item/amulet.png,xcount=1,ycount=1
 texture:id=hardened_flesh_block,filename=assets/witherstormmod/textures/block/hardened_flesh_block.png,xcount=1,ycount=1
 texture:id=super_beacon_glass,filename=assets/witherstormmod/textures/block/super_beacon_glass.png,xcount=1,ycount=1
@@ -38,10 +38,10 @@ texture:id=redstone_dust_line0,filename=assets/minecraft/textures/block/redstone
 texture:id=redstone_dust_line1,filename=assets/minecraft/textures/block/redstone_dust_line1.png,xcount=1,ycount=1
 texture:id=tainted_dust_block,filename=assets/witherstormmod/textures/block/tainted_dust_block.png,xcount=1,ycount=1
 block:id=%super_tnt,patch0=0:super_tnt_side,patch1=0:super_tnt_bottom,patch2=0:super_tnt_side,patch3=0:super_tnt_side,patch4=0:super_tnt_top,patch5=0:super_tnt_side,stdrot=true
-block:id=%formidibomb,state=facing:north,patch0=0:formidibomb_front,patch1=0:formidibomb_side,patch2=0:formidibomb_bottom,patch3=0:formidibomb_top,patch4=0:formidibomb_back,stdrot=true
+block:id=%formidibomb,state=facing:north,patch0=0:formidibomb_back,patch1=0:formidibomb_side,patch2=0:formidibomb_front,patch3=0:formidibomb_top,patch4=0:formidibomb_bottom,stdrot=true
 block:id=%formidibomb,state=facing:south,patch0=0:formidibomb_side,patch1=0:formidibomb_bottom,patch2=0:formidibomb_front,patch3=0:formidibomb_side,patch4=0:formidibomb_top,patch5=0:formidibomb_back,stdrot=true
-block:id=%formidibomb,state=facing:west,patch0=0:formidibomb_front,patch1=0:formidibomb_side,patch2=0:formidibomb_bottom,patch3=0:formidibomb_top,patch4=0:formidibomb_back,stdrot=true
-block:id=%formidibomb,state=facing:east,patch0=0:formidibomb_front,patch1=0:formidibomb_side,patch2=0:formidibomb_bottom,patch3=0:formidibomb_top,patch4=0:formidibomb_back,stdrot=true
+block:id=%formidibomb,state=facing:west,patch0=0:formidibomb_back,patch1=0:formidibomb_side,patch2=0:formidibomb_front,patch3=0:formidibomb_top,patch4=0:formidibomb_bottom,stdrot=true
+block:id=%formidibomb,state=facing:east,patch0=0:formidibomb_back,patch1=0:formidibomb_side,patch2=0:formidibomb_front,patch3=0:formidibomb_top,patch4=0:formidibomb_bottom,stdrot=true
 block:id=%super_beacon,patch0=0:amulet,patch1=0:hardened_flesh_block,patch2=0:super_beacon_glass,transparency=SEMITRANSPARENT,stdrot=true
 block:id=%super_support_beacon,patch0=0:support_beacon_glass,patch1=0:hardened_flesh_block,transparency=TRANSPARENT,stdrot=true
 block:id=%tainted_zombie_sitting,state=facing:north,patch0=0:flesh_zomb,patch1=0:flesh_zomb_e,transparency=SEMITRANSPARENT,stdrot=true
