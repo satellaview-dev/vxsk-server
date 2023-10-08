@@ -2,8 +2,8 @@ modname:valhelsia_structures
 
 texture:id=special_spawner,filename=assets/valhelsia_structures/textures/block/special_spawner.png,xcount=1,ycount=1
 texture:id=brazier_side,filename=assets/valhelsia_structures/textures/block/brazier_side.png,xcount=1,ycount=1
-texture:id=brazier_top,filename=assets/valhelsia_structures/textures/block/brazier_top.png,xcount=1,ycount=1
 texture:id=brazier_bottom,filename=assets/valhelsia_structures/textures/block/brazier_bottom.png,xcount=1,ycount=1
+texture:id=brazier_top,filename=assets/valhelsia_structures/textures/block/brazier_top.png,xcount=1,ycount=1
 texture:id=brazier_fire,filename=assets/valhelsia_structures/textures/block/brazier_fire.png,xcount=1,ycount=1
 texture:id=soul_brazier_top,filename=assets/valhelsia_structures/textures/block/soul_brazier_top.png,xcount=1,ycount=1
 texture:id=soul_brazier_fire,filename=assets/valhelsia_structures/textures/block/soul_brazier_fire.png,xcount=1,ycount=1
@@ -170,16 +170,16 @@ texture:id=granite,filename=assets/minecraft/textures/block/granite.png,xcount=1
 texture:id=diorite,filename=assets/minecraft/textures/block/diorite.png,xcount=1,ycount=1
 texture:id=andesite,filename=assets/minecraft/textures/block/andesite.png,xcount=1,ycount=1
 texture:id=grass_block_snow,filename=assets/minecraft/textures/block/grass_block_snow.png,xcount=1,ycount=1
-texture:id=grass_block_top,filename=assets/minecraft/textures/block/grass_block_top.png,xcount=1,ycount=1
 texture:id=dirt,filename=assets/minecraft/textures/block/dirt.png,xcount=1,ycount=1
+texture:id=grass_block_top,filename=assets/minecraft/textures/block/grass_block_top.png,xcount=1,ycount=1
 texture:id=grass_block_side,filename=assets/minecraft/textures/block/grass_block_side.png,xcount=1,ycount=1
 texture:id=grass_block_side_overlay,filename=assets/minecraft/textures/block/grass_block_side_overlay.png,xcount=1,ycount=1
 texture:id=coarse_dirt,filename=assets/minecraft/textures/block/coarse_dirt.png,xcount=1,ycount=1
 block:id=%special_spawner,patch0=0:special_spawner,patch1=0:special_spawner,patch2=0:special_spawner,patch3=0:special_spawner,patch4=0:special_spawner,patch5=0:special_spawner,transparency=SEMITRANSPARENT,stdrot=true
-block:id=%brazier,state=lit:true,patch0=0:brazier_side,patch1=0:brazier_top,patch2=0:brazier_bottom,patch3=0:brazier_fire,transparency=SEMITRANSPARENT,stdrot=true
-block:id=%brazier,state=lit:false,patch0=0:brazier_side,patch1=0:brazier_top,patch2=0:brazier_bottom,transparency=SEMITRANSPARENT,stdrot=true
-block:id=%soul_brazier,state=lit:true,patch0=0:brazier_side,patch1=0:soul_brazier_top,patch2=0:brazier_bottom,patch3=0:soul_brazier_fire,transparency=SEMITRANSPARENT,stdrot=true
-block:id=%soul_brazier,state=lit:false,patch0=0:brazier_side,patch1=0:soul_brazier_top,patch2=0:brazier_bottom,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%brazier,state=lit:true,patch0=0:brazier_side,patch1=0:brazier_bottom,patch2=0:brazier_top,patch3=0:brazier_fire,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%brazier,state=lit:false,patch0=0:brazier_side,patch1=0:brazier_bottom,patch2=0:brazier_top,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%soul_brazier,state=lit:true,patch0=0:brazier_side,patch1=0:brazier_bottom,patch2=0:soul_brazier_top,patch3=0:soul_brazier_fire,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%soul_brazier,state=lit:false,patch0=0:brazier_side,patch1=0:brazier_bottom,patch2=0:soul_brazier_top,transparency=SEMITRANSPARENT,stdrot=true
 block:id=%oak_post,state=attached:true/axis:x,patch0=0:oak_post,patch1=0:oak_post_top,transparency=SEMITRANSPARENT,stdrot=true
 block:id=%oak_post,state=attached:true/axis:y,patch0=0:oak_post,patch1=0:oak_post_top,transparency=SEMITRANSPARENT,stdrot=true
 block:id=%oak_post,state=attached:true/axis:z,patch0=0:oak_post,patch1=0:oak_post_top,transparency=SEMITRANSPARENT,stdrot=true
@@ -2138,6 +2138,6 @@ block:id=%granite,patch0=0:granite,patch1=0:granite,patch2=0:granite,patch3=0:gr
 block:id=%diorite,patch0=0:diorite,patch1=0:diorite,patch2=0:diorite,patch3=0:diorite,patch4=0:diorite,patch5=0:diorite,stdrot=true
 block:id=%andesite,patch0=0:andesite,patch1=0:andesite,patch2=0:andesite,patch3=0:andesite,patch4=0:andesite,patch5=0:andesite,stdrot=true
 block:id=%grass_block,state=snowy:true,patch0=0:grass_block_snow,patch1=0:dirt,patch2=0:grass_block_snow,patch3=0:grass_block_snow,patch4=0:grass_block_top,patch5=0:grass_block_snow,stdrot=true
-block:id=%grass_block,state=snowy:false,patch0=0:grass_block_side,patch1=1000:grass_block_top,patch2=0:dirt,patch3=1000:grass_block_side_overlay,stdrot=true
+block:id=%grass_block,state=snowy:false,patch0=0:grass_block_side,patch1=0:dirt,patch2=1000:grass_block_top,patch3=1000:grass_block_side_overlay,stdrot=true
 block:id=%dirt,patch0=0:dirt,patch1=0:dirt,patch2=0:dirt,patch3=0:dirt,patch4=0:dirt,patch5=0:dirt,stdrot=true
 block:id=%coarse_dirt,patch0=0:coarse_dirt,patch1=0:coarse_dirt,patch2=0:coarse_dirt,patch3=0:coarse_dirt,patch4=0:coarse_dirt,patch5=0:coarse_dirt,stdrot=true

@@ -15,9 +15,9 @@
 			"minecraft:deepslate_gold_ore",
 		],
 		"nether_gold_ore": [
+			"byg:brimstone_nether_gold_ore",
 			"byg:blue_nether_gold_ore",
 			"minecraft:nether_gold_ore",
-			"byg:brimstone_nether_gold_ore",
 		],
 		"redstone_ore": [
 			"minecraft:redstone_ore",

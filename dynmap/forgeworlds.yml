@@ -70,13 +70,13 @@ worlds:
     name: orion-test
     the_end: false
     title: orion-test
-    height: 320
+    height: 1088
 -   sealevel: 63
     nether: false
     miny: -64
     name: fool
     the_end: false
     title: fool
-    height: 1088
+    height: 320
 useSaveFolderAsName: true
 maxWorldHeight: 320
