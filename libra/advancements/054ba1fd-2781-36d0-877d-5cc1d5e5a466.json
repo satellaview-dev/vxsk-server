@@ -131,12 +131,6 @@
     },
     "done": true
   },
-  "mt:entity_hit_system/on_hurt": {
-    "criteria": {
-      "target": "2023-10-06 14:20:02 -0700"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2023-10-06 14:28:54 -0700"
@@ -191,6 +185,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/mahogany_crafting_table": {
+    "criteria": {
+      "has_planks": "2023-10-12 14:34:19 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2023-10-07 15:36:40 -0700"
@@ -227,9 +227,21 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/mahogany_boat": {
+    "criteria": {
+      "has_planks": "2023-10-12 14:34:19 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2023-10-06 15:26:07 -0700"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_common_default_treasure": {
+    "criteria": {
+      "obtainchest": "2023-10-12 14:05:34 -0700"
     },
     "done": true
   },
@@ -257,11 +269,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-10-08 16:22:20 -0700"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/pine_planks": {
     "criteria": {
       "has_logs": "2023-10-07 17:22:53 -0700"
     },
     "done": true
+  },
+  "1_splatus:ultris/completed": {
+    "criteria": {
+      "blaze_king": "2023-10-12 15:07:57 -0700"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
@@ -290,6 +314,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2023-10-06 14:22:50 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/golden_bandage": {
+    "criteria": {
+      "has_bandage": "2023-10-12 14:47:11 -0700"
     },
     "done": true
   },
@@ -323,9 +353,27 @@
     },
     "done": true
   },
+  "warppad:actions/passenger": {
+    "criteria": {
+      "warppass": "2023-10-12 14:23:06 -0700"
+    },
+    "done": true
+  },
   "improvedvanilla:recipes/string": {
     "criteria": {
       "has_wool": "2023-10-06 14:24:53 -0700"
+    },
+    "done": true
+  },
+  "endrem:main/undead_eye_recipe": {
+    "criteria": {
+      "soul": "2023-10-08 14:41:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2023-10-08 14:48:26 -0700"
     },
     "done": true
   },
@@ -347,9 +395,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-10-08 16:22:20 -0700"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/root": {
+    "criteria": {
+      "obtainchest": "2023-10-12 14:04:47 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2023-10-07 16:03:04 -0700"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2023-10-12 14:15:56 -0700"
     },
     "done": true
   },
@@ -587,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2023-10-12 14:28:43 -0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2023-10-06 14:20:06 -0700"
@@ -596,6 +668,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2023-10-06 14:30:54 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2023-10-12 14:34:19 -0700"
     },
     "done": true
   },
@@ -632,17 +710,37 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2023-10-08 03:20:08 -0700",
+      "minecraft:blaze": "2023-10-12 15:08:07 -0700",
       "minecraft:skeleton": "2023-10-06 14:39:18 -0700",
       "minecraft:vindicator": "2023-10-06 14:30:35 -0700",
       "minecraft:spider": "2023-10-06 14:20:32 -0700",
+      "minecraft:piglin_brute": "2023-10-12 15:11:22 -0700",
+      "minecraft:creeper": "2023-10-12 15:15:39 -0700",
+      "minecraft:phantom": "2023-10-12 14:08:07 -0700",
       "minecraft:witch": "2023-10-07 16:42:09 -0700",
+      "minecraft:wither_skeleton": "2023-10-12 14:42:31 -0700",
       "minecraft:husk": "2023-10-07 16:49:09 -0700",
       "minecraft:cave_spider": "2023-10-06 14:58:38 -0700",
+      "minecraft:piglin": "2023-10-12 15:11:23 -0700",
       "minecraft:silverfish": "2023-10-06 15:02:02 -0700",
       "minecraft:enderman": "2023-10-07 17:03:38 -0700",
-      "minecraft:zombie": "2023-10-06 14:20:06 -0700"
+      "minecraft:stray": "2023-10-12 14:40:37 -0700",
+      "minecraft:zombie": "2023-10-06 14:20:06 -0700",
+      "minecraft:drowned": "2023-10-12 14:21:34 -0700"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2023-10-12 15:20:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2023-10-12 15:10:24 -0700"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -764,6 +862,12 @@
     },
     "done": true
   },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_blaze_rod": "2023-10-12 15:08:10 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2023-10-07 16:31:28 -0700"
@@ -830,9 +934,21 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/mahogany_button": {
+    "criteria": {
+      "has_planks": "2023-10-12 14:34:19 -0700"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/misc/bone_pile_block_from_bone": {
     "criteria": {
       "has_bone": "2023-10-06 14:39:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2023-10-12 15:08:10 -0700"
     },
     "done": true
   },
@@ -908,9 +1024,21 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/it_bites": {
+    "criteria": {
+      "killed_mauler": "2023-10-08 15:35:40 -0700"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/jacaranda_door": {
     "criteria": {
       "has_planks": "2023-10-06 14:19:12 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2023-10-12 14:34:19 -0700"
     },
     "done": true
   },
@@ -1064,6 +1192,18 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-10-12 14:34:19 -0700"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2023-10-08 14:53:26 -0700"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2023-10-06 14:22:57 -0700"
@@ -1109,6 +1249,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2023-10-07 15:36:40 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-10-12 14:34:19 -0700"
     },
     "done": true
   },
@@ -1178,9 +1324,21 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2023-10-12 14:34:19 -0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2023-10-06 14:20:06 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/mahogany_bookshelf": {
+    "criteria": {
+      "has_planks": "2023-10-12 14:34:19 -0700"
     },
     "done": true
   },
@@ -1199,6 +1357,12 @@
   "valhelsia_structures:recipes/building_blocks/metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2023-10-06 14:22:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2023-10-12 15:20:11 -0700"
     },
     "done": true
   },
@@ -1314,6 +1478,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2023-10-12 15:11:06 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-10-06 14:20:08 -0700"
@@ -1374,6 +1544,12 @@
     },
     "done": true
   },
+  "vanilla_refresh:biome/plains": {
+    "criteria": {
+      "requirement": "2023-10-12 14:04:58 -0700"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/jacaranda_slab": {
     "criteria": {
       "has_planks": "2023-10-06 14:19:12 -0700"
@@ -1385,6 +1561,12 @@
       "has_iron_ingot": "2023-10-06 14:22:50 -0700"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2023-10-12 15:10:03 -0700"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
@@ -1440,9 +1622,21 @@
     },
     "done": true
   },
+  "majruszsdifficulty:progressive_difficulty/undead_army": {
+    "criteria": {
+      "army_defeated": "2023-10-12 14:46:27 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2023-10-06 14:24:53 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-10-12 14:34:19 -0700"
     },
     "done": true
   },
@@ -1464,11 +1658,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2023-10-12 15:20:11 -0700"
+    },
+    "done": true
+  },
   "global:ps": {
     "criteria": {
       "trigger": "2023-10-03 01:31:46 -0700"
     },
     "done": true
+  },
+  "manic:manic/kill_all_spectres": {
+    "criteria": {
+      "phantom": "2023-10-12 14:08:07 -0700",
+      "mirage": "2023-10-12 14:41:24 -0700",
+      "spook": "2023-10-12 14:08:05 -0700"
+    },
+    "done": false
   },
   "valhelsia_structures:recipes/building_blocks/brown_metal_framed_glass": {
     "criteria": {
@@ -1554,6 +1762,18 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-10-08 16:43:24 -0700"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/blazepath/kingblazekill": {
+    "criteria": {
+      "c1": "2023-10-12 15:07:57 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2023-10-06 14:19:46 -0700"
@@ -1602,15 +1822,45 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2023-10-12 15:10:24 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-10-06 15:08:54 -0700"
     },
     "done": true
   },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2023-10-08 16:43:24 -0700"
+    },
+    "done": true
+  },
+  "warppad:actions/warp": {
+    "criteria": {
+      "warped": "2023-10-12 14:14:36 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-10-07 15:36:40 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2023-10-12 14:37:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2023-10-12 15:10:24 -0700"
     },
     "done": true
   },
@@ -1734,15 +1984,18 @@
       "cooked_mutton": "2023-10-06 14:26:12 -0700",
       "cooked_beef": "2023-10-06 14:57:05 -0700",
       "baked_potato": "2023-10-06 15:26:28 -0700",
+      "porkchop": "2023-10-11 09:30:08 -0700",
       "apple": "2023-10-07 16:12:13 -0700",
       "potato": "2023-10-06 15:21:28 -0700",
       "bread": "2023-10-06 15:12:12 -0700",
       "golden_apple": "2023-10-07 16:22:57 -0700",
       "rotten_flesh": "2023-10-07 16:56:59 -0700",
+      "salmon": "2023-10-11 09:09:37 -0700",
       "melon_slice": "2023-10-08 04:14:15 -0700",
       "cooked_chicken": "2023-10-06 14:43:49 -0700",
       "rabbit_stew": "2023-10-08 03:23:53 -0700",
-      "cooked_salmon": "2023-10-06 14:58:33 -0700"
+      "cooked_salmon": "2023-10-06 14:58:33 -0700",
+      "carrot": "2023-10-12 17:31:51 -0700"
     },
     "done": false
   },
@@ -1830,6 +2083,18 @@
     },
     "done": true
   },
+  "manic:manic/kill_mirage": {
+    "criteria": {
+      "requirement": "2023-10-12 14:41:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-10-08 16:22:20 -0700"
+    },
+    "done": true
+  },
   "literagame:root": {
     "criteria": {
       "tick": "2023-10-03 01:31:46 -0700"
@@ -1878,6 +2143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-10-08 16:22:20 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2023-10-06 14:30:30 -0700"
@@ -1893,6 +2164,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2023-10-07 17:16:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2023-10-12 14:47:55 -0700"
     },
     "done": true
   },
@@ -1923,12 +2200,6 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-10-06 15:08:54 -0700"
-    },
-    "done": true
-  },
-  "bob:bob": {
-    "criteria": {
-      "trigger": "2023-10-03 01:31:46 -0700"
     },
     "done": true
   },
@@ -2088,6 +2359,12 @@
     },
     "done": true
   },
+  "manic:manic/kill_spectre": {
+    "criteria": {
+      "requirement": "2023-10-12 14:08:05 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2023-10-07 16:33:21 -0700"
@@ -2154,6 +2431,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:progressive_difficulty/bleeding_healed": {
+    "criteria": {
+      "bleeding_healed": "2023-10-12 17:33:50 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2023-10-07 16:31:43 -0700"
@@ -2169,6 +2452,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2023-10-07 17:13:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-10-08 16:43:24 -0700"
     },
     "done": true
   },
@@ -2226,6 +2515,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:progressive_difficulty/undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2023-10-12 14:47:06 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2023-10-07 15:36:26 -0700"
@@ -2235,6 +2530,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2023-10-08 03:02:16 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/expert_mode": {
+    "criteria": {
+      "game_state": "2023-10-08 16:40:14 -0700"
     },
     "done": true
   },
@@ -2316,9 +2617,27 @@
     },
     "done": true
   },
+  "byg:husbandry/forager": {
+    "criteria": {
+      "white_puffball_cap": "2023-10-08 14:25:37 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2023-10-12 14:34:19 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2023-10-06 14:19:46 -0700"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_common_treasure": {
+    "criteria": {
+      "obtainchest": "2023-10-12 14:04:47 -0700"
     },
     "done": true
   },
@@ -2364,6 +2683,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/string_from_cloth": {
+    "criteria": {
+      "has_cloth": "2023-10-12 14:37:56 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2023-10-06 14:24:53 -0700"
@@ -2381,13 +2706,6 @@
       "has_wool": "2023-10-06 14:24:53 -0700"
     },
     "done": true
-  },
-  "mt:entity_hit_system/on_hit": {
-    "criteria": {
-      "not_target": "2023-10-06 14:19:01 -0700",
-      "target": "2023-10-06 14:20:03 -0700"
-    },
-    "done": false
   },
   "smithed.damage:v0.1.0/player/event": {
     "criteria": {
@@ -2408,6 +2726,12 @@
   "deactivateportals:pack": {
     "criteria": {
       "trigger": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2023-10-08 16:43:31 -0700"
     },
     "done": true
   },
@@ -2459,6 +2783,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-10-08 16:22:20 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2023-10-08 03:41:34 -0700"
@@ -2477,15 +2807,15 @@
     },
     "done": true
   },
-  "vanilla_refresh:death/explosion": {
-    "criteria": {
-      "requirement": "2023-10-07 16:04:47 -0700"
-    },
-    "done": true
-  },
   "valhelsia_structures:recipes/building_blocks/magenta_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2023-10-06 14:22:50 -0700"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/blazepath/kingblaze": {
+    "criteria": {
+      "c1": "2023-10-12 15:06:22 -0700"
     },
     "done": true
   },
@@ -2549,6 +2879,18 @@
     },
     "done": true
   },
+  "vanilla_refresh:location/the_nether": {
+    "criteria": {
+      "requirement": "2023-10-08 16:43:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2023-10-12 14:47:55 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2023-10-06 14:57:49 -0700"
@@ -2609,6 +2951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2023-10-12 15:08:10 -0700"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/jacaranda_trapdoor": {
     "criteria": {
       "has_planks": "2023-10-06 14:19:12 -0700"
@@ -2639,9 +2987,21 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/mahogany_door": {
+    "criteria": {
+      "has_planks": "2023-10-12 14:34:19 -0700"
+    },
+    "done": true
+  },
   "byg:root": {
     "criteria": {
       "tick": "2023-10-03 01:31:46 -0700"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/blazepath/blazetower": {
+    "criteria": {
+      "c1": "2023-10-12 15:05:33 -0700"
     },
     "done": true
   },
@@ -2659,6 +3019,7 @@
       "byg:rose_fields": "2023-10-07 19:13:04 -0700",
       "byg:firecracker_shrubland": "2023-10-07 14:48:32 -0700",
       "byg:weeping_witch_forest": "2023-10-07 18:49:15 -0700",
+      "byg:subzero_hypogeal": "2023-10-08 16:43:29 -0700",
       "byg:tropical_rainforest": "2023-10-07 18:07:15 -0700",
       "byg:araucaria_savanna": "2023-10-07 16:08:05 -0700",
       "byg:jacaranda_forest": "2023-10-07 18:59:16 -0700",
@@ -2682,6 +3043,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2023-10-06 15:26:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-10-12 15:08:10 -0700"
     },
     "done": true
   },
@@ -2745,15 +3112,21 @@
     },
     "done": true
   },
+  "endrem:main/witch_eye": {
+    "criteria": {
+      "witch_eye": "2023-10-12 15:20:25 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2023-10-06 14:28:35 -0700"
     },
     "done": true
   },
-  "global:hako": {
+  "1_splatus:ultris/root": {
     "criteria": {
-      "trigger": "2023-10-03 01:31:46 -0700"
+      "c1": "2023-10-12 14:04:47 -0700"
     },
     "done": true
   },
@@ -2778,6 +3151,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2023-10-06 14:27:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2023-10-12 14:36:15 -0700"
     },
     "done": true
   },
@@ -2823,6 +3202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2023-10-08 16:33:18 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2023-10-06 14:24:53 -0700"
@@ -2853,9 +3238,21 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
+    "criteria": {
+      "has_cloth": "2023-10-12 14:37:56 -0700"
+    },
+    "done": true
+  },
   "janoeo_foundation:recipes/misc/diamond_from_nugget": {
     "criteria": {
       "has_diamond_nugget": "2023-10-07 15:47:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2023-10-08 16:20:19 -0700"
     },
     "done": true
   },
@@ -2868,6 +3265,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2023-10-07 17:16:44 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/nether/crimson_forest": {
+    "criteria": {
+      "requirement": "2023-10-12 15:10:03 -0700"
     },
     "done": true
   },
@@ -2934,6 +3337,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2023-10-08 03:22:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-10-08 16:22:20 -0700"
     },
     "done": true
   },

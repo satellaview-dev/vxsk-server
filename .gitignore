@@ -28,3 +28,4 @@ config/Discord-Integration.toml
 VXSK2.rar
 crash-reports/*
 logs/*
+Java/*
