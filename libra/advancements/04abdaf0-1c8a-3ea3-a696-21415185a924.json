@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2023-10-15 16:40:07 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2023-10-08 15:43:47 -0700"
@@ -101,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-10-15 16:40:07 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2023-10-07 14:40:28 -0700"
@@ -130,12 +142,6 @@
       "has_white_wool": "2023-10-07 15:19:31 -0700"
     },
     "done": true
-  },
-  "mt:entity_hit_system/on_hurt": {
-    "criteria": {
-      "nbit31": "2023-10-13 12:11:38 -0700"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
@@ -170,6 +176,12 @@
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2023-10-08 17:06:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2023-10-15 16:37:05 -0700"
     },
     "done": true
   },
@@ -221,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2023-10-15 16:40:07 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2023-10-07 14:32:28 -0700"
@@ -248,6 +266,18 @@
   "mt:treasure_advancements/first_common_default_treasure": {
     "criteria": {
       "obtainchest": "2023-10-12 14:02:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2023-10-15 16:37:05 -0700"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_epic_treasure": {
+    "criteria": {
+      "obtainchest": "2023-10-14 18:22:18 -0700"
     },
     "done": true
   },
@@ -305,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2023-10-15 16:37:05 -0700"
+    },
+    "done": true
+  },
   "janoeo_foundation:recipes/misc/smelting_aluminum_ingot_from_raw": {
     "criteria": {
       "has_raw_aluminium": "2023-10-08 16:21:36 -0700"
@@ -332,6 +368,12 @@
   "majruszsdifficulty:recipes/misc/golden_bandage": {
     "criteria": {
       "has_bandage": "2023-10-07 14:44:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2023-10-15 16:37:05 -0700"
     },
     "done": true
   },
@@ -368,6 +410,12 @@
   "improvedvanilla:recipes/string": {
     "criteria": {
       "has_wool": "2023-10-07 15:19:31 -0700"
+    },
+    "done": true
+  },
+  "endrem:main/undead_eye_recipe": {
+    "criteria": {
+      "soul": "2023-10-15 12:11:31 -0700"
     },
     "done": true
   },
@@ -425,6 +473,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2023-10-14 17:53:27 -0700"
+    },
+    "done": true
+  },
   "nucleus:initiate_0.1.4": {
     "criteria": {
       "impossible": "2023-10-06 13:55:23 -0700"
@@ -452,6 +506,12 @@
   "valhelsia_structures:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2023-10-07 15:19:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2023-10-14 16:46:31 -0700"
     },
     "done": true
   },
@@ -491,9 +551,21 @@
     },
     "done": true
   },
+  "janoeo_foundation:recipes/misc/smelting_tin_ingot_from_raw": {
+    "criteria": {
+      "has_raw_tin": "2023-10-14 18:24:06 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2023-10-07 14:55:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2023-10-14 18:02:04 -0700"
     },
     "done": true
   },
@@ -593,6 +665,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/paper_wall": {
+    "criteria": {
+      "has_bamboo": "2023-10-14 16:36:09 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2023-10-08 15:26:07 -0700"
@@ -623,6 +701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2023-10-15 16:37:05 -0700"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2023-10-07 16:30:57 -0700"
@@ -632,6 +716,18 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-10-07 14:49:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2023-10-14 17:50:58 -0700"
+    },
+    "done": true
+  },
+  "mahoutsukai:bakuretsu": {
+    "criteria": {
+      "bakuretsu": "2023-10-15 16:20:17 -0700"
     },
     "done": true
   },
@@ -753,14 +849,20 @@
     "criteria": {
       "minecraft:pillager": "2023-10-07 17:09:42 -0700",
       "minecraft:skeleton": "2023-10-07 14:55:48 -0700",
+      "minecraft:ravager": "2023-10-15 16:26:39 -0700",
+      "minecraft:vindicator": "2023-10-14 15:29:54 -0700",
       "minecraft:spider": "2023-10-07 15:14:52 -0700",
       "minecraft:creeper": "2023-10-13 10:46:29 -0700",
+      "minecraft:evoker": "2023-10-15 16:32:30 -0700",
+      "minecraft:phantom": "2023-10-14 16:50:00 -0700",
       "minecraft:witch": "2023-10-07 14:44:07 -0700",
       "minecraft:wither_skeleton": "2023-10-12 16:24:36 -0700",
       "minecraft:husk": "2023-10-07 14:43:54 -0700",
       "minecraft:cave_spider": "2023-10-13 10:25:49 -0700",
       "minecraft:enderman": "2023-10-08 15:17:35 -0700",
       "minecraft:silverfish": "2023-10-08 15:25:49 -0700",
+      "minecraft:stray": "2023-10-14 15:06:22 -0700",
+      "minecraft:vex": "2023-10-15 16:29:20 -0700",
       "minecraft:zombie": "2023-10-07 14:43:53 -0700",
       "minecraft:drowned": "2023-10-07 15:37:10 -0700",
       "minecraft:zombie_villager": "2023-10-08 15:20:15 -0700"
@@ -845,6 +947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-10-15 16:37:05 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_leggings": "2023-10-07 14:41:38 -0700"
@@ -914,6 +1022,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2023-10-07 16:39:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2023-10-14 17:12:16 -0700"
     },
     "done": true
   },
@@ -1001,6 +1115,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:progressive_difficulty/fishing_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2023-10-14 17:34:49 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2023-10-07 15:19:31 -0700"
@@ -1031,6 +1151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2023-10-14 16:32:40 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-10-08 15:43:47 -0700"
@@ -1040,6 +1166,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2023-10-07 14:41:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2023-10-15 16:37:05 -0700"
     },
     "done": true
   },
@@ -1337,9 +1469,27 @@
     },
     "done": true
   },
+  "majruszsdifficulty:progressive_difficulty/pillager_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2023-10-15 16:38:29 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2023-10-07 15:19:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-10-15 16:40:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-10-15 16:37:05 -0700"
     },
     "done": true
   },
@@ -1409,6 +1559,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2023-10-14 15:10:09 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2023-10-07 14:49:46 -0700"
@@ -1435,7 +1591,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sparse_jungle": "2023-10-14 16:39:23 -0700",
       "minecraft:river": "2023-10-07 14:41:00 -0700",
+      "minecraft:lukewarm_ocean": "2023-10-14 16:50:48 -0700",
+      "minecraft:deep_lukewarm_ocean": "2023-10-15 13:19:12 -0700",
       "minecraft:plains": "2023-10-07 14:41:13 -0700"
     },
     "done": false
@@ -1644,6 +1803,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2023-10-14 17:12:15 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2023-10-08 16:14:15 -0700"
@@ -1665,6 +1830,12 @@
   "vanilla_refresh:biome/plains": {
     "criteria": {
       "requirement": "2023-10-12 14:02:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2023-10-14 17:12:16 -0700"
     },
     "done": true
   },
@@ -1692,9 +1863,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2023-10-14 16:36:09 -0700"
+    },
+    "done": true
+  },
   "janoeo_foundation:recipes/misc/copper_ingot_from_nugget": {
     "criteria": {
       "has_copper_nugget": "2023-10-08 16:21:27 -0700"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_legendary_treasure": {
+    "criteria": {
+      "obtainchest": "2023-10-14 18:26:03 -0700"
     },
     "done": true
   },
@@ -1746,6 +1929,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:progressive_difficulty/undead_army": {
+    "criteria": {
+      "army_defeated": "2023-10-14 15:11:44 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2023-10-07 15:19:31 -0700"
@@ -1781,6 +1970,14 @@
       "trigger": "2023-10-06 13:55:23 -0700"
     },
     "done": true
+  },
+  "manic:manic/kill_all_spectres": {
+    "criteria": {
+      "paracusia": "2023-10-14 16:43:12 -0700",
+      "phantom": "2023-10-14 16:50:00 -0700",
+      "mirage": "2023-10-14 16:49:43 -0700"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
@@ -1842,6 +2039,12 @@
     },
     "done": true
   },
+  "vanilla_refresh:has/armor_stand": {
+    "criteria": {
+      "requirement": "2023-10-15 17:00:35 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2023-10-07 15:19:31 -0700"
@@ -1887,6 +2090,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2023-10-07 14:41:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2023-10-15 16:37:07 -0700"
     },
     "done": true
   },
@@ -1941,6 +2150,14 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-10-08 03:41:59 -0700"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2023-10-15 16:32:30 -0700",
+      "killed_illusioner": "2023-10-14 15:10:09 -0700",
+      "killed_iceologer": "2023-10-15 16:32:30 -0700"
     },
     "done": true
   },
@@ -2103,11 +2320,14 @@
       "beef": "2023-10-07 18:10:27 -0700",
       "baked_potato": "2023-10-08 14:49:18 -0700",
       "apple": "2023-10-07 14:45:05 -0700",
+      "cooked_cod": "2023-10-15 15:32:59 -0700",
+      "mutton": "2023-10-14 14:58:34 -0700",
       "golden_apple": "2023-10-07 15:37:15 -0700",
       "bread": "2023-10-09 09:22:57 -0700",
       "suspicious_stew": "2023-10-07 14:42:23 -0700",
       "rotten_flesh": "2023-10-07 15:05:18 -0700",
       "cooked_chicken": "2023-10-11 08:42:06 -0700",
+      "rabbit_stew": "2023-10-14 16:33:38 -0700",
       "cooked_salmon": "2023-10-11 10:01:23 -0700",
       "carrot": "2023-10-12 14:39:51 -0700"
     },
@@ -2122,6 +2342,12 @@
   "valhelsia_structures:recipes/decorations/red_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_color": "2023-10-07 16:39:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2023-10-14 17:12:16 -0700"
     },
     "done": true
   },
@@ -2179,6 +2405,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/stripped_spruce_post": {
+    "criteria": {
+      "has_item": "2023-10-15 16:37:05 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2023-10-07 14:46:08 -0700"
@@ -2206,6 +2438,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-10-08 15:43:47 -0700"
+    },
+    "done": true
+  },
+  "manic:manic/kill_mirage": {
+    "criteria": {
+      "requirement": "2023-10-14 16:49:43 -0700"
     },
     "done": true
   },
@@ -2497,6 +2735,12 @@
     },
     "done": true
   },
+  "manic:manic/kill_spectre": {
+    "criteria": {
+      "requirement": "2023-10-14 16:49:43 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2023-10-07 14:47:44 -0700"
@@ -2506,6 +2750,12 @@
   "1_splatus:ultris/enderkill": {
     "criteria": {
       "c1": "2023-10-13 11:11:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2023-10-14 16:32:40 -0700"
     },
     "done": true
   },
@@ -2536,6 +2786,12 @@
   "byg:recipes/byg.byg/jacaranda_boat": {
     "criteria": {
       "has_planks": "2023-10-07 17:27:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2023-10-15 16:40:07 -0700"
     },
     "done": true
   },
@@ -2575,15 +2831,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2023-10-15 16:37:05 -0700"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2023-10-08 16:40:11 -0700"
     },
     "done": true
   },
+  "vanilla_refresh:biome/jungle": {
+    "criteria": {
+      "requirement": "2023-10-14 16:39:24 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-10-11 10:21:34 -0700"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/first_legendary_default_treasure": {
+    "criteria": {
+      "obtainchest": "2023-10-14 18:26:11 -0700"
     },
     "done": true
   },
@@ -2599,6 +2873,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2023-10-15 17:07:34 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2023-10-11 10:11:14 -0700"
@@ -2611,9 +2891,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2023-10-15 16:37:05 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2023-10-11 09:46:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2023-10-15 16:40:07 -0700"
     },
     "done": true
   },
@@ -2638,6 +2930,12 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2023-10-06 13:55:23 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2023-10-14 15:15:43 -0700"
     },
     "done": true
   },
@@ -2779,6 +3077,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2023-10-15 16:40:07 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2023-10-07 16:22:09 -0700"
@@ -2794,6 +3098,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-10-08 03:41:59 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2023-10-14 16:59:20 -0700"
     },
     "done": true
   },
@@ -2845,6 +3155,12 @@
     },
     "done": true
   },
+  "mt:treasure_advancements/first_epic_default_treasure": {
+    "criteria": {
+      "obtainchest": "2023-10-14 18:22:25 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2023-10-07 14:51:45 -0700"
@@ -2854,6 +3170,12 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2023-10-08 17:06:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2023-10-14 16:36:09 -0700"
     },
     "done": true
   },
@@ -2889,6 +3211,18 @@
   "deactivateportals:pack": {
     "criteria": {
       "trigger": "2023-10-06 13:55:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2023-10-15 14:53:28 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/raw_tin_block": {
+    "criteria": {
+      "has_raw_tin": "2023-10-14 18:24:06 -0700"
     },
     "done": true
   },
@@ -2970,6 +3304,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2023-10-14 16:37:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2023-10-15 16:40:07 -0700"
+    },
+    "done": true
+  },
   "global:tayacrystals": {
     "criteria": {
       "trigger": "2023-10-06 13:55:23 -0700"
@@ -3015,6 +3361,12 @@
   "improvedvanilla:recipes/bell": {
     "criteria": {
       "has_gold_ingot": "2023-10-07 14:42:05 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/bone_meal_from_cerberus_fang": {
+    "criteria": {
+      "has_fang": "2023-10-14 15:09:57 -0700"
     },
     "done": true
   },
@@ -3075,6 +3427,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2023-10-07 14:32:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2023-10-14 16:32:40 -0700"
     },
     "done": true
   },
@@ -3176,9 +3534,16 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
+      "byg:rainbow_beach": "2023-10-14 16:34:14 -0700",
+      "byg:prairie": "2023-10-14 17:53:28 -0700",
+      "byg:allium_fields": "2023-10-15 13:16:06 -0700",
       "byg:firecracker_shrubland": "2023-10-13 10:47:25 -0700",
       "byg:subzero_hypogeal": "2023-10-08 16:40:20 -0700",
-      "byg:amaranth_fields": "2023-10-06 13:55:23 -0700"
+      "byg:araucaria_savanna": "2023-10-15 14:11:25 -0700",
+      "byg:aspen_forest": "2023-10-15 15:55:22 -0700",
+      "byg:forgotten_forest": "2023-10-14 16:36:02 -0700",
+      "byg:amaranth_fields": "2023-10-06 13:55:23 -0700",
+      "byg:ebony_woods": "2023-10-14 16:36:43 -0700"
     },
     "done": false
   },
@@ -3203,6 +3568,18 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2023-10-09 08:39:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-10-15 16:37:05 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/blasting_tin_ingot_from_raw": {
+    "criteria": {
+      "has_raw_tin": "2023-10-14 18:24:06 -0700"
     },
     "done": true
   },
@@ -3242,6 +3619,12 @@
     },
     "done": true
   },
+  "vanilla_refresh:biome/ocean": {
+    "criteria": {
+      "requirement": "2023-10-14 16:50:47 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2023-10-08 16:19:31 -0700"
@@ -3266,15 +3649,33 @@
     },
     "done": true
   },
+  "manic:manic/insanity": {
+    "criteria": {
+      "requirement": "2023-10-14 16:48:57 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2023-10-07 14:33:00 -0700"
     },
     "done": true
   },
+  "mt:treasure_advancements/10_rare_treasure": {
+    "criteria": {
+      "obtainchest": "2023-10-14 18:24:19 -0700"
+    },
+    "done": true
+  },
   "janoeo_foundation:recipes/misc/lead_ingot_from_nugget": {
     "criteria": {
       "has_lead_nugget": "2023-10-09 10:14:54 -0700"
+    },
+    "done": true
+  },
+  "manic:manic/kill_paracusia": {
+    "criteria": {
+      "requirement": "2023-10-14 16:43:12 -0700"
     },
     "done": true
   },
@@ -3311,6 +3712,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2023-10-08 16:44:05 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_dark_oak_post": {
+    "criteria": {
+      "has_item": "2023-10-15 16:37:05 -0700"
     },
     "done": true
   },
@@ -3404,21 +3811,33 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2023-10-15 16:32:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-10-15 16:40:07 -0700"
+    },
+    "done": true
+  },
   "global:2mal3": {
     "criteria": {
       "trigger": "2023-10-06 13:55:23 -0700"
     },
     "done": true
   },
-  "toolleveling:recipes/tool_leveling_table": {
-    "criteria": {
-      "has_enchanting_table": "2023-10-07 14:31:58 -0700"
-    },
-    "done": true
-  },
   "janoeo_foundation:recipes/misc/aluminium_nugget": {
     "criteria": {
       "has_aluminium_ingot": "2023-10-08 16:49:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2023-10-15 16:37:05 -0700"
     },
     "done": true
   },
@@ -3437,6 +3856,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2023-10-07 14:40:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2023-10-15 16:37:05 -0700"
     },
     "done": true
   },
