@@ -838,6 +838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2023-10-17 12:57:46 -0700"
+    },
+    "done": true
+  },
   "janoeo_foundation:recipes/misc/lapis_nugget": {
     "criteria": {
       "has_lapis": "2023-10-15 16:28:20 -0700"
@@ -2236,6 +2242,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2023-10-17 12:57:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2023-10-17 13:14:01 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2023-10-08 15:21:13 -0700"
@@ -2302,6 +2320,12 @@
     },
     "done": true
   },
+  "janoeo_foundation:recipes/misc/uranium_ingot_from_nugget": {
+    "criteria": {
+      "has_uranium_nugget": "2023-10-17 13:03:40 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2023-10-09 09:03:44 -0700"
@@ -2335,6 +2359,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-10-08 16:31:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2023-10-17 12:57:46 -0700"
     },
     "done": true
   },
