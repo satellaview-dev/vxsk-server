@@ -52,7 +52,7 @@ components:
   - class: org.dynmap.ClientConfigurationComponent
   
   # Remember to change the following class to org.dynmap.JsonFileClientUpdateComponent when using an external web server.
-  - class: org.dynmap.InternalClientUpdateComponent
+  - class: org.dynmap.JsonFileClientUpdateComponent
     sendhealth: true
     sendposition: true
     allowwebchat: true
@@ -374,7 +374,7 @@ progressloginterval: 100
 updaterate: 2000
 
 # If nonzero, server will pause fullrender/radiusrender processing when 'fullrenderplayerlimit' or more users are logged in
-fullrenderplayerlimit: 0
+fullrenderplayerlimit: 1
 # If nonzero, server will pause update render processing when 'updateplayerlimit' or more users are logged in
 updateplayerlimit: 0
 # Target limit on server thread use - msec per tick

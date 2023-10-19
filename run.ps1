@@ -2,7 +2,7 @@
 #READ THIS BEFORE RUNNING...
 
 # Xmx is the memory maximum argument for java. change this value to the amount of ram you need allocated to the JVM (java virtual machine), and use either G or M to specify if you want it to use gigabytes or megabytes respectively.
-$memMax = "-Xmx30G"
+$memMax = "-Xmx12G"
 # Xms is the memory minimum argument for java. similar to -Xmx,
 $memMin = "-Xms2500M"
 # this variable, if removed, makes the server spawn a java window showing server console, players, and ram usage. typically unneeded if you use the workspace (or the terminal, like a normal human).

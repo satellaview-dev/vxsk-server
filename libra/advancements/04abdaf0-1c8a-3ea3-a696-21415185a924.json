@@ -1487,6 +1487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2023-10-18 09:14:59 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2023-10-15 16:37:05 -0700"
@@ -1562,6 +1568,12 @@
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
       "killed_illusioner": "2023-10-14 15:10:09 -0700"
+    },
+    "done": true
+  },
+  "mahoutsukai:beam": {
+    "criteria": {
+      "beam": "2023-10-18 05:31:54 -0700"
     },
     "done": true
   },
@@ -3095,6 +3107,12 @@
     },
     "done": true
   },
+  "mt:treasure_advancements/25_rare_treasure": {
+    "criteria": {
+      "obtainchest": "2023-10-18 09:36:08 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-10-08 03:41:59 -0700"
@@ -3694,6 +3712,12 @@
   "valhelsia_structures:recipes/decorations/orange_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_color": "2023-10-11 10:21:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2023-10-18 05:21:13 -0700"
     },
     "done": true
   },

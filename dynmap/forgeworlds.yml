@@ -3,32 +3,11 @@
 worlds:
 -   sealevel: 63
     nether: false
-    miny: -32
-    name: twilightforest_twilight_forest
-    the_end: false
-    title: twilightforest_twilight_forest
-    height: 288
--   sealevel: 63
-    nether: false
-    miny: 0
-    name: aoa3_nowhere
-    the_end: false
-    title: aoa3_nowhere
-    height: 320
--   sealevel: 63
-    nether: false
     miny: -64
     name: sculk_the_otherside
     the_end: false
     title: sculk_the_otherside
     height: 384
--   sealevel: 63
-    nether: false
-    miny: -64
-    name: aoa3_precasia
-    the_end: false
-    title: aoa3_precasia
-    height: 320
 -   sealevel: 63
     nether: false
     miny: 0
@@ -51,20 +30,6 @@ worlds:
     title: DIM1
     height: 384
 -   sealevel: 63
-    nether: true
-    miny: 0
-    name: DIM-1
-    the_end: false
-    title: DIM-1
-    height: 256
--   sealevel: 63
-    nether: false
-    miny: -64
-    name: VXSK2
-    the_end: false
-    title: VXSK2
-    height: 320
--   sealevel: 63
     nether: false
     miny: -64
     name: orion-test
@@ -72,11 +37,11 @@ worlds:
     title: orion-test
     height: 1088
 -   sealevel: 63
-    nether: false
-    miny: -64
-    name: fool
+    nether: true
+    miny: 0
+    name: DIM-1
     the_end: false
-    title: fool
-    height: 320
+    title: DIM-1
+    height: 256
 useSaveFolderAsName: true
 maxWorldHeight: 320

@@ -1,14 +1,14 @@
 modname:hammerlib
 
-texture:id=machine_side,filename=assets/hammerlib/textures/block/machine_side.png,xcount=1,ycount=1
 texture:id=machine_down,filename=assets/hammerlib/textures/block/machine_down.png,xcount=1,ycount=1
+texture:id=machine_side,filename=assets/hammerlib/textures/block/machine_side.png,xcount=1,ycount=1
 texture:id=test_machine_front_active,filename=assets/hammerlib/textures/block/test_machine_front_active.png,xcount=1,ycount=1
 texture:id=test_machine_front,filename=assets/hammerlib/textures/block/test_machine_front.png,xcount=1,ycount=1
 block:id=%test_machine,state=facing:north/enabled:true,patch0=0:machine_side,patch1=0:machine_down,patch2=0:test_machine_front_active,patch3=0:machine_side,patch4=0:machine_down,patch5=0:machine_side,stdrot=true
-block:id=%test_machine,state=facing:south/enabled:true,patch0=0:machine_side,patch1=0:machine_down,patch2=0:test_machine_front_active,stdrot=true
-block:id=%test_machine,state=facing:west/enabled:true,patch0=0:machine_side,patch1=0:machine_down,patch2=0:test_machine_front_active,stdrot=true
-block:id=%test_machine,state=facing:east/enabled:true,patch0=0:machine_side,patch1=0:machine_down,patch2=0:test_machine_front_active,stdrot=true
+block:id=%test_machine,state=facing:south/enabled:true,patch0=0:machine_down,patch1=0:machine_side,patch2=0:test_machine_front_active,stdrot=true
+block:id=%test_machine,state=facing:west/enabled:true,patch0=0:machine_down,patch1=0:machine_side,patch2=0:test_machine_front_active,stdrot=true
+block:id=%test_machine,state=facing:east/enabled:true,patch0=0:machine_down,patch1=0:machine_side,patch2=0:test_machine_front_active,stdrot=true
 block:id=%test_machine,state=facing:north/enabled:false,patch0=0:machine_side,patch1=0:machine_down,patch2=0:test_machine_front,patch3=0:machine_side,patch4=0:machine_down,patch5=0:machine_side,stdrot=true
-block:id=%test_machine,state=facing:south/enabled:false,patch0=0:machine_side,patch1=0:machine_down,patch2=0:test_machine_front,stdrot=true
-block:id=%test_machine,state=facing:west/enabled:false,patch0=0:machine_side,patch1=0:machine_down,patch2=0:test_machine_front,stdrot=true
-block:id=%test_machine,state=facing:east/enabled:false,patch0=0:machine_side,patch1=0:machine_down,patch2=0:test_machine_front,stdrot=true
+block:id=%test_machine,state=facing:south/enabled:false,patch0=0:machine_down,patch1=0:machine_side,patch2=0:test_machine_front,stdrot=true
+block:id=%test_machine,state=facing:west/enabled:false,patch0=0:machine_down,patch1=0:machine_side,patch2=0:test_machine_front,stdrot=true
+block:id=%test_machine,state=facing:east/enabled:false,patch0=0:machine_down,patch1=0:machine_side,patch2=0:test_machine_front,stdrot=true

@@ -1,7 +1,0 @@
-modname:toolleveling
-
-texture:id=tool_leveling_table_side,filename=assets/toolleveling/textures/block/tool_leveling_table_side.png,xcount=1,ycount=1
-texture:id=tool_leveling_table_top2,filename=assets/toolleveling/textures/block/tool_leveling_table_top2.png,xcount=1,ycount=1
-texture:id=tool_leveling_table_top,filename=assets/toolleveling/textures/block/tool_leveling_table_top.png,xcount=1,ycount=1
-texture:id=tool_leveling_table_base,filename=assets/toolleveling/textures/block/tool_leveling_table_base.png,xcount=1,ycount=1
-block:id=%tool_leveling_table,patch0=0:tool_leveling_table_side,patch1=0:tool_leveling_table_top2,patch2=0:tool_leveling_table_top,patch3=0:tool_leveling_table_base,transparency=TRANSPARENT,stdrot=true

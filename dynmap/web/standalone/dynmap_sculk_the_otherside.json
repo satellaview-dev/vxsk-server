@@ -1,0 +1,4 @@
+{"currentcount": 0,"hasStorm": false,"players": []
+,"isThundering": false,"confighash": 1151538375,"servertime": 4618,"updates": [{"msg": "markerupdated","x": 0.00,"y": 100.00,"z": 0.00,"id": "_spawn_sculk_the_otherside","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": null,"dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1697740037597}
+]
+,"timestamp": 1697740041596}
