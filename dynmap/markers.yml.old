@@ -16,10 +16,10 @@ sets:
             dingstorm:
                 world: orion-test
                 markup: false
-                x: 46.06265698607834
+                x: 57.14628206658458
                 icon: offlineuser
-                y: 106.0
-                z: -44.71448454056006
+                y: 97.0
+                z: -39.170055534849254
                 label: dingstorm
         lines: {
             }

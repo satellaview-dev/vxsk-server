@@ -803,6 +803,12 @@
     },
     "done": true
   },
+  "vanilla_refresh:biome/deep_dark": {
+    "criteria": {
+      "requirement": "2023-10-19 22:40:23 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-10-06 15:08:54 -0700"
@@ -1211,6 +1217,12 @@
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-10-15 15:03:16 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/dark_forest": {
+    "criteria": {
+      "requirement": "2023-10-19 12:15:08 -0700"
     },
     "done": true
   },
@@ -1743,6 +1755,7 @@
       "minecraft:windswept_savanna": "2023-10-07 19:06:43 -0700",
       "minecraft:deep_lukewarm_ocean": "2023-10-03 01:36:36 -0700",
       "minecraft:old_growth_birch_forest": "2023-10-07 18:49:06 -0700",
+      "minecraft:deep_dark": "2023-10-19 22:40:23 -0700",
       "minecraft:plains": "2023-10-06 14:17:05 -0700"
     },
     "done": false
@@ -3715,7 +3728,8 @@
       "byg:basalt_barrera": "2023-10-07 18:49:52 -0700",
       "byg:temperate_rainforest": "2023-10-07 18:49:13 -0700",
       "byg:maple_taiga": "2023-10-07 18:50:53 -0700",
-      "byg:dacite_shore": "2023-10-07 18:05:35 -0700"
+      "byg:dacite_shore": "2023-10-07 18:05:35 -0700",
+      "byg:guiana_shield": "2023-10-19 22:46:29 -0700"
     },
     "done": false
   },
