@@ -473,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2023-10-20 13:22:21 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2023-10-08 16:53:26 -0700"
@@ -563,6 +569,7 @@
       "minecraft:spider": "2023-10-08 16:22:49 -0700",
       "minecraft:husk": "2023-10-08 17:20:23 -0700",
       "minecraft:cave_spider": "2023-10-08 17:32:13 -0700",
+      "minecraft:piglin": "2023-10-20 13:15:05 -0700",
       "minecraft:zombie": "2023-10-08 16:06:05 -0700",
       "minecraft:zombie_villager": "2023-10-08 16:07:10 -0700"
     },
@@ -1770,6 +1777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2023-10-20 13:22:21 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2023-10-08 15:21:07 -0700"
@@ -2228,6 +2241,7 @@
   },
   "smithed.damage:v0.1.0/player/event": {
     "criteria": {
+      "bypasses_invulnerability": "2023-10-20 13:19:47 -0700",
       "is_magic": "2023-10-08 15:01:54 -0700",
       "bypass_armor": "2023-10-08 15:01:54 -0700",
       "is_fire": "2023-10-08 15:34:48 -0700",
@@ -2706,6 +2720,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2023-10-16 11:07:46 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/nether/crimson_forest": {
+    "criteria": {
+      "requirement": "2023-10-20 12:58:34 -0700"
     },
     "done": true
   },

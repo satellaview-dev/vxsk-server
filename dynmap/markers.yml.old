@@ -12,15 +12,8 @@ sets:
         areas: {
             }
         label: Offline
-        markers:
-            dingstorm:
-                world: orion-test
-                markup: false
-                x: 57.14628206658458
-                icon: offlineuser
-                y: 97.0
-                z: -39.170055534849254
-                label: dingstorm
+        markers: {
+            }
         lines: {
             }
         layerprio: 0

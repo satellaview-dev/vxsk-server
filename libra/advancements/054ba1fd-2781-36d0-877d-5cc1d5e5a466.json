@@ -890,6 +890,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2023-10-20 12:53:48 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-10-07 15:36:40 -0700"
@@ -1484,6 +1490,12 @@
     },
     "done": true
   },
+  "vanilla_refresh:biome/nether/soul_sand_valley": {
+    "criteria": {
+      "requirement": "2023-10-20 13:02:22 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2023-10-07 15:34:09 -0700"
@@ -1565,6 +1577,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2023-10-06 14:22:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2023-10-20 12:54:22 -0700"
     },
     "done": true
   },
@@ -1990,7 +2008,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2023-10-12 15:10:03 -0700"
+      "minecraft:crimson_forest": "2023-10-12 15:10:03 -0700",
+      "minecraft:soul_sand_valley": "2023-10-20 13:02:03 -0700"
     },
     "done": false
   },
@@ -3323,6 +3342,7 @@
   },
   "smithed.damage:v0.1.0/player/event": {
     "criteria": {
+      "bypasses_invulnerability": "2023-10-20 13:19:47 -0700",
       "is_magic": "2023-10-06 14:17:12 -0700",
       "bypass_armor": "2023-10-06 14:17:12 -0700",
       "is_fire": "2023-10-06 14:58:52 -0700",
@@ -3724,6 +3744,7 @@
       "byg:baobab_savanna": "2023-10-07 14:48:31 -0700",
       "byg:amaranth_fields": "2023-10-03 01:31:48 -0700",
       "byg:ebony_woods": "2023-10-07 18:05:23 -0700",
+      "byg:weeping_mire": "2023-10-20 13:01:22 -0700",
       "byg:lush_stacks": "2023-10-03 01:36:48 -0700",
       "byg:basalt_barrera": "2023-10-07 18:49:52 -0700",
       "byg:temperate_rainforest": "2023-10-07 18:49:13 -0700",
