@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/yellow_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_color": "2023-10-21 10:10:23 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_the_recipe": "2023-10-07 14:32:58 -0700"
@@ -323,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-10-21 10:10:42 -0700"
+    },
+    "done": true
+  },
   "1_splatus:ultris/completed": {
     "criteria": {
       "corrupted_enderman": "2023-10-13 11:11:38 -0700"
@@ -404,6 +416,12 @@
   "improvedvanilla:recipes/glow_lichen": {
     "criteria": {
       "has_glowstone": "2023-10-07 15:13:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2023-10-21 13:02:08 -0700"
     },
     "done": true
   },
@@ -659,6 +677,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/blue_enchanted_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-10-21 11:10:42 -0700"
+    },
+    "done": true
+  },
   "improvedvanilla:recipes/diamond_horse_armor": {
     "criteria": {
       "has_saddle": "2023-10-09 09:09:12 -0700"
@@ -881,6 +905,12 @@
     },
     "done": false
   },
+  "byg:recipes/byg.byg/blue_enchanted_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-10-21 11:10:42 -0700"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2023-10-11 10:44:43 -0700"
@@ -971,6 +1001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2023-10-21 13:02:08 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_leggings": "2023-10-07 14:41:38 -0700"
@@ -1004,6 +1040,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2023-10-08 17:36:02 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/blue_enchanted_sign": {
+    "criteria": {
+      "has_planks": "2023-10-21 11:10:42 -0700"
     },
     "done": true
   },
@@ -1211,6 +1253,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/black_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_color": "2023-10-21 10:11:59 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2023-10-07 16:28:21 -0700"
@@ -1256,6 +1304,12 @@
   "improvedvanilla:recipes/dead_bush": {
     "criteria": {
       "has_sapling": "2023-10-07 14:32:51 -0700"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/it_bites": {
+    "criteria": {
+      "killed_mauler": "2023-10-21 11:04:43 -0700"
     },
     "done": true
   },
@@ -1340,6 +1394,12 @@
   "minecraft:husbandry/obtain_netherite_hoe": {
     "criteria": {
       "netherite_hoe": "2023-10-12 18:38:33 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/blue_enchanted_fence": {
+    "criteria": {
+      "has_planks": "2023-10-21 11:10:42 -0700"
     },
     "done": true
   },
@@ -1463,6 +1523,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2023-10-21 13:02:08 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2023-10-11 09:46:28 -0700"
@@ -1547,6 +1613,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/blue_enchanted_boat": {
+    "criteria": {
+      "has_planks": "2023-10-21 11:10:42 -0700"
+    },
+    "done": true
+  },
   "janoeo_foundation:recipes/misc/copper_rod": {
     "criteria": {
       "has_copper_ingot": "2023-10-07 15:37:32 -0700"
@@ -1628,6 +1700,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2023-10-08 03:41:59 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2023-10-21 10:11:59 -0700"
     },
     "done": true
   },
@@ -1725,6 +1803,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/blue_enchanted_bookshelf": {
+    "criteria": {
+      "has_planks": "2023-10-21 11:10:42 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-10-08 15:43:47 -0700"
@@ -1815,6 +1899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2023-10-21 13:02:08 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2023-10-07 14:42:06 -0700"
@@ -1887,6 +1977,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/blue_enchanted_button": {
+    "criteria": {
+      "has_planks": "2023-10-21 11:10:42 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2023-10-07 14:54:07 -0700"
@@ -1917,6 +2013,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/blue_enchanted_stairs": {
+    "criteria": {
+      "has_planks": "2023-10-21 11:10:42 -0700"
+    },
+    "done": true
+  },
   "mt:treasure_advancements/first_legendary_treasure": {
     "criteria": {
       "obtainchest": "2023-10-14 18:26:03 -0700"
@@ -1932,6 +2034,12 @@
   "janoeo_foundation:recipes/misc/iron_rod": {
     "criteria": {
       "has_iron_ingot": "2023-10-07 14:54:07 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2023-10-21 13:02:08 -0700"
     },
     "done": true
   },
@@ -1989,6 +2097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-10-21 10:10:42 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2023-10-07 16:39:15 -0700"
@@ -2030,6 +2144,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2023-10-09 08:37:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2023-10-21 10:11:59 -0700"
     },
     "done": true
   },
@@ -2537,6 +2657,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/blue_enchanted_slab": {
+    "criteria": {
+      "has_planks": "2023-10-21 11:10:42 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2023-10-07 14:42:05 -0700"
@@ -2618,6 +2744,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-10-11 10:21:34 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/blue_enchanted_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-10-21 11:10:42 -0700"
     },
     "done": true
   },
@@ -3035,6 +3167,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/blue_enchanted_door": {
+    "criteria": {
+      "has_planks": "2023-10-21 11:10:42 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2023-10-07 16:28:21 -0700"
@@ -3050,6 +3188,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2023-10-08 03:23:02 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2023-10-21 13:02:08 -0700"
     },
     "done": true
   },
@@ -3098,6 +3242,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-10-11 10:21:34 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2023-10-21 10:11:59 -0700"
     },
     "done": true
   },
@@ -3628,6 +3778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2023-10-21 10:10:23 -0700"
+    },
+    "done": true
+  },
   "byg:root": {
     "criteria": {
       "tick": "2023-10-06 13:55:23 -0700"
@@ -3639,11 +3795,13 @@
       "byg:rainbow_beach": "2023-10-14 16:34:14 -0700",
       "byg:prairie": "2023-10-14 17:53:28 -0700",
       "byg:allium_fields": "2023-10-15 13:16:06 -0700",
+      "byg:orchard": "2023-10-21 11:01:04 -0700",
       "byg:firecracker_shrubland": "2023-10-13 10:47:25 -0700",
       "byg:subzero_hypogeal": "2023-10-08 16:40:20 -0700",
       "byg:araucaria_savanna": "2023-10-15 14:11:25 -0700",
       "byg:aspen_forest": "2023-10-15 15:55:22 -0700",
       "byg:forgotten_forest": "2023-10-14 16:36:02 -0700",
+      "byg:baobab_savanna": "2023-10-21 11:00:59 -0700",
       "byg:amaranth_fields": "2023-10-06 13:55:23 -0700",
       "byg:ebony_woods": "2023-10-14 16:36:43 -0700"
     },
@@ -3973,6 +4131,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/light_gray_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_color": "2023-10-21 10:10:45 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2023-10-08 17:36:02 -0700"
@@ -4003,6 +4167,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/blue_enchanted_crafting_table": {
+    "criteria": {
+      "has_planks": "2023-10-21 11:10:42 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2023-10-11 09:46:28 -0700"
@@ -4012,6 +4182,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2023-10-07 14:32:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2023-10-21 10:10:45 -0700"
     },
     "done": true
   },

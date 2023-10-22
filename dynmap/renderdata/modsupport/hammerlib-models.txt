@@ -1,8 +1,8 @@
 modname:hammerlib
 
-modellist:id=%test_machine,state=facing:south/enabled:true,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:n/2:s/1:u/0:w/1:d/0:e/1:R/0/180/0
-modellist:id=%test_machine,state=facing:west/enabled:true,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:n/2:s/1:u/0:w/1:d/0:e/1:R/0/270/0
-modellist:id=%test_machine,state=facing:east/enabled:true,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:n/2:s/1:u/0:w/1:d/0:e/1:R/0/90/0
-modellist:id=%test_machine,state=facing:south/enabled:false,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:n/2:s/1:u/0:w/1:d/0:e/1:R/0/180/0
-modellist:id=%test_machine,state=facing:west/enabled:false,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:n/2:s/1:u/0:w/1:d/0:e/1:R/0/270/0
-modellist:id=%test_machine,state=facing:east/enabled:false,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:n/2:s/1:u/0:w/1:d/0:e/1:R/0/90/0
+modellist:id=%test_machine,state=facing:south/enabled:true,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:d/2:n/1:w/0:u/2:s/0:e/0:R/0/180/0
+modellist:id=%test_machine,state=facing:west/enabled:true,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:d/2:n/1:w/0:u/2:s/0:e/0:R/0/270/0
+modellist:id=%test_machine,state=facing:east/enabled:true,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:d/2:n/1:w/0:u/2:s/0:e/0:R/0/90/0
+modellist:id=%test_machine,state=facing:south/enabled:false,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:d/2:n/1:w/0:u/2:s/0:e/0:R/0/180/0
+modellist:id=%test_machine,state=facing:west/enabled:false,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:d/2:n/1:w/0:u/2:s/0:e/0:R/0/270/0
+modellist:id=%test_machine,state=facing:east/enabled:false,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:d/2:n/1:w/0:u/2:s/0:e/0:R/0/90/0
