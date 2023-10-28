@@ -545,8 +545,8 @@ texture:id=stripped_log,filename=assets/byg/textures/block/aspen/stripped_log.pn
 texture:id=stripped_log_top,filename=assets/byg/textures/block/aspen/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks,filename=assets/byg/textures/block/aspen/planks.png,xcount=1,ycount=1
 texture:id=bookshelf,filename=assets/byg/textures/block/aspen/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side,filename=assets/byg/textures/block/aspen/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front,filename=assets/byg/textures/block/aspen/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side,filename=assets/byg/textures/block/aspen/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top,filename=assets/byg/textures/block/aspen/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top,filename=assets/byg/textures/block/aspen/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom,filename=assets/byg/textures/block/aspen/door_bottom.png,xcount=1,ycount=1
@@ -559,8 +559,8 @@ texture:id=stripped_log1,filename=assets/byg/textures/block/baobab/stripped_log.
 texture:id=stripped_log_top1,filename=assets/byg/textures/block/baobab/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks1,filename=assets/byg/textures/block/baobab/planks.png,xcount=1,ycount=1
 texture:id=bookshelf1,filename=assets/byg/textures/block/baobab/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side1,filename=assets/byg/textures/block/baobab/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front1,filename=assets/byg/textures/block/baobab/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side1,filename=assets/byg/textures/block/baobab/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top1,filename=assets/byg/textures/block/baobab/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top1,filename=assets/byg/textures/block/baobab/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom1,filename=assets/byg/textures/block/baobab/door_bottom.png,xcount=1,ycount=1
@@ -573,8 +573,8 @@ texture:id=stripped_log_top2,filename=assets/byg/textures/block/blue_enchanted/s
 texture:id=planks2,filename=assets/byg/textures/block/blue_enchanted/planks.png,xcount=1,ycount=1
 texture:id=planks_top,filename=assets/byg/textures/block/blue_enchanted/planks_top.png,xcount=1,ycount=1
 texture:id=bookshelf2,filename=assets/byg/textures/block/blue_enchanted/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side2,filename=assets/byg/textures/block/blue_enchanted/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front2,filename=assets/byg/textures/block/blue_enchanted/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side2,filename=assets/byg/textures/block/blue_enchanted/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top2,filename=assets/byg/textures/block/blue_enchanted/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top2,filename=assets/byg/textures/block/blue_enchanted/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom2,filename=assets/byg/textures/block/blue_enchanted/door_bottom.png,xcount=1,ycount=1
@@ -586,8 +586,8 @@ texture:id=stripped_log3,filename=assets/byg/textures/block/bulbis/stripped_log.
 texture:id=stripped_log_top3,filename=assets/byg/textures/block/bulbis/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks3,filename=assets/byg/textures/block/bulbis/planks.png,xcount=1,ycount=1
 texture:id=bookshelf3,filename=assets/byg/textures/block/bulbis/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side3,filename=assets/byg/textures/block/bulbis/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front3,filename=assets/byg/textures/block/bulbis/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side3,filename=assets/byg/textures/block/bulbis/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top3,filename=assets/byg/textures/block/bulbis/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top3,filename=assets/byg/textures/block/bulbis/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom3,filename=assets/byg/textures/block/bulbis/door_bottom.png,xcount=1,ycount=1
@@ -598,8 +598,8 @@ texture:id=stripped_log4,filename=assets/byg/textures/block/cherry/stripped_log.
 texture:id=stripped_log_top4,filename=assets/byg/textures/block/cherry/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks4,filename=assets/byg/textures/block/cherry/planks.png,xcount=1,ycount=1
 texture:id=bookshelf4,filename=assets/byg/textures/block/cherry/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side4,filename=assets/byg/textures/block/cherry/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front4,filename=assets/byg/textures/block/cherry/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side4,filename=assets/byg/textures/block/cherry/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top4,filename=assets/byg/textures/block/cherry/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top4,filename=assets/byg/textures/block/cherry/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom4,filename=assets/byg/textures/block/cherry/door_bottom.png,xcount=1,ycount=1
@@ -612,8 +612,8 @@ texture:id=stripped_log5,filename=assets/byg/textures/block/cika/stripped_log.pn
 texture:id=stripped_log_top5,filename=assets/byg/textures/block/cika/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks5,filename=assets/byg/textures/block/cika/planks.png,xcount=1,ycount=1
 texture:id=bookshelf5,filename=assets/byg/textures/block/cika/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side5,filename=assets/byg/textures/block/cika/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front5,filename=assets/byg/textures/block/cika/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side5,filename=assets/byg/textures/block/cika/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top5,filename=assets/byg/textures/block/cika/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top5,filename=assets/byg/textures/block/cika/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom5,filename=assets/byg/textures/block/cika/door_bottom.png,xcount=1,ycount=1
@@ -626,8 +626,8 @@ texture:id=stripped_log6,filename=assets/byg/textures/block/cypress/stripped_log
 texture:id=stripped_log_top6,filename=assets/byg/textures/block/cypress/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks6,filename=assets/byg/textures/block/cypress/planks.png,xcount=1,ycount=1
 texture:id=bookshelf6,filename=assets/byg/textures/block/cypress/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side6,filename=assets/byg/textures/block/cypress/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front6,filename=assets/byg/textures/block/cypress/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side6,filename=assets/byg/textures/block/cypress/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top6,filename=assets/byg/textures/block/cypress/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top6,filename=assets/byg/textures/block/cypress/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom6,filename=assets/byg/textures/block/cypress/door_bottom.png,xcount=1,ycount=1
@@ -640,8 +640,8 @@ texture:id=stripped_log7,filename=assets/byg/textures/block/ebony/stripped_log.p
 texture:id=stripped_log_top7,filename=assets/byg/textures/block/ebony/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks7,filename=assets/byg/textures/block/ebony/planks.png,xcount=1,ycount=1
 texture:id=bookshelf7,filename=assets/byg/textures/block/ebony/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side7,filename=assets/byg/textures/block/ebony/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front7,filename=assets/byg/textures/block/ebony/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side7,filename=assets/byg/textures/block/ebony/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top7,filename=assets/byg/textures/block/ebony/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top7,filename=assets/byg/textures/block/ebony/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom7,filename=assets/byg/textures/block/ebony/door_bottom.png,xcount=1,ycount=1
@@ -653,8 +653,8 @@ texture:id=stripped_log8,filename=assets/byg/textures/block/ether/stripped_log.p
 texture:id=stripped_log_top8,filename=assets/byg/textures/block/ether/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks8,filename=assets/byg/textures/block/ether/planks.png,xcount=1,ycount=1
 texture:id=bookshelf8,filename=assets/byg/textures/block/ether/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side8,filename=assets/byg/textures/block/ether/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front8,filename=assets/byg/textures/block/ether/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side8,filename=assets/byg/textures/block/ether/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top8,filename=assets/byg/textures/block/ether/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top8,filename=assets/byg/textures/block/ether/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom8,filename=assets/byg/textures/block/ether/door_bottom.png,xcount=1,ycount=1
@@ -667,8 +667,8 @@ texture:id=stripped_log9,filename=assets/byg/textures/block/fir/stripped_log.png
 texture:id=stripped_log_top9,filename=assets/byg/textures/block/fir/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks9,filename=assets/byg/textures/block/fir/planks.png,xcount=1,ycount=1
 texture:id=bookshelf9,filename=assets/byg/textures/block/fir/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side9,filename=assets/byg/textures/block/fir/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front9,filename=assets/byg/textures/block/fir/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side9,filename=assets/byg/textures/block/fir/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top9,filename=assets/byg/textures/block/fir/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top9,filename=assets/byg/textures/block/fir/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom9,filename=assets/byg/textures/block/fir/door_bottom.png,xcount=1,ycount=1
@@ -681,8 +681,8 @@ texture:id=stripped_log_top10,filename=assets/byg/textures/block/green_enchanted
 texture:id=planks10,filename=assets/byg/textures/block/green_enchanted/planks.png,xcount=1,ycount=1
 texture:id=planks_top1,filename=assets/byg/textures/block/green_enchanted/planks_top.png,xcount=1,ycount=1
 texture:id=bookshelf10,filename=assets/byg/textures/block/green_enchanted/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side10,filename=assets/byg/textures/block/green_enchanted/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front10,filename=assets/byg/textures/block/green_enchanted/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side10,filename=assets/byg/textures/block/green_enchanted/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top10,filename=assets/byg/textures/block/green_enchanted/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top10,filename=assets/byg/textures/block/green_enchanted/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom10,filename=assets/byg/textures/block/green_enchanted/door_bottom.png,xcount=1,ycount=1
@@ -695,8 +695,8 @@ texture:id=stripped_log11,filename=assets/byg/textures/block/holly/stripped_log.
 texture:id=stripped_log_top11,filename=assets/byg/textures/block/holly/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks11,filename=assets/byg/textures/block/holly/planks.png,xcount=1,ycount=1
 texture:id=bookshelf11,filename=assets/byg/textures/block/holly/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side11,filename=assets/byg/textures/block/holly/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front11,filename=assets/byg/textures/block/holly/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side11,filename=assets/byg/textures/block/holly/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top11,filename=assets/byg/textures/block/holly/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top11,filename=assets/byg/textures/block/holly/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom11,filename=assets/byg/textures/block/holly/door_bottom.png,xcount=1,ycount=1
@@ -706,8 +706,8 @@ texture:id=log13,filename=assets/byg/textures/block/imparius/log.png,xcount=1,yc
 texture:id=log_top13,filename=assets/byg/textures/block/imparius/log_top.png,xcount=1,ycount=1
 texture:id=planks12,filename=assets/byg/textures/block/imparius/planks.png,xcount=1,ycount=1
 texture:id=bookshelf12,filename=assets/byg/textures/block/imparius/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side12,filename=assets/byg/textures/block/imparius/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front12,filename=assets/byg/textures/block/imparius/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side12,filename=assets/byg/textures/block/imparius/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top12,filename=assets/byg/textures/block/imparius/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top12,filename=assets/byg/textures/block/imparius/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom12,filename=assets/byg/textures/block/imparius/door_bottom.png,xcount=1,ycount=1
@@ -720,8 +720,8 @@ texture:id=stripped_log12,filename=assets/byg/textures/block/lament/stripped_log
 texture:id=stripped_log_top12,filename=assets/byg/textures/block/lament/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks13,filename=assets/byg/textures/block/lament/planks.png,xcount=1,ycount=1
 texture:id=bookshelf13,filename=assets/byg/textures/block/lament/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side13,filename=assets/byg/textures/block/lament/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front13,filename=assets/byg/textures/block/lament/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side13,filename=assets/byg/textures/block/lament/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top13,filename=assets/byg/textures/block/lament/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top13,filename=assets/byg/textures/block/lament/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom13,filename=assets/byg/textures/block/lament/door_bottom.png,xcount=1,ycount=1
@@ -734,8 +734,8 @@ texture:id=stripped_log13,filename=assets/byg/textures/block/jacaranda/stripped_
 texture:id=stripped_log_top13,filename=assets/byg/textures/block/jacaranda/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks14,filename=assets/byg/textures/block/jacaranda/planks.png,xcount=1,ycount=1
 texture:id=bookshelf14,filename=assets/byg/textures/block/jacaranda/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side14,filename=assets/byg/textures/block/jacaranda/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front14,filename=assets/byg/textures/block/jacaranda/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side14,filename=assets/byg/textures/block/jacaranda/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top14,filename=assets/byg/textures/block/jacaranda/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top14,filename=assets/byg/textures/block/jacaranda/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom14,filename=assets/byg/textures/block/jacaranda/door_bottom.png,xcount=1,ycount=1
@@ -748,8 +748,8 @@ texture:id=stripped_log14,filename=assets/byg/textures/block/mahogany/stripped_l
 texture:id=stripped_log_top14,filename=assets/byg/textures/block/mahogany/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks15,filename=assets/byg/textures/block/mahogany/planks.png,xcount=1,ycount=1
 texture:id=bookshelf15,filename=assets/byg/textures/block/mahogany/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side15,filename=assets/byg/textures/block/mahogany/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front15,filename=assets/byg/textures/block/mahogany/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side15,filename=assets/byg/textures/block/mahogany/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top15,filename=assets/byg/textures/block/mahogany/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top15,filename=assets/byg/textures/block/mahogany/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom15,filename=assets/byg/textures/block/mahogany/door_bottom.png,xcount=1,ycount=1
@@ -762,8 +762,8 @@ texture:id=stripped_log15,filename=assets/byg/textures/block/white_mangrove/stri
 texture:id=stripped_log_top15,filename=assets/byg/textures/block/white_mangrove/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks16,filename=assets/byg/textures/block/white_mangrove/planks.png,xcount=1,ycount=1
 texture:id=bookshelf16,filename=assets/byg/textures/block/white_mangrove/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side16,filename=assets/byg/textures/block/white_mangrove/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front16,filename=assets/byg/textures/block/white_mangrove/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side16,filename=assets/byg/textures/block/white_mangrove/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top16,filename=assets/byg/textures/block/white_mangrove/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top16,filename=assets/byg/textures/block/white_mangrove/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom16,filename=assets/byg/textures/block/white_mangrove/door_bottom.png,xcount=1,ycount=1
@@ -776,8 +776,8 @@ texture:id=stripped_log16,filename=assets/byg/textures/block/maple/stripped_log.
 texture:id=stripped_log_top16,filename=assets/byg/textures/block/maple/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks17,filename=assets/byg/textures/block/maple/planks.png,xcount=1,ycount=1
 texture:id=bookshelf17,filename=assets/byg/textures/block/maple/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side17,filename=assets/byg/textures/block/maple/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front17,filename=assets/byg/textures/block/maple/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side17,filename=assets/byg/textures/block/maple/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top17,filename=assets/byg/textures/block/maple/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top17,filename=assets/byg/textures/block/maple/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom17,filename=assets/byg/textures/block/maple/door_bottom.png,xcount=1,ycount=1
@@ -789,8 +789,8 @@ texture:id=stripped_log17,filename=assets/byg/textures/block/nightshade/stripped
 texture:id=stripped_log_top17,filename=assets/byg/textures/block/nightshade/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks18,filename=assets/byg/textures/block/nightshade/planks.png,xcount=1,ycount=1
 texture:id=bookshelf18,filename=assets/byg/textures/block/nightshade/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side18,filename=assets/byg/textures/block/nightshade/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front18,filename=assets/byg/textures/block/nightshade/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side18,filename=assets/byg/textures/block/nightshade/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top18,filename=assets/byg/textures/block/nightshade/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top18,filename=assets/byg/textures/block/nightshade/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom18,filename=assets/byg/textures/block/nightshade/door_bottom.png,xcount=1,ycount=1
@@ -803,8 +803,8 @@ texture:id=stripped_log18,filename=assets/byg/textures/block/palm/stripped_log.p
 texture:id=stripped_log_top18,filename=assets/byg/textures/block/palm/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks19,filename=assets/byg/textures/block/palm/planks.png,xcount=1,ycount=1
 texture:id=bookshelf19,filename=assets/byg/textures/block/palm/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side19,filename=assets/byg/textures/block/palm/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front19,filename=assets/byg/textures/block/palm/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side19,filename=assets/byg/textures/block/palm/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top19,filename=assets/byg/textures/block/palm/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top19,filename=assets/byg/textures/block/palm/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom19,filename=assets/byg/textures/block/palm/door_bottom.png,xcount=1,ycount=1
@@ -817,8 +817,8 @@ texture:id=stripped_log19,filename=assets/byg/textures/block/pine/stripped_log.p
 texture:id=stripped_log_top19,filename=assets/byg/textures/block/pine/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks20,filename=assets/byg/textures/block/pine/planks.png,xcount=1,ycount=1
 texture:id=bookshelf20,filename=assets/byg/textures/block/pine/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side20,filename=assets/byg/textures/block/pine/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front20,filename=assets/byg/textures/block/pine/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side20,filename=assets/byg/textures/block/pine/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top20,filename=assets/byg/textures/block/pine/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top20,filename=assets/byg/textures/block/pine/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom20,filename=assets/byg/textures/block/pine/door_bottom.png,xcount=1,ycount=1
@@ -831,8 +831,8 @@ texture:id=stripped_log20,filename=assets/byg/textures/block/rainbow_eucalyptus/
 texture:id=stripped_log_top20,filename=assets/byg/textures/block/rainbow_eucalyptus/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks21,filename=assets/byg/textures/block/rainbow_eucalyptus/planks.png,xcount=1,ycount=1
 texture:id=bookshelf21,filename=assets/byg/textures/block/rainbow_eucalyptus/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side21,filename=assets/byg/textures/block/rainbow_eucalyptus/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front21,filename=assets/byg/textures/block/rainbow_eucalyptus/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side21,filename=assets/byg/textures/block/rainbow_eucalyptus/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top21,filename=assets/byg/textures/block/rainbow_eucalyptus/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top21,filename=assets/byg/textures/block/rainbow_eucalyptus/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom21,filename=assets/byg/textures/block/rainbow_eucalyptus/door_bottom.png,xcount=1,ycount=1
@@ -845,8 +845,8 @@ texture:id=stripped_log21,filename=assets/byg/textures/block/redwood/stripped_lo
 texture:id=stripped_log_top21,filename=assets/byg/textures/block/redwood/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks22,filename=assets/byg/textures/block/redwood/planks.png,xcount=1,ycount=1
 texture:id=bookshelf22,filename=assets/byg/textures/block/redwood/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side22,filename=assets/byg/textures/block/redwood/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front22,filename=assets/byg/textures/block/redwood/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side22,filename=assets/byg/textures/block/redwood/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top22,filename=assets/byg/textures/block/redwood/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top22,filename=assets/byg/textures/block/redwood/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom22,filename=assets/byg/textures/block/redwood/door_bottom.png,xcount=1,ycount=1
@@ -859,8 +859,8 @@ texture:id=stripped_log22,filename=assets/byg/textures/block/skyris/stripped_log
 texture:id=stripped_log_top22,filename=assets/byg/textures/block/skyris/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks23,filename=assets/byg/textures/block/skyris/planks.png,xcount=1,ycount=1
 texture:id=bookshelf23,filename=assets/byg/textures/block/skyris/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side23,filename=assets/byg/textures/block/skyris/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front23,filename=assets/byg/textures/block/skyris/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side23,filename=assets/byg/textures/block/skyris/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top23,filename=assets/byg/textures/block/skyris/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top23,filename=assets/byg/textures/block/skyris/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom23,filename=assets/byg/textures/block/skyris/door_bottom.png,xcount=1,ycount=1
@@ -873,8 +873,8 @@ texture:id=stripped_log23,filename=assets/byg/textures/block/willow/stripped_log
 texture:id=stripped_log_top23,filename=assets/byg/textures/block/willow/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks24,filename=assets/byg/textures/block/willow/planks.png,xcount=1,ycount=1
 texture:id=bookshelf24,filename=assets/byg/textures/block/willow/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side24,filename=assets/byg/textures/block/willow/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front24,filename=assets/byg/textures/block/willow/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side24,filename=assets/byg/textures/block/willow/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top24,filename=assets/byg/textures/block/willow/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top24,filename=assets/byg/textures/block/willow/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom24,filename=assets/byg/textures/block/willow/door_bottom.png,xcount=1,ycount=1
@@ -887,8 +887,8 @@ texture:id=stripped_log24,filename=assets/byg/textures/block/witch_hazel/strippe
 texture:id=stripped_log_top24,filename=assets/byg/textures/block/witch_hazel/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks25,filename=assets/byg/textures/block/witch_hazel/planks.png,xcount=1,ycount=1
 texture:id=bookshelf25,filename=assets/byg/textures/block/witch_hazel/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side25,filename=assets/byg/textures/block/witch_hazel/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front25,filename=assets/byg/textures/block/witch_hazel/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side25,filename=assets/byg/textures/block/witch_hazel/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top25,filename=assets/byg/textures/block/witch_hazel/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top25,filename=assets/byg/textures/block/witch_hazel/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom25,filename=assets/byg/textures/block/witch_hazel/door_bottom.png,xcount=1,ycount=1
@@ -901,8 +901,8 @@ texture:id=stripped_log25,filename=assets/byg/textures/block/zelkova/stripped_lo
 texture:id=stripped_log_top25,filename=assets/byg/textures/block/zelkova/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks26,filename=assets/byg/textures/block/zelkova/planks.png,xcount=1,ycount=1
 texture:id=bookshelf26,filename=assets/byg/textures/block/zelkova/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side26,filename=assets/byg/textures/block/zelkova/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front26,filename=assets/byg/textures/block/zelkova/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side26,filename=assets/byg/textures/block/zelkova/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top26,filename=assets/byg/textures/block/zelkova/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top26,filename=assets/byg/textures/block/zelkova/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom26,filename=assets/byg/textures/block/zelkova/door_bottom.png,xcount=1,ycount=1
@@ -916,8 +916,8 @@ texture:id=stripped_log26,filename=assets/byg/textures/block/sythian/stripped_lo
 texture:id=stripped_log_top26,filename=assets/byg/textures/block/sythian/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks27,filename=assets/byg/textures/block/sythian/planks.png,xcount=1,ycount=1
 texture:id=bookshelf27,filename=assets/byg/textures/block/sythian/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side27,filename=assets/byg/textures/block/sythian/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front27,filename=assets/byg/textures/block/sythian/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side27,filename=assets/byg/textures/block/sythian/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top27,filename=assets/byg/textures/block/sythian/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top27,filename=assets/byg/textures/block/sythian/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom27,filename=assets/byg/textures/block/sythian/door_bottom.png,xcount=1,ycount=1
@@ -929,8 +929,8 @@ texture:id=stripped_log27,filename=assets/byg/textures/block/embur/stripped_log.
 texture:id=stripped_log_top27,filename=assets/byg/textures/block/embur/stripped_log_top.png,xcount=1,ycount=1
 texture:id=planks28,filename=assets/byg/textures/block/embur/planks.png,xcount=1,ycount=1
 texture:id=bookshelf28,filename=assets/byg/textures/block/embur/bookshelf.png,xcount=1,ycount=1
-texture:id=crafting_table_side28,filename=assets/byg/textures/block/embur/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_front28,filename=assets/byg/textures/block/embur/crafting_table_front.png,xcount=1,ycount=1
+texture:id=crafting_table_side28,filename=assets/byg/textures/block/embur/crafting_table_side.png,xcount=1,ycount=1
 texture:id=crafting_table_top28,filename=assets/byg/textures/block/embur/crafting_table_top.png,xcount=1,ycount=1
 texture:id=door_top28,filename=assets/byg/textures/block/embur/door_top.png,xcount=1,ycount=1
 texture:id=door_bottom28,filename=assets/byg/textures/block/embur/door_bottom.png,xcount=1,ycount=1
@@ -9321,7 +9321,7 @@ block:id=%potted_alpine_bellflower,patch0=0:flower_pot,patch1=0:dirt,patch2=0:al
 block:id=%angelica,patch0=0:angelica,transparency=TRANSPARENT,stdrot=true
 block:id=%potted_angelica,patch0=0:flower_pot,patch1=0:dirt,patch2=0:angelica,transparency=TRANSPARENT,stdrot=true
 block:id=%barrel_cactus,patch0=0:cactus_bottom,patch1=0:cactus_inside_bottom,patch2=0:cactus_top,patch3=0:cactus_spike_overlay,patch4=0:cactus_side,patch5=0:cactus_inside,transparency=TRANSPARENT,stdrot=true
-block:id=%flowering_barrel_cactus,patch0=0:cactus_flower,patch1=0:cactus_bottom,patch2=0:cactus_inside_bottom,patch3=0:cactus_top,patch4=0:cactus_spike_overlay,patch5=0:cactus_flowering_spike_overlay,patch6=0:cactus_side,patch7=0:cactus_inside,transparency=TRANSPARENT,stdrot=true
+block:id=%flowering_barrel_cactus,patch0=0:cactus_flower,patch1=0:cactus_bottom,patch2=0:cactus_inside_bottom,patch3=0:cactus_top,patch4=0:cactus_flowering_spike_overlay,patch5=0:cactus_spike_overlay,patch6=0:cactus_side,patch7=0:cactus_inside,transparency=TRANSPARENT,stdrot=true
 block:id=%carved_barrel_cactus,patch0=0:cactus_bottom,patch1=0:cactus_inside_bottom,patch2=0:cactus_spike_overlay,patch3=0:cactus_side,patch4=0:cactus_inside,transparency=TRANSPARENT,stdrot=true
 block:id=%water_barrel_cactus,patch0=2000:water_still,patch1=0:cactus_bottom,patch2=0:cactus_inside_bottom,patch3=0:cactus_spike_overlay,patch4=0:cactus_side,patch5=0:cactus_inside,transparency=TRANSPARENT,stdrot=true
 block:id=%honey_barrel_cactus,patch0=0:honey_block_top,patch1=0:cactus_bottom,patch2=0:cactus_inside_bottom,patch3=0:cactus_spike_overlay,patch4=0:cactus_side,patch5=0:cactus_inside,transparency=TRANSPARENT,stdrot=true

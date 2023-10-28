@@ -1,4 +1,4 @@
 {"currentcount": 0,"hasStorm": false,"players": []
-,"isThundering": false,"confighash": 1374157992,"servertime": 19564,"updates": [{"msg": "markerupdated","x": 0.00,"y": 100.00,"z": 0.00,"id": "_spawn_witherstormmod_bowels","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": null,"dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1697956192675}
+,"isThundering": false,"confighash": 1467255338,"servertime": 13185,"updates": [{"msg": "markerupdated","x": 0.00,"y": 100.00,"z": 0.00,"id": "_spawn_witherstormmod_bowels","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": null,"dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1698025116667}
 ]
-,"timestamp": 1697956196075}
+,"timestamp": 1698025117468}

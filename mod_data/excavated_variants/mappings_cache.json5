@@ -20,9 +20,9 @@
 			"byg:brimstone_nether_gold_ore",
 		],
 		"redstone_ore": [
+			"byg:cryptic_redstone_ore",
 			"minecraft:deepslate_redstone_ore",
 			"minecraft:redstone_ore",
-			"byg:cryptic_redstone_ore",
 		],
 		"diamond_ore": [
 			"minecraft:diamond_ore",
