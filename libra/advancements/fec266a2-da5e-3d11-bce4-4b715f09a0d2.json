@@ -107,12 +107,6 @@
     },
     "done": true
   },
-  "mt:entity_hit_system/on_hurt": {
-    "criteria": {
-      "target": "2023-10-08 15:46:37 -0700"
-    },
-    "done": false
-  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2023-10-08 16:20:30 -0700"
@@ -313,6 +307,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2023-12-04 01:23:05 -0700",
       "cooked_beef": "2023-10-08 16:40:21 -0700",
       "apple": "2023-10-08 15:58:18 -0700",
       "bread": "2023-10-08 15:44:16 -0700",
@@ -378,6 +373,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2023-10-08 17:02:27 -0700"
+    },
+    "done": true
+  },
+  "mt:treasure_advancements/root": {
+    "criteria": {
+      "obtainchest": "2023-12-04 01:11:51 -0700"
     },
     "done": true
   },
@@ -492,12 +493,6 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2023-10-08 15:49:02 -0700"
-    },
-    "done": true
-  },
-  "bob:bob": {
-    "criteria": {
-      "trigger": "2023-10-08 15:32:22 -0700"
     },
     "done": true
   },
@@ -757,6 +752,7 @@
     "criteria": {
       "minecraft:skeleton": "2023-10-08 16:09:59 -0700",
       "minecraft:spider": "2023-10-08 16:21:41 -0700",
+      "minecraft:zombified_piglin": "2023-12-04 01:21:12 -0700",
       "minecraft:husk": "2023-10-08 17:34:31 -0700",
       "minecraft:cave_spider": "2023-10-08 16:28:08 -0700",
       "minecraft:zombie": "2023-10-08 16:09:54 -0700",
@@ -926,6 +922,12 @@
     },
     "done": true
   },
+  "mt:treasure_advancements/first_common_treasure": {
+    "criteria": {
+      "obtainchest": "2023-12-04 01:11:51 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2023-10-08 17:02:27 -0700"
@@ -1022,13 +1024,6 @@
     },
     "done": true
   },
-  "mt:entity_hit_system/on_hit": {
-    "criteria": {
-      "not_target": "2023-10-08 15:59:15 -0700",
-      "target": "2023-10-08 15:36:34 -0700"
-    },
-    "done": false
-  },
   "smithed.damage:v0.1.0/player/event": {
     "criteria": {
       "is_magic": "2023-10-08 15:37:36 -0700",
@@ -1108,12 +1103,6 @@
   "global:tayacrystals": {
     "criteria": {
       "trigger": "2023-10-08 15:32:22 -0700"
-    },
-    "done": true
-  },
-  "vanilla_refresh:death/explosion": {
-    "criteria": {
-      "requirement": "2023-10-08 16:00:23 -0700"
     },
     "done": true
   },
@@ -1427,6 +1416,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/root": {
+    "criteria": {
+      "c1": "2023-12-04 01:11:51 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2023-10-08 16:20:22 -0700"
@@ -1436,12 +1431,6 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2023-10-08 15:41:34 -0700"
-    },
-    "done": true
-  },
-  "global:hako": {
-    "criteria": {
-      "trigger": "2023-10-08 15:32:22 -0700"
     },
     "done": true
   },
@@ -1577,12 +1566,6 @@
     },
     "done": true
   },
-  "toolleveling:recipes/tool_leveling_table": {
-    "criteria": {
-      "has_enchanting_table": "2023-10-08 15:39:47 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2023-10-08 16:06:17 -0700"
@@ -1649,15 +1632,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2023-10-08 17:02:27 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2023-10-08 16:57:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-10-08 17:02:27 -0700"
     },
     "done": true
   },
